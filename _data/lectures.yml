@@ -5,8 +5,8 @@
     lecture: "Introduktion"
     number: "01"
     slug: lecture_01
-    start-time: 08:30
-    end-time: 16:30
+    start-time: "08:30"
+    end-time: "16:30"
     location: Physical
     length: 420
     filename: Untitled
@@ -16,8 +16,8 @@
     lecture: "Workshop, team 1"
     number: "W1"
     slug: workshop
-    start-time: 08:30
-    end-time: 16:30
+    start-time: "08:30"
+    end-time: "16:30"
     length: 420
     filename: Untitled
     dirname: untitled-lecture
@@ -26,8 +26,8 @@
     lecture: "Workshop, team 2"
     number: "W2"
     slug: workshop
-    start-time: 08:30
-    end-time: 16:30
+    start-time: "08:30"
+    end-time: "16:30"
     length: 420
     filename: Untitled
     dirname: untitled-lecture
@@ -36,8 +36,8 @@
     lecture: "Workshop, team 3"
     number: "W3"
     slug: workshop
-    start-time: 08:30
-    end-time: 16:30
+    start-time: "08:30"
+    end-time: "16:30"
     length: 420
     filename: Untitled
     dirname: untitled-lecture
@@ -46,8 +46,8 @@
     lecture: "Workshop, team 4"
     number: "W4"
     slug: workshop
-    start-time: 08:30
-    end-time: 16:30
+    start-time: "08:30"
+    end-time: "16:30"
     length: 420
     filename: Untitled
     dirname: untitled-lecture
@@ -59,8 +59,8 @@
     lecture: "Lektion 2"
     number: "02"
     slug: lecture_02
-    start-time: 08:30
-    end-time: 15:30
+    start-time: "08:30"
+    end-time: "15:30"
     length: 360
     filename: Untitled
     dirname: untitled-lecture
@@ -69,8 +69,8 @@
     lecture: "Standup 51-1"
     number: "03"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -79,8 +79,8 @@
     lecture: "Standup 51-2"
     number: "04"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -89,8 +89,8 @@
     lecture: "Standup 51-3"
     number: "05"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -99,8 +99,8 @@
     lecture: "Standup 51-4"
     number: "06"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -112,8 +112,8 @@
     lecture: "Lektion 3"
     number: "07"
     slug: lecture_03
-    start-time: 08:30
-    end-time: 15:30
+    start-time: "08:30"
+    end-time: "15:30"
     length: 360
     filename: Untitled
     dirname: untitled-lecture
@@ -122,8 +122,8 @@
     lecture: "Standup 52-1"
     number: "08"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -132,8 +132,8 @@
     lecture: "Standup 52-2"
     number: "09"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -149,8 +149,8 @@
     lecture: "Lektion 4"
     number: "10"
     slug: lecture_04
-    start-time: 08:30
-    end-time: 15:30
+    start-time: "08:30"
+    end-time: "15:30"
     length: 360
     filename: Untitled
     dirname: untitled-lecture
@@ -159,8 +159,8 @@
     lecture: "Standup 53-1"
     number: "11"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -169,8 +169,8 @@
     lecture: "Standup 53-2"
     number: "12"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -186,8 +186,8 @@
     lecture: "Lektion 5"
     number: "13"
     slug: lecture_05
-    start-time: 08:30
-    end-time: 15:30
+    start-time: "08:30"
+    end-time: "15:30"
     length: 360
     filename: Untitled
     dirname: untitled-lecture
@@ -196,8 +196,8 @@
     lecture: "Standup 1-1"
     number: "14"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -208,8 +208,8 @@
     lecture: "Standup 1-2"
     number: "15"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -218,8 +218,8 @@
     lecture: "Standup 1-3"
     number: "16"
     slug: standup  
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -231,8 +231,8 @@
     lecture: "Lektion 6"
     number: "17"
     slug: lecture_06
-    start-time: 08:30
-    end-time: 15:30
+    start-time: "08:30"
+    end-time: "15:30"
     length: 360
     filename: Untitled
     dirname: untitled-lecture
@@ -241,8 +241,8 @@
     lecture: "Standup 2-1"
     number: "18"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -251,8 +251,8 @@
     lecture: "Standup 2-2"
     number: "19"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -261,8 +261,8 @@
     lecture: "Standup 2-3"
     number: "20"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -271,8 +271,8 @@
     lecture: "Standup 2-4"
     number: "21"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -284,8 +284,8 @@
     lecture: "Lektion 7"
     number: "22"
     slug: lecture_07
-    start-time: 08:30
-    end-time: 15:30
+    start-time: "08:30"
+    end-time: "15:30"
     length: 360
     filename: Untitled
     dirname: untitled-lecture
@@ -294,8 +294,8 @@
     lecture: "Standup 3-1"
     number: "23"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -304,8 +304,8 @@
     lecture: "Standup 3-2"
     number: "24"
     slug: standup
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -314,8 +314,8 @@
     lecture: "Presentation"
     number: "P"
     slug: presenation
-    start-time: 08:30
-    end-time: 11:00
+    start-time: "08:30"
+    end-time: "11:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
@@ -324,8 +324,8 @@
     lecture: "Salstenta"
     number: "T"
     slug: tenta
-    start-time: 09:00
-    end-time: 13:00
+    start-time: "09:00"
+    end-time: "13:00"
     length: 150
     filename: Untitled
     dirname: untitled-lecture
