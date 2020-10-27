@@ -18,11 +18,11 @@ Week|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 
 
 
-
+## Alla lektioner
 <ul id="archive">
 {% for lecture in site.data.lectures %}
       <li class="archiveposturl">
-        <span><a href="{{ lecture.slug }}">{{ lecture.title }}</a></span><br>
+        <span>{{lecture.date}} <a href="{{ lecture.slug }}">{{ lecture.title }}</a></span><br>
 <span class = "postlower">{{ lecture.description }}</span>
 <strong style="font-size:100%; font-family: 'Titillium Web', sans-serif; float:right; padding-right: .5em">
 	<a href="https://github.com/{{ site.githubdir}}/tree/master/{{ lecture.dirname }}"><i class="fab fa-github"></i></a>&nbsp;&nbsp;

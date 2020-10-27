@@ -1,6 +1,9 @@
 - title: "Introduktion"
   slug: lecture_01
-  date: 2020-12-07 08:30
+  date: 2020-12-07
+  start-time: 08:30
+  end-time: 16:30
+  location: Physical
   length: 420
   filename: Untitled
   dirname: untitled-lecture
