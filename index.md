@@ -3,8 +3,8 @@ layout: default
 title: Welcome to course site
 ---
 
-# {{ site.subtitle }}
+![Getting better at software development](/_images/craftmanship.jpg)
 
-![Add a snappy caption to your lead image to reach your kid](/_images/stand-and-deliver-crop.jpg)
-
-{{ site.description }}
+För att kunna jobba som systemutvecklare, räcker det inte att enbart känna till hur man skriver kod och dom verktyg man använder, 
+man måste också ha en djup kunskap om dom processor och verktyg som man använder båda utvecklingsprocessen 
+och hur man leverera mjukvaror till slut användaren.
