@@ -11,7 +11,9 @@
   week: 50
 - title: "Workshop, team 1"
   slug: workshop
-  date: 2020-12-08 08:30
+  date: 2020-12-08
+  start-time: 08:30
+  end-time: 16:30
   length: 420
   filename: Untitled
   dirname: untitled-lecture
@@ -19,7 +21,9 @@
   week: 50
 - title: "Workshop, team 2"
   slug: workshop
-  date: 2020-12-09 08:30
+  date: 2020-12-09
+  start-time: 08:30
+  end-time: 16:30
   length: 420
   filename: Untitled
   dirname: untitled-lecture
@@ -27,7 +31,9 @@
   week: 50
 - title: "Workshop, team 3"
   slug: workshop
-  date: 2020-12-10 08:30
+  date: 2020-12-10
+  start-time: 08:30
+  end-time: 16:30
   length: 420
   filename: Untitled
   dirname: untitled-lecture
@@ -35,7 +41,9 @@
   week: 50
 - title: "Workshop, team 4"
   slug: workshop
-  date: 2020-12-11 08:30
+  date: 2020-12-11
+  start-time: 08:30
+  end-time: 16:30
   length: 420
   filename: Untitled
   dirname: untitled-lecture
@@ -43,7 +51,9 @@
   week: 50
 - title: "Lektion 2"
   slug: lecture_02
-  date: 2020-12-14 08:30
+  date: 2020-12-14
+  start-time: 08:30
+  end-time: 15:30
   length: 360
   filename: Untitled
   dirname: untitled-lecture
@@ -51,7 +61,9 @@
   week: 51
 - title: "Standup 51-1"
   slug: standup
-  date: 2020-12-15 08:30
+  date: 2020-12-15
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -59,7 +71,9 @@
   week: 51
 - title: "Standup 51-2"
   slug: standup
-  date: 2020-12-16 08:30
+  date: 2020-12-16
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -67,7 +81,9 @@
   week: 51
 - title: "Standup 51-3"
   slug: standup
-  date: 2020-12-17 08:30
+  date: 2020-12-17
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -75,7 +91,9 @@
   week: 51
 - title: "Standup 51-4"
   slug: standup
-  date: 2020-12-18 08:30
+  date: 2020-12-18
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -83,7 +101,9 @@
   week: 51
 - title: "Lektion 3"
   slug: lecture_03
-  date: 2020-12-21 08:30
+  date: 2020-12-21
+  start-time: 08:30
+  end-time: 15:30
   length: 360
   filename: Untitled
   dirname: untitled-lecture
@@ -91,7 +111,9 @@
   week: 52
 - title: "Standup 52-1"
   slug: standup
-  date: 2020-12-22 08:30
+  date: 2020-12-22
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -99,7 +121,9 @@
   week: 52
 - title: "Standup 52-2"
   slug: standup
-  date: 2020-12-23 08:30
+  date: 2020-12-23
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -107,7 +131,9 @@
   week: 52
 - title: "Lektion 4"
   slug: lecture_04
-  date: 2020-12-28 08:30
+  date: 2020-12-28
+  start-time: 08:30
+  end-time: 15:30
   length: 360
   filename: Untitled
   dirname: untitled-lecture
@@ -115,7 +141,9 @@
   week: 53
 - title: "Standup 53-1"
   slug: standup
-  date: 2020-12-29 08:30
+  date: 2020-12-29
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -123,7 +151,9 @@
   week: 53
 - title: "Standup 53-2"
   slug: standup
-  date: 2020-12-30 08:30
+  date: 2020-12-30
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -131,7 +161,9 @@
   week: 53
 - title: "Lektion 5"
   slug: lecture_05
-  date: 2021-01-04 08:30
+  date: 2021-01-04
+  start-time: 08:30
+  end-time: 15:30
   length: 360
   filename: Untitled
   dirname: untitled-lecture
@@ -139,7 +171,9 @@
   week: 01
 - title: "Standup 1-1"
   slug: standup
-  date: 2021-01-05 08:30
+  date: 2021-01-05
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -147,7 +181,9 @@
   week: 01
 - title: "Standup 1-2"
   slug: standup
-  date: 2021-01-07 08:30
+  date: 2021-01-07
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -155,7 +191,9 @@
   week: 01
 - title: "Standup 1-3"
   slug: standup
-  date: 2021-01-08 08:30
+  date: 2021-01-08
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -163,7 +201,9 @@
   week: 01
 - title: "Lektion 6"
   slug: lecture_06
-  date: 2021-01-11 08:30
+  date: 2021-01-11
+  start-time: 08:30
+  end-time: 15:30
   length: 360
   filename: Untitled
   dirname: untitled-lecture
@@ -171,7 +211,9 @@
   week: 02
 - title: "Standup 2-1"
   slug: standup
-  date: 2021-01-12 08:30
+  date: 2021-01-12
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -179,7 +221,9 @@
   week: 02
 - title: "Standup 2-2"
   slug: standup
-  date: 2021-01-13 08:30
+  date: 2021-01-13
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -187,7 +231,9 @@
   week: 02
 - title: "Standup 2-3"
   slug: standup
-  date: 2021-01-14 08:30
+  date: 2021-01-14
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -195,7 +241,9 @@
   week: 02
 - title: "Standup 2-4"
   slug: standup
-  date: 2021-01-15 08:30
+  date: 2021-01-15
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -203,7 +251,9 @@
   week: 02
 - title: "Lektion 7"
   slug: lecture_07
-  date: 2021-01-18 08:30
+  date: 2021-01-18
+  start-time: 08:30
+  end-time: 15:30
   length: 360
   filename: Untitled
   dirname: untitled-lecture
@@ -211,7 +261,9 @@
   week: 03
 - title: "Standup 3-1"
   slug: standup
-  date: 2021-01-19 08:30
+  date: 2021-01-19
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -219,7 +271,9 @@
   week: 03
 - title: "Standup 3-2"
   slug: standup
-  date: 2021-01-20 08:30
+  date: 2021-01-20
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -227,7 +281,9 @@
   week: 03
 - title: "Presentation"
   slug: presenation
-  date: 2021-01-21 08:30
+  date: 2021-01-21
+  start-time: 08:30
+  end-time: 11:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
@@ -235,7 +291,9 @@
   week: 03
 - title: "Salstenta"
   slug: tenta
-  date: 2021-01-22 08:30
+  date: 2021-01-22
+  start-time: 09:00
+  end-time: 13:00
   length: 150
   filename: Untitled
   dirname: untitled-lecture
