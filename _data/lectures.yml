@@ -1,0 +1,14 @@
+- title: "Sample lecture 1"
+  slug: lecture_01
+  date: 2020-10-15 08:30
+  length: 300
+  filename: Untitled
+  dirname: untitled-lecture
+  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
+- title: "Sample lecture 2"
+  slug: lecture_02
+  date: 2020-10-16 08:30
+  length: 200
+  filename: Untitled
+  dirname: untitled-lecture
+  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
