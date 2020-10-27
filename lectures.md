@@ -6,7 +6,7 @@ permalink: /lectures/
 
 Start: {{ site.course-start}}, slut: {{ site.course-end}}
 
-Week|Måndag|Tisdag |Onsdag |Torsdag|Fredag
+Vecka|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 -----|-------|-------|------|------|------
 50|01: 2020-12-07<br />[Lecture 1](lecture_01)<br />8:30 - 15:30|[Workshop](workshop)<br />Team 1|Workshop<br />Team 2|Workshop<br />Team 3|Workshop<br />Team 4
 51|02: 2020-12-14<br />[Lecture 2](lecture_02)<br />8:30 - 15:30|Standup|Standup|Standup|Standup

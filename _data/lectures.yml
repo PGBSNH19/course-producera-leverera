@@ -209,7 +209,7 @@
   dirname: untitled-lecture
   description: "Lektion 7"
   week: 03
-- title: "Standup 2-1"
+- title: "Standup 3-1"
   slug: standup
   date: 2021-01-19 08:30
   length: 150
@@ -217,7 +217,7 @@
   dirname: untitled-lecture
   description: "Daily standup 2021-01-19"
   week: 03
-- title: "Standup 2-2"
+- title: "Standup 3-2"
   slug: standup
   date: 2021-01-20 08:30
   length: 150
