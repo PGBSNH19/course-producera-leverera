@@ -5,7 +5,7 @@ description: |
     För att kunna jobba som systemutvecklare, räcker det inte att enbart känna till hur man skriver kod och dom verktyg man använder, 
     man måste också ha en djup kunskap om dom processor och verktyg som man använder båda utvecklingsprocessen 
     och hur man leverera mjukvaror till slut användaren.
-baseurl: "" # the subpath of your site, e.g. /blog/
+baseurl: "/course-producera-leverera" # the subpath of your site, e.g. /blog/
 url: "http://PGBSNH19.github.io/course-producera-leverera" # the base hostname & protocol for your site
 githubdir: "PGBSNH19/course-producera-leverera"
 lms-name: Ping Ping
