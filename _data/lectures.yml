@@ -4,46 +4,46 @@
   length: 300
   filename: Untitled
   dirname: untitled-lecture
-  tldr: "Introduktion till kursen"
+  description: "Introduktion till kursen"
 - title: "Workshop, team 1"
   slug: workshop
   date: 2020-12-08 08:30
   length: 200
   filename: Untitled
   dirname: untitled-lecture
-  tldr: "Workshop för team 2"
+  description: "Workshop för team 2"
 - title: "Workshop, team 2"
   slug: workshop
   date: 2020-12-09 08:30
   length: 200
   filename: Untitled
   dirname: untitled-lecture
-  tldr: "Workshop för team 2"
+  description: "Workshop för team 2"
 - title: "Workshop, team 3"
   slug: workshop
   date: 2020-12-10 08:30
   length: 200
   filename: Untitled
   dirname: untitled-lecture
-  tldr: "Workshop för team 3"
+  description: "Workshop för team 3"
 - title: "Workshop, team 4"
   slug: workshop
   date: 2020-12-11 08:30
   length: 200
   filename: Untitled
   dirname: untitled-lecture
-  tldr: "Workshop för team 4"
+  description: "Workshop för team 4"
 - title: "Lektion 2"
   slug: lecture_02
   date: 2020-12-14 08:30
   length: 300
   filename: Untitled
   dirname: untitled-lecture
-  tldr: "Introduktion till kursen"
+  description: "Introduktion till kursen"
 - title: "Standup"
   slug: standup
   date: 2020-12-15 08:30
   length: 150
   filename: Untitled
   dirname: untitled-lecture
-  tldr: "Daily standup"
+  description: "Daily standup"
