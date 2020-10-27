@@ -10,7 +10,8 @@ End: {{ site.course-end}}
 
 Week|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 -----|-------|-------|------|------|------
-xx|01: 2020-08-31<br />[Lecture 1](lecture_01)<br />8:30 - 16:30|        |02: 2020-09-02<br />[Lecture 2](lecture_02)<br />8:30 - 16:30||
+50|01: 2020-12-07<br />[Lecture 1](lecture_01)<br />8:30 - 15:30|Workshop<br />Team 1|Workshop<br />Team 2|Workshop<br />Team 3|Workshop<br />Team 4
+51|01: 2020-12-14<br />[Lecture 2](lecture_02)<br />8:30 - 15:30|Standup|Standup|Standup|Standup
 
 
 This page contains link to the lectures I give throughout the semester.

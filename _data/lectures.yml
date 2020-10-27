@@ -1,14 +1,49 @@
-- title: "Sample lecture 1"
+- title: "Introduktion"
   slug: lecture_01
-  date: 2020-10-15 08:30
+  date: 2020-12-07 08:30
   length: 300
   filename: Untitled
   dirname: untitled-lecture
-  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
-- title: "Sample lecture 2"
-  slug: lecture_02
-  date: 2020-10-16 08:30
+  tldr: "Introduktion till kursen"
+- title: "Workshop, team 1"
+  slug: workshop
+  date: 2020-12-08 08:30
   length: 200
   filename: Untitled
   dirname: untitled-lecture
-  tldr: "This is just a sample .rmd file to illustrate the use of the lectures.yml file."
+  tldr: "Workshop för team 2"
+- title: "Workshop, team 2"
+  slug: workshop
+  date: 2020-12-09 08:30
+  length: 200
+  filename: Untitled
+  dirname: untitled-lecture
+  tldr: "Workshop för team 2"
+- title: "Workshop, team 3"
+  slug: workshop
+  date: 2020-12-10 08:30
+  length: 200
+  filename: Untitled
+  dirname: untitled-lecture
+  tldr: "Workshop för team 3"
+- title: "Workshop, team 4"
+  slug: workshop
+  date: 2020-12-11 08:30
+  length: 200
+  filename: Untitled
+  dirname: untitled-lecture
+  tldr: "Workshop för team 4"
+- title: "Lektion 2"
+  slug: lecture_02
+  date: 2020-12-14 08:30
+  length: 300
+  filename: Untitled
+  dirname: untitled-lecture
+  tldr: "Introduktion till kursen"
+- title: "Standup"
+  slug: standup
+  date: 2020-12-15 08:30
+  length: 150
+  filename: Untitled
+  dirname: untitled-lecture
+  tldr: "Daily standup"
