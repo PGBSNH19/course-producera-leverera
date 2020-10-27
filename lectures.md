@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lectures
+title: Lektioner
 permalink: /lectures/
 ---
 
@@ -9,7 +9,13 @@ Start: {{ site.course-start}}, slut: {{ site.course-end}}
 Week|Måndag|Tisdag |Onsdag |Torsdag|Fredag
 -----|-------|-------|------|------|------
 50|01: 2020-12-07<br />[Lecture 1](lecture_01)<br />8:30 - 15:30|[Workshop](workshop)<br />Team 1|Workshop<br />Team 2|Workshop<br />Team 3|Workshop<br />Team 4
-51|01: 2020-12-14<br />[Lecture 2](lecture_02)<br />8:30 - 15:30|Standup|Standup|Standup|Standup
+51|02: 2020-12-14<br />[Lecture 2](lecture_02)<br />8:30 - 15:30|Standup|Standup|Standup|Standup
+52|01: 2020-12-21<br />[Lecture 3](lecture_03)<br />8:30 - 15:30|Standup|Standup||
+53|01: 2020-12-28<br />[Lecture 4](lecture_04)<br />8:30 - 15:30|Standup|Standup||
+01|01: 2021-01-04<br />[Lecture 5](lecture_05)<br />8:30 - 15:30|Standup||Standup|Standup
+02|01: 2021-01-11<br />[Lecture 6](lecture_06)<br />8:30 - 15:30|Standup|Standup|Standup|Standup
+03|01: 2021-01-18<br />[Lecture 7](lecture_07)<br />8:30 - 15:30|Standup|Standup|Presentation|Tenta
+
 
 
 
