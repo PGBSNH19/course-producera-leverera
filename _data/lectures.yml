@@ -2,7 +2,7 @@
   year: 2020
   days:
   - day: 2020-12-07
-    lecture: "Introduktion"
+    lecture: "Introduktion + Livscykel"
     number: "L1"
     slug: lecture_01
     start-time: "08:30"
@@ -56,7 +56,7 @@
   year: 2020
   days:
   - day: 2020-12-14
-    lecture: "Lektion 2"
+    lecture: "Mänskor och kultur"
     number: "L2"
     slug: lecture_02
     start-time: "08:30"
@@ -64,7 +64,7 @@
     length: 360
     filename: Untitled
     dirname: untitled-lecture
-    description: "Lektion 2"
+    description: "UX, att jobba i ett team"
   - day : 2020-12-15
     lecture: "Standup"
     number: "S1"
@@ -109,7 +109,7 @@
   year: 2020
   days:
   - day: 2020-12-21
-    lecture: "Lektion 3"
+    lecture: "Projekter och release"
     number: "L3"
     slug: lecture_03
     start-time: "08:30"
@@ -117,7 +117,7 @@
     length: 360
     filename: Untitled
     dirname: untitled-lecture
-    description: "Lektion 3"
+    description: "Estimering, CI/CD, Feature toggling"
   - day: 2020-12-22
     lecture: "Standup"
     number: "S5"
@@ -146,7 +146,7 @@
   year: 2020
   days:
   - day: 2020-12-28
-    lecture: "Lektion 4"
+    lecture: "Dokumentation"
     number: "L4"
     slug: lecture_04
     start-time: "08:30"
@@ -154,7 +154,7 @@
     length: 360
     filename: Untitled
     dirname: untitled-lecture
-    description: "Lektion 4"
+    description: "Hur man kan dokumentera och utvecklingsmiljö"
   - day: 2020-12-29
     lecture: "Standup"
     number: "S7"
@@ -183,7 +183,7 @@
   year: 2021
   days:
   - day: 2021-01-04
-    lecture: "Lektion 5"
+    lecture: "Kod kvalitet"
     number: "L5"
     slug: lecture_05
     start-time: "08:30"
@@ -191,7 +191,7 @@
     length: 360
     filename: Untitled
     dirname: untitled-lecture
-    description: "Lektion 5"
+    description: "Clean code, automatisk tests, linting"
   - day: 2021-01-05
     lecture: "Standup"
     number: "S9"
@@ -228,7 +228,7 @@
   year: 2021
   days:
   - day: 2021-01-11
-    lecture: "Lektion 6"
+    lecture: "Utvecklingsstrategier"
     number: "L6"
     slug: lecture_06
     start-time: "08:30"
@@ -236,7 +236,7 @@
     length: 360
     filename: Untitled
     dirname: untitled-lecture
-    description: "Lektion 6"
+    description: "TDD, BDD, Privacy by design"
   - day: 2021-01-12
     lecture: "Standup"
     number: "S12"
@@ -281,7 +281,7 @@
   year: 2021
   days:
   - day: 2021-01-18
-    lecture: "Lektion 7"
+    lecture: "Produkt"
     number: "L7"
     slug: lecture_07
     start-time: "08:30"
@@ -289,7 +289,7 @@
     length: 360
     filename: Untitled
     dirname: untitled-lecture
-    description: "Lektion 7"
+    description: "Licenser, Open Source, Startup"
   - day: 2021-01-19
     lecture: "Standup"
     number: "S16"
@@ -311,7 +311,7 @@
     dirname: untitled-lecture
     description: "Daily standup 2021-01-20"
   - day: 2021-01-21
-    lecture: "Presentation"
+    lecture: "Presentation + Avslutnign"
     number: "P"
     slug: presenation
     start-time: "08:30"
