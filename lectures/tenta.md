@@ -4,4 +4,6 @@ title: Daily standup
 permalink: /lectures/tenta
 ---
 
-Salstenta
+4 timmer
+
+Alla hjälmedel kommer att vara tilåten
