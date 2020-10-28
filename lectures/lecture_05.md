@@ -6,7 +6,7 @@ permalink: /lectures/lecture_05
 
 Lektion 5 av 7, måndag den 4:e januari 2021
 
-![Draft](/_images/draft.png)
+![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
 **Draft status**:
 

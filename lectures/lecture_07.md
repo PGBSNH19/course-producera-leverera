@@ -8,7 +8,7 @@ permalink: /lectures/lecture_07
 
 Lektion 7 av 7, måndag den 18:e januari 2021
 
-![Draft](/_images/draft.png)
+![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
 **Draft status**:
 
