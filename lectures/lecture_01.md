@@ -6,7 +6,7 @@ permalink: /lectures/lecture_01
 
 Lektion 1 av 7, måndag den 7:e december 2020
 
-![Draft](/_images/draft.png)
+![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
 **Draft status**:
 
