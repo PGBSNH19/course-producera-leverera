@@ -44,8 +44,8 @@
     description: "Workshop för team 4 och 5"
   - day: 2020-12-11
     lecture: "Project introduktion"
-    number: "W4"
-    slug: workshop
+    number: "P1"
+    slug: project
     start-time: "08:30"
     end-time: "16:30"
     length: 420
@@ -130,8 +130,8 @@
     description: "Daily standup 2020-12-22"
   - day: 2020-12-23
     lecture: "Sprint slut och start"
-    number: "S6"
-    slug: standup
+    number: "P2"
+    slug: project
     start-time: "08:30"
     end-time: "11:00"
     length: 150
@@ -206,8 +206,8 @@
     lecture: null
   - day: 2021-01-07
     lecture: "Sprint slut"
-    number: "S10"
-    slug: standup
+    number: "P3"
+    slug: project
     start-time: "08:30"
     end-time: "11:00"
     length: 150
@@ -229,8 +229,8 @@
   days:
   - day: 2021-01-11
     lecture: "Sprint start"
-    number: "L6"
-    slug: lecture_06
+    number: "P4"
+    slug: project
     start-time: "08:30"
     end-time: "15:30"
     length: 360
@@ -249,8 +249,8 @@
     description: "Daily standup 2021-01-12"
   - day: 2021-01-13
     lecture: "Sprint slut"
-    number: "S13"
-    slug: standup
+    number: "P5"
+    slug: project
     start-time: "08:30"
     end-time: "11:00"
     length: 150
