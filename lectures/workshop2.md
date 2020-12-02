@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Workshop
-permalink: /lectures/workshop
+permalink: /lectures/workshop2
 ---
 
 Beskrivning av workshop
