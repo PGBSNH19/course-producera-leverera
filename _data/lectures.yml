@@ -258,7 +258,7 @@
     dirname: untitled-lecture
     description: "End of sprint 3"
   - day: 2021-01-14
-    lecture: "Standup"
+    lecture: "TBD"
     number: "S14"
     slug: standup
     start-time: "08:30"
@@ -268,7 +268,7 @@
     dirname: untitled-lecture
     description: "Daily standup 2021-01-14"
   - day: 2021-01-15
-    lecture: "Standup"
+    lecture: "TBD"
     number: "S15"
     slug: standup
     start-time: "08:30"
@@ -291,7 +291,7 @@
     dirname: untitled-lecture
     description: "Licenser, Open Source, Startup"
   - day: 2021-01-19
-    lecture: "Standup"
+    lecture: "TBD"
     number: "S16"
     slug: standup
     start-time: "08:30"
@@ -301,7 +301,7 @@
     dirname: untitled-lecture
     description: "Daily standup 2021-01-19"
   - day: 2021-01-20
-    lecture: "Standup"
+    lecture: "TBD"
     number: "S17"
     slug: standup
     start-time: "08:30"
