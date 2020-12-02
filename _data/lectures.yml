@@ -2,142 +2,185 @@
   year: 2020
   days:
   - day: 2020-12-07
-    lecture: "Introduktion + Livscykel"
-    number: "L1"
-    slug: lecture_01
-    start-time: "08:30"
-    end-time: "16:30"
-    location: Physical
-    length: 420
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Röda tråden till moln-kursen och start på denna kurs"
+    weekday: "Måndag"
+    lectures:
+    - lecture: "Introduktion + Livscykel"
+      number: "L1"
+      slug: lecture_01
+      start-time: "08:30"
+      end-time: "16:30"
+      location: Physical
+      length: 420
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Röda tråden till moln-kursen och start på denna kurs"
   - day: 2020-12-08
-    lecture: "Workshop, team 1 + 2"
-    number: "W1"
-    slug: workshop1
-    start-time: "08:30"
-    end-time: "16:30"
-    length: 420
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Workshop för team 3"
+    weekday: "Tisdag"
+    lectures:  
+    - lecture: "Workshop, team 1 + 2"
+      number: "W1"
+      slug: workshop1
+      start-time: "08:30"
+      end-time: "16:30"
+      length: 420
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Workshop för team 3"
   - day: 2020-12-09
-    lecture: "Workshop, team 3"
-    number: "W2"
-    slug: workshop2
-    start-time: "08:30"
-    end-time: "16:30"
-    length: 420
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Workshop för team 3"
+    weekday: "Onsdag"
+    lectures:
+    - lecture: "Workshop, team 3"
+      number: "W2"
+      slug: workshop2
+      start-time: "08:30"
+      end-time: "16:30"
+      length: 420
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Workshop för team 3"
   - day: 2020-12-10
-    lecture: "Workshop, team 4 + 5"
-    number: "W3"
-    slug: workshop3
-    start-time: "08:30"
-    end-time: "16:30"
-    length: 420
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Workshop för team 4 och 5"
+    weekday: "Torsdag"
+    lectures:
+    - lecture: "Workshop, team 4 + 5"
+      number: "W3"
+      slug: workshop3
+      start-time: "08:30"
+      end-time: "16:30"
+      length: 420
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Workshop för team 4 och 5"
   - day: 2020-12-11
-    lecture: "Project introduktion"
-    number: "P1"
-    slug: project
-    start-time: "08:30"
-    end-time: "16:30"
-    length: 420
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Introduktion till kurs om ska köras tillsammans med testare"
+    weekday: "Fredag"
+    lectures: 
+    - lecture: "Project introduktion"
+      number: "P1"
+      slug: project
+      start-time: "08:30"
+      end-time: "16:30"
+      length: 420
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Introduktion till kurs om ska köras tillsammans med testare"
 - week: 51
   year: 2020
   days:
   - day: 2020-12-14
-    lecture: "Help session"
-    number: "S1"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2020-12-14"
+    weekday: "Måndag"
+    lectures:
+    - lecture: "Help session"
+      number: "P2"
+      slug: project
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2020-12-14"
   - day : 2020-12-15
-    lecture: "Sprint start"
-    number: "P2"
-    slug: project
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "start of sprint 1"
+    weekday: "Tisdag"
+    lectures:
+    - lecture: "Sprint start"
+      number: "P3"
+      slug: project
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "start of sprint 1"
   - day: 2020-12-16
-    lecture: "Standup"
-    number: "S1"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2020-12-16"
+    weekday: "Onsdag"
+    lectures:
+    - lecture: "Standup"
+      number: "S1"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2020-12-16"
+    - lecture: "Mänskor och kultur"
+      number: "L2"
+      slug: lecture_02
+      start-time: "08:30"
+      end-time: "15:30"
+      length: 360
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "UX, att jobba i ett team"
   - day: 2020-12-17
-    lecture: "Standup"
-    number: "S3"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2020-12-17"
+    weekday: "Torsdag"
+    lectures:
+    - lecture: "Standup"
+      number: "S2"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2020-12-17"
   - day: 2020-12-18
-    lecture: "Standup 51-4"
-    number: "S4"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2020-12-18"
+    weekday: "Fredag"
+    lectures:  
+    - lecture: "Standup"
+      number: "S3"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2020-12-18"
 - week: 52
   year: 2020
   days:
   - day: 2020-12-21
-    lecture: "Projekter och release"
-    number: "L3"
-    slug: lecture_03
-    start-time: "08:30"
-    end-time: "15:30"
-    length: 360
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Estimering, CI/CD, Feature toggling"
+    weekday: "Måndag"
+    lectures:
+    - lecture: "Standup"
+      number: "S4"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2020-12-21"
+    - lecture: "Projekter och release"
+      number: "L3"
+      slug: lecture_03
+      start-time: "08:30"
+      end-time: "15:30"
+      length: 360
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Estimering, CI/CD, Feature toggling"
   - day: 2020-12-22
-    lecture: "Standup"
-    number: "S5"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2020-12-22"
+    weekday: "Tisdag"
+    lectures:
+    - lecture: "Standup"
+      number: "S5"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2020-12-22"
   - day: 2020-12-23
-    lecture: "Sprint slut och start"
-    number: "P3"
-    slug: project
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "End of sprint 1 and start of sprint 2"
+    lectures:
+    - lecture: "Sprint slut och start"
+      number: "P4"
+      slug: project
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "End of sprint 1 and start of sprint 2"
   - day: 2020-12-24
     lecture: null
   - day: 2020-12-25
@@ -146,35 +189,50 @@
   year: 2020
   days:
   - day: 2020-12-28
-    lecture: "Dokumentation"
-    number: "L4"
-    slug: lecture_04
-    start-time: "08:30"
-    end-time: "15:30"
-    length: 360
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Hur man kan dokumentera och utvecklingsmiljö"
+    weekday: "Måndag"
+    lectures:
+    - lecture: "Standup"
+      number: "S6"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2020-12-28"
+    - lecture: "Dokumentation"
+      number: "L4"
+      slug: lecture_04
+      start-time: "08:30"
+      end-time: "15:30"
+      length: 360
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Hur man kan dokumentera och utvecklingsmiljö"
   - day: 2020-12-29
-    lecture: "Standup"
-    number: "S7"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2020-12-29"
+    weekday: "Tisdag"
+    lectures:
+    - lecture: "Standup"
+      number: "S7"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2020-12-29"
   - day: 2020-12-30
-    lecture: "Standup"
-    number: "S8"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2020-12-30"
+    weekday: "Onsdag"
+    lectures:
+    - lecture: "Standup"
+      number: "S8"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2020-12-30"
   - day: 2020-12-31
     lecture: null
   - day: 2021-01-01
@@ -183,171 +241,196 @@
   year: 2021
   days:
   - day: 2021-01-04
-    lecture: "Kod kvalitet"
-    number: "L5"
-    slug: lecture_05
-    start-time: "08:30"
-    end-time: "15:30"
-    length: 360
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Clean code, automatisk tests, linting"
+    weekday: "Måndag"
+    lectures:
+    - lecture: "Standup"
+      number: "S9"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2021-01-04"
+    - lecture: "Kod kvalitet"
+      number: "L5"
+      slug: lecture_05
+      start-time: "08:30"
+      end-time: "15:30"
+      length: 360
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Clean code, automatisk tests, linting"
   - day: 2021-01-05
-    lecture: "Standup"
-    number: "S9"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2021-01-05"
+    weekday: "Tisdag"
+    lectures:
+    - lecture: "Standup"
+      number: "S10"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2021-01-05"
   - day: 2021-01-06
     lecture: null
   - day: 2021-01-07
-    lecture: "Sprint slut"
-    number: "P4"
-    slug: project
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "End of sprint 2"
+    weekday: "Torsdag"
+    lectures:
+    - lecture: "Sprint slut"
+      number: "P5"
+      slug: project
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "End of sprint 2"
   - day: 2021-01-08
-    lecture: "Standup"
-    number: "S11"
-    slug: standup  
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2021-01-08"
+    weekday: "Fredag"
+    lectures:  
+    - lecture: "TBD"
+      number: "X"
+      slug: standup  
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2021-01-08"
 - week: 02
   year: 2021
   days:
   - day: 2021-01-11
-    lecture: "Sprint start"
-    number: "P5"
-    slug: project
-    start-time: "08:30"
-    end-time: "15:30"
-    length: 360
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Start of sprint 3"
+    weekday: "Måndag"
+    lectures:
+    - lecture: "Sprint start"
+      number: "P6"
+      slug: project
+      start-time: "08:30"
+      end-time: "15:30"
+      length: 360
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Start of sprint 3"
   - day: 2021-01-12
-    lecture: "Standup"
-    number: "S12"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2021-01-12"
+    weekday: "Tisdag"
+    lectures:
+    - lecture: "Standup"
+      number: "S11"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2021-01-12"
   - day: 2021-01-13
-    lecture: "Sprint slut"
-    number: "P6"
-    slug: project
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "End of sprint 3"
+    weekday: "Onsdag"
+    lectures:
+    - lecture: "Sprint slut"
+      number: "P7"
+      slug: project
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "End of sprint 3"
   - day: 2021-01-14
-    lecture: "TBD"
-    number: "S14"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2021-01-14"
+    weekday: "Torsdag"
+    lectures:  
+    - lecture: "Utvecklingsstrategier"
+      number: "L6"
+      slug: lecture_06
+      start-time: "08:30"
+      end-time: "15:30"
+      length: 360
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "TDD, BDD, Privacy by design"
   - day: 2021-01-15
-    lecture: "TBD"
-    number: "S15"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2021-01-15"
+    weekday: "Fredag"
+    lectures:  
+    - lecture: "TBD"
+      number: "X"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2021-01-15"
 - week: 03
   year: 2021
   days:
   - day: 2021-01-18
-    lecture: "Produkt"
-    number: "L7"
-    slug: lecture_07
-    start-time: "08:30"
-    end-time: "15:30"
-    length: 360
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Licenser, Open Source, Startup"
+    weekday: "Måndag"
+    lectures:
+    - lecture: "Produkt"
+      number: "L7"
+      slug: lecture_07
+      start-time: "08:30"
+      end-time: "15:30"
+      length: 360
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Licenser, Open Source, Startup"
   - day: 2021-01-19
-    lecture: "TBD"
-    number: "S16"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2021-01-19"
+    weekday: "Tisdag"
+    lectures:
+    - lecture: "TBD"
+      number: "X"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2021-01-19"
   - day: 2021-01-20
-    lecture: "TBD"
-    number: "S17"
-    slug: standup
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Daily standup 2021-01-20"
+    weekday: "Onsdag"
+    lectures:  
+    - lecture: "TBD"
+      number: "X"
+      slug: standup
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Daily standup 2021-01-20"
   - day: 2021-01-21
-    lecture: "Presentation + Avslutnign"
-    number: "P"
-    slug: presenation
-    start-time: "08:30"
-    end-time: "11:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Presentation av projekt"
+    weekday: "Torsdag"
+    lectures:
+    - lecture: "Presentation + Avslutnign"
+      number: "P"
+      slug: presenation
+      start-time: "08:30"
+      end-time: "11:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Presentation av projekt"
+      
   - day: 2021-01-22
-    lecture: "Salstenta"
-    number: "T"
-    slug: tenta
-    start-time: "09:00"
-    end-time: "13:00"
-    length: 150
-    filename: Untitled
-    dirname: untitled-lecture
-    description: "Saltanta"
-
-    #     lecture: "Mänskor och kultur"
-    # number: "L2"
-    # slug: lecture_02
-    # start-time: "08:30"
-    # end-time: "15:30"
-    # length: 360
-    # filename: Untitled
-    # dirname: untitled-lecture
-    # description: "UX, att jobba i ett team"
+    weekday: "Fredag"
+    lectures:  
+    - lecture: "Salstenta"
+      number: "T"
+      slug: tenta
+      start-time: "09:00"
+      end-time: "13:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Salstanta"
 
 
-    # lecture: "Utvecklingsstrategier"
-    # number: "L6"
-    # slug: lecture_06
-    # start-time: "08:30"
-    # end-time: "15:30"
-    # length: 360
-    # filename: Untitled
-    # dirname: untitled-lecture
-    # description: "TDD, BDD, Privacy by design"
+
+
+
+
+
+
