@@ -15,7 +15,7 @@
   - day: 2020-12-08
     lecture: "Workshop, team 1 + 2"
     number: "W1"
-    slug: workshop
+    slug: workshop1
     start-time: "08:30"
     end-time: "16:30"
     length: 420
@@ -25,7 +25,7 @@
   - day: 2020-12-09
     lecture: "Workshop, team 3"
     number: "W2"
-    slug: workshop
+    slug: workshop2
     start-time: "08:30"
     end-time: "16:30"
     length: 420
@@ -35,7 +35,7 @@
   - day: 2020-12-10
     lecture: "Workshop, team 4 + 5"
     number: "W3"
-    slug: workshop
+    slug: workshop3
     start-time: "08:30"
     end-time: "16:30"
     length: 420

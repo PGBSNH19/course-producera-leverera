@@ -6,6 +6,10 @@ permalink: /lectures/lecture_01
 
 Lektion 1 av 7, måndag den 7:e december 2020
 
+Denna lektion är en introduktion till kursen
+Fastsällning av grupper
+
+
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
 **Draft status**:
@@ -29,7 +33,7 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-* TBD
+* Lego serious play
 * TBD
 
 ## Bok: xxx
