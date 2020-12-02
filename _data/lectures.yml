@@ -67,8 +67,8 @@
     description: "Daily standup 2020-12-14"
   - day : 2020-12-15
     lecture: "Sprint start"
-    number: "A1"
-    slug: standup
+    number: "P2"
+    slug: project
     start-time: "08:30"
     end-time: "11:00"
     length: 150
