@@ -34,13 +34,13 @@ Lunch 12:00 till 13:00
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
 * Lego serious play
-* TBD
+* Dokumentation
+* Krav
+* Lifecycle
+* Agile
+* humans
+* Estimering
 
-## Bok: xxx
-
-*Detta är vilka delar av den frivilliga [bok (xxx)](info_learningmaterial.md) som är releavant för denna lektion*
-
-* TBD
 
 # Bakgrundsmaterial
 
@@ -49,10 +49,15 @@ Lunch 12:00 till 13:00
 * TBD
 * TBD
 
-# Övning X
+# Övning 1
+1a och 1b kör parallet
 
-## Övning Xa
+## Övning 1a
+* Börja i gruppen att diskutera vad ni ska bygga inom ramerna för projektet
 
-# Extra övningar
-
-## Extra: x
+## Övning 1b
+* Skåpa en .NET projekt
+  * Web app
+  * API
+* Börja konfigurera GitHub actions för CI
+* Börja att konfigurera Docker fil + evt docker-compose
