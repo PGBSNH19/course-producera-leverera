@@ -55,7 +55,7 @@
     lectures: 
     - lecture: "Project introduktion"
       number: "P1"
-      slug: /assignments/project
+      slug: ../assignments/project
       start-time: "08:30"
       end-time: "16:30"
       length: 420
@@ -70,7 +70,7 @@
     lectures:
     - lecture: "Help session"
       number: "P2"
-      slug: /assignments/project
+      slug: ../assignments/project
       start-time: "08:30"
       end-time: "11:00"
       length: 150
@@ -82,7 +82,7 @@
     lectures:
     - lecture: "Sprint start"
       number: "P3"
-      slug: /assignments/project
+      slug: ../assignments/project
       start-time: "08:30"
       end-time: "11:00"
       length: 150
@@ -175,7 +175,7 @@
     lectures:
     - lecture: "Sprint slut och start"
       number: "P4"
-      slug: /assignments/project
+      slug: ../assignments/project
       start-time: "08:30"
       end-time: "11:00"
       length: 150
@@ -281,7 +281,7 @@
     lectures:
     - lecture: "Sprint slut"
       number: "P5"
-      slug: /assignments/project
+      slug: ../assignments/project
       start-time: "08:30"
       end-time: "11:00"
       length: 150
@@ -308,7 +308,7 @@
     lectures:
     - lecture: "Sprint start"
       number: "P6"
-      slug: /assignments/project
+      slug: ../assignments/project
       start-time: "08:30"
       end-time: "15:30"
       length: 360
@@ -332,7 +332,7 @@
     lectures:
     - lecture: "Sprint slut"
       number: "P7"
-      slug: /assignments/project
+      slug: ../assignments/project
       start-time: "08:30"
       end-time: "11:00"
       length: 150
