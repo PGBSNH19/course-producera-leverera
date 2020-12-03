@@ -5,3 +5,5 @@ permalink: /assignments/
 ---
 
 # Assignments
+
+[Projekt](project)

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lektioner
-permalink: /lectures/
+title: Schema
+permalink: /schedule/
 ---
 
 Start: {{ site.course-start}}, slut: {{ site.course-end}}

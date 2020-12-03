@@ -33,7 +33,7 @@
       number: "W2"
       slug: workshop2
       start-time: "08:30"
-      end-time: "16:30"
+      end-time: "12:00"
       length: 420
       filename: Untitled
       dirname: untitled-lecture
@@ -55,7 +55,7 @@
     lectures: 
     - lecture: "Project introduktion"
       number: "P1"
-      slug: project
+      slug: /assignments/project
       start-time: "08:30"
       end-time: "16:30"
       length: 420
@@ -70,7 +70,7 @@
     lectures:
     - lecture: "Help session"
       number: "P2"
-      slug: project
+      slug: /assignments/project
       start-time: "08:30"
       end-time: "11:00"
       length: 150
@@ -82,7 +82,7 @@
     lectures:
     - lecture: "Sprint start"
       number: "P3"
-      slug: project
+      slug: /assignments/project
       start-time: "08:30"
       end-time: "11:00"
       length: 150
@@ -92,31 +92,31 @@
   - day: 2020-12-16
     weekday: "Onsdag"
     lectures:
+    - lecture: "Mänskor och kultur"
+      number: "L2"
+      slug: lecture_02
+      start-time: "08:30"
+      end-time: "09:50"
+      length: 80
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "UX, att jobba i ett team"
     - lecture: "Standup"
       number: "S1"
       slug: standup
-      start-time: "08:30"
+      start-time: "10:00"
       end-time: "11:00"
       length: 150
       filename: Untitled
       dirname: untitled-lecture
       description: "Daily standup 2020-12-16"
-    - lecture: "Mänskor och kultur"
-      number: "L2"
-      slug: lecture_02
-      start-time: "08:30"
-      end-time: "15:30"
-      length: 360
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "UX, att jobba i ett team"
   - day: 2020-12-17
     weekday: "Torsdag"
     lectures:
     - lecture: "Standup"
       number: "S2"
       slug: standup
-      start-time: "08:30"
+      start-time: "10:00"
       end-time: "11:00"
       length: 150
       filename: Untitled
@@ -128,7 +128,7 @@
     - lecture: "Standup"
       number: "S3"
       slug: standup
-      start-time: "08:30"
+      start-time: "10:00"
       end-time: "11:00"
       length: 150
       filename: Untitled
@@ -140,41 +140,42 @@
   - day: 2020-12-21
     weekday: "Måndag"
     lectures:
+    - lecture: "Projekter och release"
+      number: "L3"
+      slug: lecture_03
+      start-time: "08:30"
+      end-time: "09:50"
+      length: 80
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Estimering, CI/CD, Feature toggling"
     - lecture: "Standup"
       number: "S4"
       slug: standup
-      start-time: "08:30"
+      start-time: "10:00"
       end-time: "11:00"
       length: 150
       filename: Untitled
       dirname: untitled-lecture
       description: "Daily standup 2020-12-21"
-    - lecture: "Projekter och release"
-      number: "L3"
-      slug: lecture_03
-      start-time: "08:30"
-      end-time: "15:30"
-      length: 360
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Estimering, CI/CD, Feature toggling"
   - day: 2020-12-22
     weekday: "Tisdag"
     lectures:
     - lecture: "Standup"
       number: "S5"
       slug: standup
-      start-time: "08:30"
+      start-time: "10:00"
       end-time: "11:00"
       length: 150
       filename: Untitled
       dirname: untitled-lecture
       description: "Daily standup 2020-12-22"
   - day: 2020-12-23
+    weekday: "Onsdag"
     lectures:
     - lecture: "Sprint slut och start"
       number: "P4"
-      slug: project
+      slug: /assignments/project
       start-time: "08:30"
       end-time: "11:00"
       length: 150
@@ -194,7 +195,7 @@
     - lecture: "Standup"
       number: "S6"
       slug: standup
-      start-time: "08:30"
+      start-time: "10:00"
       end-time: "11:00"
       length: 150
       filename: Untitled
@@ -215,7 +216,7 @@
     - lecture: "Standup"
       number: "S7"
       slug: standup
-      start-time: "08:30"
+      start-time: "10:00"
       end-time: "11:00"
       length: 150
       filename: Untitled
@@ -227,7 +228,7 @@
     - lecture: "Standup"
       number: "S8"
       slug: standup
-      start-time: "08:30"
+      start-time: "10:00"
       end-time: "11:00"
       length: 150
       filename: Untitled
@@ -246,7 +247,7 @@
     - lecture: "Standup"
       number: "S9"
       slug: standup
-      start-time: "08:30"
+      start-time: "10:00"
       end-time: "11:00"
       length: 150
       filename: Untitled
@@ -267,7 +268,7 @@
     - lecture: "Standup"
       number: "S10"
       slug: standup
-      start-time: "08:30"
+      start-time: "10:00"
       end-time: "11:00"
       length: 150
       filename: Untitled
@@ -280,7 +281,7 @@
     lectures:
     - lecture: "Sprint slut"
       number: "P5"
-      slug: project
+      slug: /assignments/project
       start-time: "08:30"
       end-time: "11:00"
       length: 150
@@ -307,7 +308,7 @@
     lectures:
     - lecture: "Sprint start"
       number: "P6"
-      slug: project
+      slug: /assignments/project
       start-time: "08:30"
       end-time: "15:30"
       length: 360
@@ -320,7 +321,7 @@
     - lecture: "Standup"
       number: "S11"
       slug: standup
-      start-time: "08:30"
+      start-time: "10:00"
       end-time: "11:00"
       length: 150
       filename: Untitled
@@ -331,7 +332,7 @@
     lectures:
     - lecture: "Sprint slut"
       number: "P7"
-      slug: project
+      slug: /assignments/project
       start-time: "08:30"
       end-time: "11:00"
       length: 150
