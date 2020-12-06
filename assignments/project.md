@@ -4,7 +4,7 @@ title: Ge­men­samt projekt
 permalink: /assignments/project
 ---
 
-![Lokal på distans](~/_images/project_title.png)
+![Lokal på distans](/course-producera-leverera/_images/project_title.png)
 
 Projektet görs i samarbete med en testare-klass på Teknikhögskolan i Stockholm
 
