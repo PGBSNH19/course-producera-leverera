@@ -4,9 +4,9 @@ title: Ge­men­samt projekt
 permalink: /assignments/project
 ---
 
-## Lokal på distans
+![Lokal på distans](/_images/project_title.png)
 
-Projektet görs i samarbete med en tester klass i Stockholm
+Projektet görs i samarbete med en testare-klass på Teknikhögskolan i Stockholm
 
 Al information om projektet finns i Confluence, och det är altid informationen i Confluense som är det som gäller.
 
@@ -20,13 +20,14 @@ Al information om projektet finns i Confluence, och det är altid informationen 
 * 2021-01-13 (Onsdag): P7 - Slut sprint 3
 
 
-Projekt krav:
+## Projekt krav
+* Krav skrivs som features med BDD
 * Al kod i ett publikt GitHub repo
 * GitHub pull requests
 * Confulenece
 * Jira
 
-Tekniska krav:
+## Tekniska krav
 * .NET 5 eller .NET Core 3.1
     * C#
 * En (eller fler) frontend

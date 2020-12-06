@@ -10,13 +10,16 @@ Denna lektion är en introduktion till kursen, samt dom första steg med projekt
 
 
 ## Lektionsplan
-Lektion från kl. 8:30 till kl. 15:30
+Lektion från kl. 8:30 till kl. 15:00
 
-* x
+* 08:30 Introduktion
+* 09:00 Grupp indeling
+* 10:00 Agile + Krav + Estimering
+* 11:00 Start på projekt
 
 Lunch 12:00 till 13:00
 
-* x
+* 13:00 Projekt
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
@@ -36,7 +39,7 @@ Lunch 12:00 till 13:00
 * [The beginner's guide to BDD (behaviour-driven development)](https://inviqa.com/blog/bdd-guide)
 * [Behavior-Driven Development from scratch](https://beyondxscratch.com/2019/05/21/behavior-driven-development-from-scratch/)
 
-## Estimation
+## Estimering
 * [Why Software Estimation Is More Important Now Than Ever](https://www.infoq.com/articles/software-estimation-important/)
 * [5 Steps to Software Development Effort Estimation](https://melsatar.blog/2018/01/15/5-steps-to-software-development-effort-estimation/)
 * [The Best Way to Establish a Baseline When Playing Planning Poker ](https://www.mountaingoatsoftware.com/blog/the-best-way-to-establish-a-baseline-when-playing-planning-poker)
@@ -59,7 +62,7 @@ Lunch 12:00 till 13:00
 * Video: [Agile is dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 * [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/)
 
-## Estimation
+## Estimering
 * [On the dark art of software estimation](https://techcrunch.com/2016/04/30/estimate-thrice-develop-once/)
 * [The 5 Laws of Software Estimates](https://ardalis.com/the-5-laws-of-software-estimates/)
 * [17 Theses on Software Estimation](https://stevemcconnell.com/blog/17-theses-software-estimation/)
@@ -71,7 +74,8 @@ Lunch 12:00 till 13:00
 1a och 1b kör parallet, ni har fram till fredag!
 
 ## Uppgift 1a
-* Börja i gruppen att diskutera vad ni ska bygga inom ramerna för projektet
+* Börja i gruppen att diskutera vad ni ska bygga inom ramerna för [projektet](/course-producera-leverera/assignments/project)
+* Beskriv eran funktionalitet (features) med BDD
 
 ## Uppgift 1b
 * Skåpa en .NET projekt
