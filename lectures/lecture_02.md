@@ -4,7 +4,7 @@ title: Lectures
 permalink: /lectures/lecture_02
 ---
 
-Lektion 2 av 7, måndag den 14:e december 2020
+Lektion 2 av 10, onsdag den 16:e december 2020
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
@@ -16,6 +16,7 @@ Lektion 2 av 7, måndag den 14:e december 2020
 * Uppgifter: 0% klar
 
 Målet med denna lektion är... TBD
+* Lifecycle
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30

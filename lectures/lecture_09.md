@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Lectures
-permalink: /lectures/lecture_05
+permalink: /lectures/lecture_09
 ---
 
-Lektion 5 av 10, onsdag den 30:e december 2020
+
+Lektion 9 av 10, måndag den 18:e januari 2021
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
@@ -15,7 +16,7 @@ Lektion 5 av 10, onsdag den 30:e december 2020
 * Bakgrunds litteratur: 0% klar
 * Uppgifter: 0% klar
 
-Målet med denna lektion är... TBD
+Målet med denna lektion är... Utvecklingsmiljö
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30

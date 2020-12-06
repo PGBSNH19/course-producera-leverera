@@ -1,10 +1,10 @@
 ---
 layout: page
 title: Lectures
-permalink: /lectures/lecture_05
+permalink: /lectures/lecture_10
 ---
 
-Lektion 5 av 10, onsdag den 30:e december 2020
+Lektion 10 av 10, tisdag den 19:e januari 2021
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 

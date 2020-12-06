@@ -8,6 +8,7 @@ About the project in cooperation with the testers in stockholm
 
 All info on this is going to be within Confulence
 
+* 2020-12-07 - 2020-12-10: P0 - Projekt grund
 * 2020-12-11 (Fredag): P1 - Project introdction
 * 2020-12-14 (Måndag): P2 - Hjälp
 * 2020-12-15 (Tisdag): P3 - Start sprint 1
@@ -18,18 +19,48 @@ All info on this is going to be within Confulence
 
 
 Projekt krav:
+* Al kod i ett publikt GitHub repo
 * GitHub pull requests
 * Confulenece
 * Jira
 
 Tekniska krav:
-* .NET 5
-* En webfront
-    * Unit tests 
-    * Docker
-* Ett API (REST eller GraphQL)
-    * Unit tests 
-    * Docker
+* .NET 5 eller .NET Core 3.1
+    * C#
+* En (eller fler) frontend
+    * ASP.NET MVC
+    * ASP.NET Razor pages
+    * Blazor
+    * Xamerin
+    * Windows - WPF
+    * Windows - UWP
+* En backend
+    * REST
+    * GraphQL
+    * gRPC
 * En databas
+    * MSSQL
+    * MySQL / MariaDb
+    * Cosmos
+    * MongoDB
 * Github CI/CD
 * Deployment till moln AWS eller Azure
+* Docker
+* Automatiska test
+    * Unit tests
+    * Integration tests
+
+## Projekt grund
+Vad tänker ni att bygga? Börja diskutera, detta kan påverka ert 
+
+Börja att skåpa en grund till programmet. Skåpa alla projekt och se till att få till namngivning och mapp struktur från början.
+
+Förslag 1: Börja med ett simpelt "view" som visar ett "Hello world", som det hämtar från ett Hello World-endpoint i ert API.
+
+Skriv ett par automatiska test av frontend och backend.
+
+Sätta upp Docker och Docker-compose.
+
+Konfigurara upp GitHub actions. Börja med CI.
+
+Få till deployment av denna Hello World.

@@ -4,7 +4,7 @@ title: Introduktion
 permalink: /lectures/lecture_01
 ---
 
-Lektion 1 av 7, måndag den 7:e december 2020
+Lektion 1 av 10, måndag den 7:e december 2020
 
 Denna lektion är en introduktion till kursen
 Fastsällning av grupper
@@ -36,9 +36,9 @@ Lunch 12:00 till 13:00
 * Lego serious play
 * Dokumentation
 * Krav
-* Lifecycle
+
 * Agile
-* humans
+* Humans
 * Estimering
 
 

@@ -4,7 +4,7 @@ title: Lectures
 permalink: /lectures/lecture_04
 ---
 
-Lektion 4 av 7, måndag den 28:e december 2020
+Lektion 4 av 10, måndag den 28:e december 2020
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 

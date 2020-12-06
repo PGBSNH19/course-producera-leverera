@@ -5,8 +5,7 @@ permalink: /lectures/lecture_06
 ---
 
 
-
-Lektion 6 av 7, måndag den 11:e januari 2021
+Lektion 6 av 10, fredag den 8:e januari 2021
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
