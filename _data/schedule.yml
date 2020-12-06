@@ -515,24 +515,15 @@
       filename: Untitled
       dirname: untitled-lecture
       description: "Presentation av projekt"
-      
   - day: 2021-01-22
     weekday: "Fredag"
     lectures:  
     - lecture: "Salstenta"
       number: "T"
-      slug: ../lectures/tenta
+      slug: ../assignments/tenta
       start-time: "09:00"
       end-time: "13:00"
       length: 150
       filename: Untitled
       dirname: untitled-lecture
       description: "Salstanta"
-
-
-
-
-
-
-
-

@@ -4,6 +4,8 @@ title: Assignments
 permalink: /assignments/
 ---
 
-# Assignments
+# Uppgifter
 
 [Projekt](project)
+
+[Salstenta](tenta)
