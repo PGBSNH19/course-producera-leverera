@@ -97,7 +97,7 @@
       filename: Untitled
       dirname: untitled-lecture
       description: "Daily standup 2020-12-14"
-  - day : 2020-12-15
+  - day: 2020-12-15
     weekday: "Tisdag"
     lectures:
     - lecture: "Sprint start"
@@ -116,7 +116,7 @@
       number: "L2"
       slug: ../lectures/lecture_02
       start-time: "08:30"
-      end-time: "09:50"
+      end-time: "09:00"
       length: 80
       filename: Untitled
       dirname: untitled-lecture
@@ -158,7 +158,7 @@
       number: "L3"
       slug: ../lectures/lecture_03
       start-time: "08:30"
-      end-time: "09:50"
+      end-time: "09:00"
       length: 80
       filename: Untitled
       dirname: untitled-lecture
@@ -234,7 +234,7 @@
       number: "L4"
       slug: ../lectures/lecture_04
       start-time: "08:30"
-      end-time: "09:50"
+      end-time: "09:00"
       length: 360
       filename: Untitled
       dirname: untitled-lecture
@@ -351,7 +351,7 @@
       number: "L6"
       slug: ../lectures/lecture_06
       start-time: "08:30"
-      end-time: "09:50"
+      end-time: "09:00"
       length: 360
       filename: Untitled
       dirname: untitled-lecture
@@ -359,7 +359,7 @@
     - lecture: "Workshop 6: Utvecklingsstrategier"
       number: "W6"
       slug: ../workshops/workshop6
-      start-time: "10:00"
+      start-time: "09:15"
       end-time: "15:00"
       length: 80
       filename: Untitled
@@ -411,7 +411,7 @@
       number: "L7"
       slug: ../lectures/lecture_07
       start-time: "08:30"
-      end-time: "09:50"
+      end-time: "09:00"
       length: 360
       filename: Untitled
       dirname: untitled-lecture
@@ -419,7 +419,7 @@
     - lecture: "Workshop 7: Release"
       number: "W7"
       slug: ../workshops/workshop7
-      start-time: "10:00"
+      start-time: "09:15"
       end-time: "15:00"
       length: 80
       filename: Untitled
@@ -432,7 +432,7 @@
       number: "L8"
       slug: ../lectures/lecture_08
       start-time: "08:30"
-      end-time: "09:50"
+      end-time: "09:00"
       length: 360
       filename: Untitled
       dirname: untitled-lecture
@@ -440,7 +440,7 @@
     - lecture: "Workshop 8: Versionhåndtering"
       number: "W8"
       slug: ../workshops/workshop8
-      start-time: "10:00"
+      start-time: "09:15"
       end-time: "15:00"
       length: 80
       filename: Untitled
@@ -456,17 +456,17 @@
       number: "L9"
       slug: ../lectures/lecture_09
       start-time: "08:30"
-      end-time: "09:50"
-      length: 360
+      end-time: "09:00"
+      length: 30
       filename: Untitled
       dirname: untitled-lecture
       description: "IDE, test system"
     - lecture: "Workshop 9: Utvecklingsmiljö"
       number: "W9"
       slug: ../workshops/workshop9
-      start-time: "10:00"
+      start-time: "09:15"
       end-time: "15:00"
-      length: 80
+      length: 285
       filename: Untitled
       dirname: untitled-lecture
       description: "Hur stödar ett utvecklingsmiljö?"
@@ -477,17 +477,17 @@
       number: "L10"
       slug: ../lectures/lecture_10
       start-time: "08:30"
-      end-time: "09:50"
-      length: 360
+      end-time: "09:00"
+      length: 30
       filename: Untitled
       dirname: untitled-lecture
       description: "Licenser, Open Source, Startup"
     - lecture: "Workshop 10: Licenser"
       number: "W10"
       slug: ../workshops/workshop10
-      start-time: "10:00"
+      start-time: "09:15"
       end-time: "15:00"
-      length: 80
+      length: 285
       filename: Untitled
       dirname: untitled-lecture
       description: "Vilken licens ska man välja?"

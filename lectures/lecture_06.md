@@ -30,6 +30,13 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
+* [Waterfall Model: What Is It and When Should You Use It?](https://airbrake.io/blog/sdlc/waterfall-model)
+* [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/)
+* [ContinuousDelivery](https://martinfowler.com/bliki/ContinuousDelivery.html)
+* [DevOps: Breaking the Development-Operations barrier](https://www.atlassian.com/devops)
+* [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
+* [Continuous Delivery](https://continuousdelivery.com/)
+
 * TBD
 * TBD
 

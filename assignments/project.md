@@ -4,9 +4,11 @@ title: Ge­men­samt projekt
 permalink: /assignments/project
 ---
 
-About the project in cooperation with the testers in stockholm
+## Lokal på distans
 
-All info on this is going to be within Confulence
+Projektet görs i samarbete med en tester klass i Stockholm
+
+Al information om projektet finns i Confluence, och det är altid informationen i Confluense som är det som gäller.
 
 * 2020-12-07 - 2020-12-10: P0 - Projekt grund
 * 2020-12-11 (Fredag): P1 - Project introdction
