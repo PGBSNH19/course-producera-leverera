@@ -57,6 +57,7 @@ Lunch 12:00 till 13:00
   * Part 2: [Discovery](https://cucumber.io/blog/bdd/user-stories-and-bdd-(part-2)-discovery/)
   * Part 3: [Small or far away?](https://cucumber.io/blog/bdd/user-stories-and-bdd-part-3/)
   * Part 4: [Features are not stories](https://cucumber.io/blog/bdd/user-stories-and-bdd-features-are-not-stories/)
+* [RFC 2119: Key words for use in RFCs to Indicate Requirement Levels](https://tools.ietf.org/html/rfc2119)
 
 ## Agile / Scrum
 * Video: [Agile is dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)

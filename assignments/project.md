@@ -21,7 +21,8 @@ Al information om projektet finns i Confluence, och det är altid informationen 
 
 
 ## Projekt krav
-* Krav skrivs som features med BDD
+* Ett SRC dokument på engelska (i markdown)
+* Krav skrivs som features med BDD på engelska
 * Al kod i ett publikt GitHub repo
 * GitHub pull requests
 * Confulenece
