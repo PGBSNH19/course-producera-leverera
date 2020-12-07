@@ -41,6 +41,7 @@ Lunch 12:00 till 13:00
 
 ## Prototyping/UX
 * [Party testing](https://medium.com/blixtdunder/party-testing-3c26d3f0e2ec)
+* [Wireframing for UX: What it is and how to get better at it](https://www.youtube.com/watch?v=8-vTd7GRk-w)
 
 # Bakgrundsmaterial
 
