@@ -55,7 +55,7 @@ Al information om projektet finns i Confluence, och det är altid informationen 
     * Integration tests
 
 ## Projekt grund
-Vad tänker ni att bygga? Börja diskutera, detta kan påverka ert 
+Vad tänker ni att bygga? Börja diskutera, detta kan påverka ert tekniska design
 
 Börja att skåpa en grund till programmet. Skåpa alla projekt och se till att få till namngivning och mapp struktur från början.
 
