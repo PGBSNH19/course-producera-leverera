@@ -21,7 +21,7 @@ Målet med denna lektion är... TBD
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* x
+* Utvecklingsstrategier
 
 Lunch 12:00 till 13:00
 

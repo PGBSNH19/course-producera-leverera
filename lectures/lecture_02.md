@@ -16,12 +16,12 @@ Lektion 2 av 10, onsdag den 16:e december 2020
 * Uppgifter: 0% klar
 
 Målet med denna lektion är... TBD
-* Lifecycle
+* Mänskor och kultur
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* x
+* Agile + Krav + Estimering
 
 Lunch 12:00 till 13:00
 

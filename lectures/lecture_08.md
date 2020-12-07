@@ -20,7 +20,7 @@ Målet med denna lektion är... Versionhåndtering
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* x
+* Versionhåndtering
 
 Lunch 12:00 till 13:00
 

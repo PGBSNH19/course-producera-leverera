@@ -21,7 +21,7 @@ Målet med denna lektion är... Utvecklingsmiljö
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* x
+* Utvecklingsmiljö
 
 Lunch 12:00 till 13:00
 
