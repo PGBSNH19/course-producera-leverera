@@ -40,6 +40,7 @@ Lunch 12:00 till 13:00
 ### BDD
 * [The beginner's guide to BDD (behaviour-driven development)](https://inviqa.com/blog/bdd-guide)
 * [Behavior-Driven Development from scratch](https://beyondxscratch.com/2019/05/21/behavior-driven-development-from-scratch/)
+* [Gherkin Reference](https://cucumber.io/docs/gherkin/reference/)
 
 ## Estimering
 * [Why Software Estimation Is More Important Now Than Ever](https://www.infoq.com/articles/software-estimation-important/)

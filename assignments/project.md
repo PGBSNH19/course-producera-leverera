@@ -18,7 +18,7 @@ Al information om projektet finns i Confluence, och det är altid informationen 
 * 2021-01-07 (Torsdag): P5 - Slut sprint 2
 * 2021-01-11 (Måndag): P6 - Start sprint 3
 * 2021-01-13 (Onsdag): P7 - Slut sprint 3
-
+* 2021-01-19: Redovisning av projekt
 
 ## Projekt krav
 * Ett SRC dokument på engelska (i markdown)

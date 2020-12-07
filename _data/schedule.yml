@@ -473,6 +473,18 @@
   - day: 2021-01-19
     weekday: "Tisdag"
     lectures:
+    - lecture: "Projekt redovisning"
+      number: "X"
+      slug: standup
+      start-time: "09:00"
+      end-time: "16:00"
+      length: 150
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "1h per grupp"
+  - day: 2021-01-20
+    weekday: "Onsdag"
+    lectures:  
     - lecture: "Produkt"
       number: "L10"
       slug: ../lectures/lecture_10
@@ -491,18 +503,6 @@
       filename: Untitled
       dirname: untitled-lecture
       description: "Vilken licens ska man välja?"
-  - day: 2021-01-20
-    weekday: "Onsdag"
-    lectures:  
-    - lecture: "Projekt redovisning"
-      number: "X"
-      slug: standup
-      start-time: "09:00"
-      end-time: "16:00"
-      length: 150
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "1h per grupp"
   - day: 2021-01-21
     weekday: "Torsdag"
     lectures:
