@@ -27,6 +27,7 @@ Lunch 12:00 till 13:00
 ## Agile / Scrum
 * [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 * [The Beginner’s Guide To Scrum And Agile Project Management](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
+* [Why Scrum Doesn’t Give You the Kitchen Sink](https://jordanjob.me/blog/why-scrum-is-a-framework/)
 
 ## Krav
 * [Proper software requirements 101](https://hackernoon.com/proper-software-requirements-101-32cf87e02a2f)
@@ -62,6 +63,8 @@ Lunch 12:00 till 13:00
 ## Agile / Scrum
 * Video: [Agile is dead](https://www.youtube.com/watch?v=a-BOSpxYJ9M)
 * [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/)
+* [Goals of the Daily Scrum](https://jordanjob.me/blog/the-goals-of-the-daily-scrum/)
+* [Scrum Diagram](https://jordanjob.me/blog/scrum-diagram/)
 
 ## Estimering
 * [On the dark art of software estimation](https://techcrunch.com/2016/04/30/estimate-thrice-develop-once/)
