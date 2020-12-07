@@ -21,7 +21,7 @@ Al information om projektet finns i Confluence, och det är altid informationen 
 * 2021-01-19: Redovisning av projekt
 
 ## Projekt krav
-* Ett SRC dokument på engelska (i markdown)
+* Ett SRS dokument på engelska (i markdown)
 * Krav skrivs som features med BDD på engelska
 * Al kod i ett publikt GitHub repo
 * GitHub pull requests
@@ -47,12 +47,12 @@ Al information om projektet finns i Confluence, och det är altid informationen 
     * MySQL / MariaDb
     * Cosmos
     * MongoDB
-* Github CI/CD
+* GitHub Action CI/CD
 * Deployment till moln AWS eller Azure
 * Docker
 * Automatiska test
     * Unit tests
-    * Integration tests
+    * evt. Integration tests
 
 ## Projekt grund
 Vad tänker ni att bygga? Börja diskutera, detta kan påverka ert tekniska design
