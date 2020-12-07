@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lectures
+title: Utvecklingsstrategier
 permalink: /lectures/lecture_06
 ---
 
@@ -21,7 +21,7 @@ Målet med denna lektion är... TBD
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* Utvecklingsstrategier
+* 08:30 Teori
 
 Lunch 12:00 till 13:00
 
@@ -36,6 +36,7 @@ Lunch 12:00 till 13:00
 * [DevOps: Breaking the Development-Operations barrier](https://www.atlassian.com/devops)
 * [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
 * [Continuous Delivery](https://continuousdelivery.com/)
+* [How Netflix Thinks of DevOps](https://www.youtube.com/watch?v=UTKIT6STSVM)
 
 * TBD
 * TBD

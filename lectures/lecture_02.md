@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lectures
+title: Mänskor och kultur
 permalink: /lectures/lecture_02
 ---
 
@@ -11,12 +11,12 @@ Lektion 2 av 10, onsdag den 16:e december 2020
 **Draft status**:
 
 * Lektionsplan: 0% klar
-* Lektionsteori: 0% klar
-* Bakgrunds litteratur: 0% klar
-* Uppgifter: 0% klar
+* Lektionsteori: 40% klar
+* Bakgrunds litteratur: 40% klar
+
 
 Målet med denna lektion är... TBD
-* Mänskor och kultur
+* 
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
@@ -30,26 +30,25 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-* TBD
-* TBD
+## Team
+* [The 7 Types of Software Developers You’ll (Probably) Work With Someday](https://www.7pace.com/blog/the-7-types-of-software-developers-youll-probably-work-with-someday)
+* PDF: [Human Factors in Software Development](http://publications.lib.chalmers.se/records/fulltext/126748.pdf)
 
-## Bok: xxx
 
-*Detta är vilka delar av den frivilliga [bok (xxx)](info_learningmaterial.md) som är releavant för denna lektion*
+## Användere
+* [Truly agile software development must take human factors into account](https://www.orianaworld.com/post/truly-agile-software-development-must-take-human-factors-into-account)
+* [External and Internal Customers in Lean](https://www.velaction.com/external-and-internal-customers/)
 
-* TBD
+## Prototyping/UX
+* [Party testing](https://medium.com/blixtdunder/party-testing-3c26d3f0e2ec)
 
 # Bakgrundsmaterial
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* TBD
-* TBD
+## Team
+* [15 rules for communicating at GitHub](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
+* [The seven habits of highly effective GitHubbers](https://ben.balter.com/2016/09/13/seven-habits-of-highly-effective-githubbers/)
 
-# Övning X
-
-## Övning Xa
-
-# Extra övningar
-
-## Extra: x
+## Användere
+* [Types of Customers](https://dcmlearning.ie/lean-course-content/lean-six-sigma-types-of-customers.html)
