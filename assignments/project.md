@@ -38,6 +38,7 @@ Al information om projektet finns i Confluence, och det är altid informationen 
     * Xamerin
     * Windows - WPF
     * Windows - UWP
+    * React / Angular + Typescript
 * En backend
     * REST
     * GraphQL
