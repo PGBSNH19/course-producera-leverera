@@ -154,7 +154,7 @@
   - day: 2020-12-18
     weekday: "Fredag"
     lectures:  
-    - lecture: "Projekter och release"
+    - lecture: "Projekt och release"
       number: "L3"
       slug: ../lectures/lecture_03
       start-time: "08:30"
@@ -428,7 +428,7 @@
   - day: 2021-01-15
     weekday: "Fredag"
     lectures:  
-    - lecture: "Versionhåndtering"
+    - lecture: "Versionshantering"
       number: "L8"
       slug: ../lectures/lecture_08
       start-time: "08:30"
@@ -437,7 +437,7 @@
       filename: Untitled
       dirname: untitled-lecture
       description: "Licenser, Open Source, Startup"
-    - lecture: "Workshop 8: Versionhåndtering"
+    - lecture: "Workshop 8: Versionshantering"
       number: "W8"
       slug: ../workshops/workshop8
       start-time: "09:15"

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lectures
+title: Versionshantering
 permalink: /lectures/lecture_08
 ---
 
@@ -20,7 +20,7 @@ Målet med denna lektion är... Versionhåndtering
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* Versionhåndtering
+* Versionshantering
 
 Lunch 12:00 till 13:00
 
