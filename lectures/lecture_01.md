@@ -28,6 +28,7 @@ Lunch 12:00 till 13:00
 * [Manifesto for Agile Software Development](https://agilemanifesto.org/)
 * [The Beginner’s Guide To Scrum And Agile Project Management](https://blog.trello.com/beginners-guide-scrum-and-agile-project-management)
 * [Why Scrum Doesn’t Give You the Kitchen Sink](https://jordanjob.me/blog/why-scrum-is-a-framework/)
+* [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
 
 ## Krav
 * [Proper software requirements 101](https://hackernoon.com/proper-software-requirements-101-32cf87e02a2f)
