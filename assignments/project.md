@@ -8,7 +8,7 @@ permalink: /assignments/project
 
 Projektet görs i samarbete med en testare-klass på Teknikhögskolan i Stockholm
 
-Al information om projektet finns i Confluence, och det är altid informationen i Confluense som är det som gäller.
+Al information om projektet finns i [Confluence](https://plushogskolan.atlassian.net/wiki/spaces/TO/overview?homepageId=58589566), och det är altid informationen i Confluense som är det som gäller.
 
 * 2020-12-07 - 2020-12-10: P0 - Projekt grund
 * 2020-12-11 (Fredag): P1 - Project introdction
@@ -21,6 +21,7 @@ Al information om projektet finns i Confluence, och det är altid informationen 
 * 2021-01-19: Redovisning av projekt
 
 ## Projekt krav
+Se confluence for senaste verison: [System krav](https://plushogskolan.atlassian.net/wiki/spaces/TO/pages/64061445/System+krav)
 * Ett SRS dokument på engelska (i markdown)
 * Krav skrivs som features med BDD på engelska
 * Al kod i ett publikt GitHub repo
@@ -29,6 +30,7 @@ Al information om projektet finns i Confluence, och det är altid informationen 
 * Jira
 
 ## Tekniska krav
+Se confluence for senaste verison: [System krav](https://plushogskolan.atlassian.net/wiki/spaces/TO/pages/64061445/System+krav)
 * .NET 5 eller .NET Core 3.1
     * C#
 * En (eller fler) frontend
