@@ -92,7 +92,7 @@
       number: "L9"
       slug: ../lectures/lecture_09
       start-time: "08:30"
-      end-time: "09:00"
+      end-time: "09:30"
       length: 30
       filename: Untitled
       dirname: untitled-lecture
@@ -260,7 +260,7 @@
   - day: 2020-12-29
     weekday: "Tisdag"
     lectures:
-    - lecture: "Workshop 4: Release"
+    - lecture: "Workshop 4: Dokumentation"
       number: "W4"
       slug: ../workshops/workshop4
       start-time: "08:30"

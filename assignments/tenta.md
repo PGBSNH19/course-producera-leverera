@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Daily standup
-permalink: /lectures/tenta
+permalink: /assignments/tenta
 ---
 
 4 timmer
