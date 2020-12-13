@@ -11,8 +11,8 @@ Lektion 7 av 10, torsdag den 14:e januari 2021
 **Draft status**:
 
 * Lektionsplan: 0% klar
-* Lektionsteori: 0% klar
-* Bakgrunds litteratur: 0% klar
+* Lektionsteori: 20% klar
+* Bakgrunds litteratur: 20% klar
 
 Målet med denna lektion är... Versionhåndtering
 
@@ -28,14 +28,16 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-* https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development
-* TBD
-
+* [Trunk-Based Development or Feature Driven Development](https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development)
+* [Best Branching Strategies For High-Velocity Development](https://www.perforce.com/blog/vcs/best-branching-strategies-high-velocity-development)
+* https://medium.com/@thysniu/coding-with-feature-flags-how-to-guide-and-best-practices-3f9637f51265
+* https://sarakhandaker.medium.com/tags-in-git-git-tags-vs-git-branching-c8aa03723c14
+* [Git to know this before you do Trunk Based Development (TBD)](https://medium.com/factualopinions/git-to-know-this-before-you-do-trunk-based-development-tbd-476bc8a7c22f)
 
 # Bakgrundsmaterial
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-* TBD
+* https://medium.com/tensult/version-controlling-using-git-flow-tags-57b34c1d6a71
 * TBD
 
