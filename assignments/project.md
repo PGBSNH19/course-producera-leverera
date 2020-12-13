@@ -21,7 +21,7 @@ Al information om projektet finns i [Confluence](https://plushogskolan.atlassian
 * 2021-01-19: Redovisning av projekt
 
 ## Projekt krav
-Se confluence for senaste verison: [System krav](https://plushogskolan.atlassian.net/wiki/spaces/TO/pages/64061445/System+krav)
+Se confluence for senaste version: [System krav](https://plushogskolan.atlassian.net/wiki/spaces/TO/pages/64061445/System+krav)
 * Ett SRS dokument på engelska (i markdown)
 * Krav skrivs som features med BDD på engelska
 * Al kod i ett publikt GitHub repo
@@ -30,7 +30,7 @@ Se confluence for senaste verison: [System krav](https://plushogskolan.atlassian
 * Jira
 
 ## Tekniska krav
-Se confluence for senaste verison: [System krav](https://plushogskolan.atlassian.net/wiki/spaces/TO/pages/64061445/System+krav)
+Se confluence for senaste version: [System krav](https://plushogskolan.atlassian.net/wiki/spaces/TO/pages/64061445/System+krav)
 * .NET 5 eller .NET Core 3.1
     * C#
 * En (eller fler) frontend

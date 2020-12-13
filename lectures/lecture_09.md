@@ -5,17 +5,9 @@ permalink: /lectures/lecture_09
 ---
 
 
-Lektion 9 av 10, måndag den 11:e december 2020
+Lektion 2 av 10, måndag den 11:e december 2020
 
-![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
-
-**Draft status**:
-
-* Lektionsteori: 70% klar
-* Bakgrunds litteratur: 70% klar
-
-
-Målet med denna lektion är 
+Målet med denna lektion är ge introduktion till vad ett utvecklingsmiljö är, och andra typ av miljö som vi ofta kommer i kontakt med som utvecklare.
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
@@ -34,6 +26,7 @@ Lunch 12:00 till 13:00
 * [What is a development environment?](https://umbraco.com/about-us/umbraco-dictionary/development-environment/)
 * [What Is a Test Environment](https://www.testim.io/blog/test-environment-guide/)
 * [10 ways to create the optimum developer environment](https://www.techrepublic.com/blog/10-things/10-ways-to-create-the-optimum-developer-environment/)
+* Teaser från [Versionshantering]({{ "/lectures/lecture_08" | prepend: site.baseurl }}): [Trunk-Based Development or Feature Driven Development](https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development)
 
 # Bakgrundsmaterial
 
@@ -52,7 +45,7 @@ Lunch 12:00 till 13:00
     * [Best IDEs for .NET Development](https://www.hackernoon.com/best-ides-for-net-development-7x193tp9)
     * [Working with Environments and Launch Settings in ASP.NET Core](https://exceptionnotfound.net/working-with-environments-and-launch-settings-in-asp-net-core/)
     * [.Net Core: Multiple Environments ](https://dev.to/fernandosonego/net-core-multiple-environments-1j33)
-GitHub:
+* GitHub:
     * [Environment variables](https://docs.github.com/en/free-pro-team@latest/actions/reference/environment-variables)
     * [(CI/CD) Multi-Environment deployment for a React App on Firebase, using GitHub Actions](https://medium.com/@giologist/ci-cd-multi-environment-deployment-for-a-react-app-on-firebase-using-github-actions-f48bc6b08b21)
     * [GitHub Actions For the Win](https://towardsdatascience.com/github-actions-for-the-win-8a215d390c1b)

@@ -34,6 +34,8 @@ Lunch 12:00 till 13:00
 * [The 7 Types of Software Developers You’ll (Probably) Work With Someday](https://www.7pace.com/blog/the-7-types-of-software-developers-youll-probably-work-with-someday)
 * PDF: [Human Factors in Software Development](http://publications.lib.chalmers.se/records/fulltext/126748.pdf)
 
+Fysikaramer
+Öppna kontoslandskåp
 
 ## Användere
 * [Truly agile software development must take human factors into account](https://www.orianaworld.com/post/truly-agile-software-development-must-take-human-factors-into-account)

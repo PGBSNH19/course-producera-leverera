@@ -13,7 +13,6 @@ Lektion 7 av 10, torsdag den 14:e januari 2021
 * Lektionsplan: 0% klar
 * Lektionsteori: 0% klar
 * Bakgrunds litteratur: 0% klar
-* Uppgifter: 0% klar
 
 Målet med denna lektion är... Versionhåndtering
 
@@ -29,14 +28,9 @@ Lunch 12:00 till 13:00
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-* TBD
+* https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development
 * TBD
 
-## Bok: xxx
-
-*Detta är vilka delar av den frivilliga [bok (xxx)](info_learningmaterial.md) som är releavant för denna lektion*
-
-* TBD
 
 # Bakgrundsmaterial
 
@@ -45,10 +39,3 @@ Lunch 12:00 till 13:00
 * TBD
 * TBD
 
-# Övning X
-
-## Övning Xa
-
-# Extra övningar
-
-## Extra: x
