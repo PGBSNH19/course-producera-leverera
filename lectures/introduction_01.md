@@ -4,7 +4,7 @@ title: Introduktion
 permalink: /lectures/introduction
 ---
 
-Lektion 1 av 10, måndag den 7:e december 2020
+Måndag den 7:e december 2020
 
 Denna lektion är en introduktion till kursen, samt dom första steg med projektet. Fastsällning av grupper.
 

@@ -5,7 +5,7 @@ permalink: /lectures/enviroments
 ---
 
 
-Lektion 2 av 10, måndag den 11:e december 2020
+Måndag den 11:e december 2020
 
 Målet med denna lektion är ge introduktion till vad ett utvecklingsmiljö är, och andra typ av miljö som vi ofta kommer i kontakt med som utvecklare.
 
@@ -26,7 +26,7 @@ Lunch 12:00 till 13:00
 * [What is a development environment?](https://umbraco.com/about-us/umbraco-dictionary/development-environment/)
 * [What Is a Test Environment](https://www.testim.io/blog/test-environment-guide/)
 * [10 ways to create the optimum developer environment](https://www.techrepublic.com/blog/10-things/10-ways-to-create-the-optimum-developer-environment/)
-* Teaser från [Versionshantering]({{ "/lectures/lecture_08" | prepend: site.baseurl }}): [Trunk-Based Development or Feature Driven Development](https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development)
+* Teaser från [Versionshantering]({{ "/lectures/versioncontroll_08" | prepend: site.baseurl }}): [Trunk-Based Development or Feature Driven Development](https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development)
 
 # Bakgrundsmaterial
 
@@ -37,8 +37,8 @@ Lunch 12:00 till 13:00
     * [How to set up the perfect modern dev environment on Windows](https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows)
     * [How to create consistent development environments that just work](https://www.hackernoon.com/how-to-create-consistent-development-environments-that-just-work-55be5417341b)
 * A Beginners Guide to Docker and VS Code:
-    *  [Part 1](https://www.packetflow.co.uk/a-beginners-guide-to-docker-and-vs-code-part-1/)
-    *  [Part 2](https://www.packetflow.co.uk/a-beginners-guide-to-docker-and-vs-code-part-2/)
+    *  [Part 1](https://www.packetflow.co.uk/a-beginners-guide-to-docker-and-vs-code-part-1/) - Introduction
+    *  [Part 2](https://www.packetflow.co.uk/a-beginners-guide-to-docker-and-vs-code-part-2/) - Use the container for Python development
 * .NET:
     * Microsoft: [Use multiple environments in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/environments?view=aspnetcore-5.0)
     * [Configuration and environments in ASP.NET Core](http://danpatrascu.com/configuration-and-environments-in-asp-net-core/)

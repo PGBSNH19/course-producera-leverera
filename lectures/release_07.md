@@ -4,7 +4,7 @@ title: Release
 permalink: /lectures/release
 ---
 
-Lektion 7 av 10, torsdag den 14:e januari 2021
+Torsdag den 14:e januari 2021
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 

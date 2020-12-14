@@ -4,7 +4,7 @@ title: Produkt
 permalink: /lectures/products
 ---
 
-Lektion 10 av 10, tisdag den 19:e januari 2021
+Tisdag den 19:e januari 2021
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 

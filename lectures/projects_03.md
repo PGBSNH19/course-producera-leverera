@@ -4,7 +4,7 @@ title: Projekt och release
 permalink: /lectures/project
 ---
 
-Lektion 3 av 10, fredag den 18:e december 2020
+Fredag den 18:e december 2020
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 

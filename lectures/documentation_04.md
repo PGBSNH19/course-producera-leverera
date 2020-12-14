@@ -4,7 +4,7 @@ title: Dokumentation
 permalink: /lectures/documentation
 ---
 
-Lektion 4 av 10, måndag den 28:e december 2020
+Måndag den 28:e december 2020
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 

@@ -4,7 +4,7 @@ title: Livscykel
 permalink: /lectures/lifecycle
 ---
 
-Lektion 5 av 10, onsdag den 30:e december 2020
+Onsdag den 30:e december 2020
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 

@@ -4,7 +4,7 @@ title: Versionshantering
 permalink: /lectures/versioncontroll
 ---
 
-Lektion 8 av 10, fredag den 15:e januari 2021
+Fredag den 15:e januari 2021
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 

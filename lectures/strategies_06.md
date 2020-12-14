@@ -5,7 +5,7 @@ permalink: /lectures/strategies
 ---
 
 
-Lektion 6 av 10, fredag den 8:e januari 2021
+Fredag den 8:e januari 2021
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
