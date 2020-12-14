@@ -20,6 +20,15 @@ Al information om projektet finns i [Confluence](https://plushogskolan.atlassian
 * 2021-01-13 (Onsdag): P7 - Slut sprint 3
 * 2021-01-19: Redovisning av projekt
 
+## Tech lead
+Målet med detta möte är att få ett överblik över tekniska funderingar i alla grupper.
+* 2020-12-17, 11:00
+* 2020-12-21, 11:00
+* 2020-12-28, 11:00
+* 2020-12-29, 11:00
+* 2021-01-05, 11:00
+* 2021-01-12, 11:00
+
 ## Projekt krav
 Se confluence for senaste version: [System krav](https://plushogskolan.atlassian.net/wiki/spaces/TO/pages/64061445/System+krav)
 * Ett SRS dokument på engelska (i markdown)
