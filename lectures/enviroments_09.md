@@ -36,9 +36,9 @@ Lunch 12:00 till 13:00
 * Local development:
     * [How to set up the perfect modern dev environment on Windows](https://char.gd/blog/2017/how-to-set-up-the-perfect-modern-dev-environment-on-windows)
     * [How to create consistent development environments that just work](https://www.hackernoon.com/how-to-create-consistent-development-environments-that-just-work-55be5417341b)
-* A Beginners Guide to Docker and VS Code:
+* A Beginners Guide to Docker and VS Code (Python):
     *  [Part 1](https://www.packetflow.co.uk/a-beginners-guide-to-docker-and-vs-code-part-1/) - Introduction
-    *  [Part 2](https://www.packetflow.co.uk/a-beginners-guide-to-docker-and-vs-code-part-2/) - Use the container for Python development
+    *  [Part 2](https://www.packetflow.co.uk/a-beginners-guide-to-docker-and-vs-code-part-2/) - Use the container for development
 * .NET:
     * Microsoft: [Use multiple environments in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/environments?view=aspnetcore-5.0)
     * [Configuration and environments in ASP.NET Core](http://danpatrascu.com/configuration-and-environments-in-asp-net-core/)

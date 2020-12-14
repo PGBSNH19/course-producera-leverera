@@ -118,6 +118,8 @@
       filename: Untitled
       dirname: untitled-lecture
       description: "start of sprint 1"
+  - day: 2020-12-16
+    lecture: null 
   - day: 2020-12-17
     weekday: "Torsdag"
     lectures:
