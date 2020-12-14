@@ -12,6 +12,7 @@ lms-name: Ping Ping
 lms-url: https://yh.pingpong.se/courseId/11988/content.do?id=4841787
 course-start: 2020-12-07
 course-end: 2021-01-22
+timezone: Europe/Stockholm
 
 
 # Build settings

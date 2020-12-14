@@ -97,15 +97,19 @@
       filename: Untitled
       dirname: untitled-lecture
       description: "IDE, test system"
+      start-full: 20201214T083000
+      end-full: 20201214T093000
     - lecture: "Help session"
       number: "P2"
       slug: ../assignments/project
-      start-time: "08:30"
-      end-time: "11:00"
+      start-time: "09:30"
+      end-time: "12:00"
       length: 150
       filename: Untitled
       dirname: untitled-lecture
       description: "Daily standup 2020-12-14"
+      start-full: 20201214T093000
+      end-full: 20201214T120000
   - day: 2020-12-15
     weekday: "Tisdag"
     lectures:
@@ -118,6 +122,8 @@
       filename: Untitled
       dirname: untitled-lecture
       description: "start of sprint 1"
+      start-full: 20201215T083000
+      end-full: 20201215T110000
   - day: 2020-12-16
     lecture: null 
   - day: 2020-12-17
