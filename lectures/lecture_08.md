@@ -4,26 +4,27 @@ title: Versionshantering
 permalink: /lectures/lecture_08
 ---
 
-Lektion 7 av 10, torsdag den 14:e januari 2021
+Lektion 8 av 10, fredag den 15:e januari 2021
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
 **Draft status**:
 
-* Lektionsplan: 0% klar
-* Lektionsteori: 20% klar
-* Bakgrunds litteratur: 20% klar
+* Lektionsplan: 100% klar
+* Lektionsteori: 60% klar
+* Bakgrunds litteratur: 60% klar
 
-Målet med denna lektion är... Versionhåndtering
+Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandtering, inte så mycket specifika komandon men mer hur man lägger upp sin versionshantering.
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
 * 08:30 Versionshantering
+* 09:15 till 15:00 Workshop
 
 Lunch 12:00 till 13:00
 
-* x
+* till 15:00 Workshop
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
@@ -32,15 +33,16 @@ Lunch 12:00 till 13:00
 * [Git Branching and Branching Strategy](https://dev.to/preethamsathyamurthy/git-branching-and-branching-strategy-4mci)
 * [Choose the right Git branching strategy](https://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344)
 * [Trunk-Based Development or Feature Driven Development](https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development)
-https://blog.programster.org/git-workflows
+* [Git Workflows](https://blog.programster.org/git-workflows)
 * Trunk-Based Development (TBD):
     * [What is Trunk-Based Development?](https://paulhammant.com/2013/04/05/what-is-trunk-based-development/)
     * [Git to know this before you do Trunk Based Development (TBD)](https://medium.com/factualopinions/git-to-know-this-before-you-do-trunk-based-development-tbd-476bc8a7c22f)
 * GitHub flow:
-    * https://guides.github.com/introduction/flow/
-    * https://githubflow.github.io/
-    * http://scottchacon.com/2011/08/31/github-flow.html
+    * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+    * [GitHub Flow](https://githubflow.github.io/)
+    * [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
 * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
+* [What should be in version control… and what should not](https://hackernoon.com/what-should-be-in-version-control-d5f16e9a2bf2)
 
 # Bakgrundsmaterial
 
