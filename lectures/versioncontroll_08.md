@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Versionshantering
-permalink: /lectures/lecture_08
+permalink: /lectures/versioncontroll
 ---
 
 Lektion 8 av 10, fredag den 15:e januari 2021

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Mänskor och kultur
-permalink: /lectures/lecture_02
+permalink: /lectures/people
 ---
 
 Lektion 2 av 10, onsdag den 16:e december 2020

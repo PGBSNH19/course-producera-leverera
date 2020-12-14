@@ -6,7 +6,7 @@
     lectures:
     - lecture: "Introduktion"
       number: "L1"
-      slug: ../lectures/lecture_01
+      slug: ../lectures/introduction
       start-time: "08:30"
       end-time: "09:30"
       location: Online
@@ -16,7 +16,7 @@
       description: "Röda tråden till moln-kursen och start på denna kurs"
     - lecture: "Krav"
       number: "L1"
-      slug: ../lectures/lecture_01
+      slug: ../lectures/introduction
       start-time: "10:00"
       end-time: "11:00"
       location: Online
@@ -90,7 +90,7 @@
     lectures:
     - lecture: "Utvecklingsmiljö"
       number: "L9"
-      slug: ../lectures/lecture_09
+      slug: ../lectures/enviroments
       start-time: "08:30"
       end-time: "09:30"
       length: 30
@@ -118,12 +118,12 @@
       filename: Untitled
       dirname: untitled-lecture
       description: "start of sprint 1"
-  - day: 2020-12-16
-    weekday: "Onsdag"
+  - day: 2020-12-17
+    weekday: "Torsdag"
     lectures:
     - lecture: "Mänskor och kultur"
       number: "L2"
-      slug: ../lectures/lecture_02
+      slug: ../lectures/people
       start-time: "08:30"
       end-time: "09:00"
       length: 80
@@ -139,33 +139,12 @@
       filename: Untitled
       dirname: untitled-lecture
       description: "Daily standup 2020-12-16"
-  - day: 2020-12-17
-    weekday: "Torsdag"
-    lectures:
-    - lecture: "Workshop 2: Teams"
-      number: "W2"
-      slug: ../workshops/workshop2
-      start-time: "08:30"
-      end-time: "09:50"
-      length: 80
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Vad är ett bra team?"
-    - lecture: "Standup"
-      number: "S2"
-      slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
-      length: 150
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2020-12-17"
   - day: 2020-12-18
     weekday: "Fredag"
     lectures:  
     - lecture: "Projekt och release"
       number: "L3"
-      slug: ../lectures/lecture_03
+      slug: ../lectures/project
       start-time: "08:30"
       end-time: "09:00"
       length: 80
@@ -241,7 +220,7 @@
     lectures:
     - lecture: "Dokumentation"
       number: "L4"
-      slug: ../lectures/lecture_04
+      slug: ../lectures/documentation
       start-time: "08:30"
       end-time: "09:00"
       length: 360
@@ -283,7 +262,7 @@
     lectures:
     - lecture: "Livscykel"
       number: "L5"
-      slug: ../lectures/lecture_05
+      slug: ../lectures/lifecycle
       start-time: "08:30"
       end-time: "09:50"
       length: 360
@@ -358,7 +337,7 @@
     lectures:  
     - lecture: "Utvecklingsstrategier"
       number: "L6"
-      slug: ../lectures/lecture_06
+      slug: ../lectures/strategies
       start-time: "08:30"
       end-time: "09:00"
       length: 360
@@ -418,7 +397,7 @@
     lectures:  
     - lecture: "Release"
       number: "L7"
-      slug: ../lectures/lecture_07
+      slug: ../lectures/release
       start-time: "08:30"
       end-time: "09:00"
       length: 360
@@ -439,7 +418,7 @@
     lectures:  
     - lecture: "Versionshantering"
       number: "L8"
-      slug: ../lectures/lecture_08
+      slug: ../lectures/versioncontroll
       start-time: "08:30"
       end-time: "09:00"
       length: 360
@@ -461,7 +440,6 @@
   - day: 2021-01-18
     weekday: "Måndag"
     lectures:
-
     - lecture: "Workshop 9: Utvecklingsmiljö"
       number: "W9"
       slug: ../workshops/workshop9
@@ -488,7 +466,7 @@
     lectures:  
     - lecture: "Produkt"
       number: "L10"
-      slug: ../lectures/lecture_10
+      slug: ../lectures/products
       start-time: "08:30"
       end-time: "09:00"
       length: 30

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Utvecklingsmiljö
-permalink: /lectures/lecture_09
+permalink: /lectures/enviroments
 ---
 
 

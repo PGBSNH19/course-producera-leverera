@@ -1,10 +1,11 @@
 ---
 layout: page
-title: Lectures
-permalink: /lectures/lecture_07
+title: Utvecklingsstrategier
+permalink: /lectures/strategies
 ---
 
-Lektion 7 av 10, torsdag den 14:e januari 2021
+
+Lektion 6 av 10, fredag den 8:e januari 2021
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
@@ -15,12 +16,12 @@ Lektion 7 av 10, torsdag den 14:e januari 2021
 * Bakgrunds litteratur: 0% klar
 * Uppgifter: 0% klar
 
-Målet med denna lektion är... release
+Målet med denna lektion är... TBD
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* Release
+* 08:30 Teori
 
 Lunch 12:00 till 13:00
 
@@ -28,6 +29,14 @@ Lunch 12:00 till 13:00
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
+
+* [Waterfall Model: What Is It and When Should You Use It?](https://airbrake.io/blog/sdlc/waterfall-model)
+* [Extreme Programming: A gentle introduction](http://www.extremeprogramming.org/)
+* [ContinuousDelivery](https://martinfowler.com/bliki/ContinuousDelivery.html)
+* [DevOps: Breaking the Development-Operations barrier](https://www.atlassian.com/devops)
+* [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
+* [Continuous Delivery](https://continuousdelivery.com/)
+* [How Netflix Thinks of DevOps](https://www.youtube.com/watch?v=UTKIT6STSVM)
 
 * TBD
 * TBD

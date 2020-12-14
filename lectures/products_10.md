@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Projekt och release
-permalink: /lectures/lecture_03
+title: Produkt
+permalink: /lectures/products
 ---
 
-Lektion 3 av 10, fredag den 18:e december 2020
+Lektion 10 av 10, tisdag den 19:e januari 2021
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
@@ -20,7 +20,7 @@ Målet med denna lektion är... TBD
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* Projekt och release
+* Produkt
 
 Lunch 12:00 till 13:00
 

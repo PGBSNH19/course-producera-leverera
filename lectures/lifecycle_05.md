@@ -1,10 +1,10 @@
 ---
 layout: page
-title: Lectures
-permalink: /lectures/lecture_04
+title: Livscykel
+permalink: /lectures/lifecycle
 ---
 
-Lektion 4 av 10, måndag den 28:e december 2020
+Lektion 5 av 10, onsdag den 30:e december 2020
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
@@ -15,12 +15,12 @@ Lektion 4 av 10, måndag den 28:e december 2020
 * Bakgrunds litteratur: 0% klar
 * Uppgifter: 0% klar
 
-Målet med denna lektion är... TBD
+Målet med denna lektion är... Livscykel
 
 ## Lektionsplan
 Lektion från kl. 8:30 till kl. 16:30
 
-* Dokumentation
+* Livscykel
 
 Lunch 12:00 till 13:00
 

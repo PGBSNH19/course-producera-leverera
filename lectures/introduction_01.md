@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Introduktion
-permalink: /lectures/lecture_01
+permalink: /lectures/introduction
 ---
 
 Lektion 1 av 10, måndag den 7:e december 2020
