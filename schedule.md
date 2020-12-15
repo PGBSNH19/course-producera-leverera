@@ -9,7 +9,7 @@ Start: {{ site.course-start}}, slut: {{ site.course-end}}
 För projektet, se även kalender på Confluence (dom borde vara i Sync): [Dev kalender](https://plushogskolan.atlassian.net/wiki/display/TO/calendar/578442b2-ec9a-42c8-92c4-4ad20a003e69?calendarName=Dev)
 
 Vecka|Måndag|Tisdag|Onsdag|Torsdag|Fredag
------|-------|-------|------{% for week in site.data.schedule %}
+-----|-------|-------|------{% for week in site.data.schedule.weeks %}
 {{week.week}}{%- for day in week.days -%}|{% if day.lectures %}**{{day.day}}**{%- for lecture in day.lectures -%}<br /><br />{{lecture.start-time}} - {{lecture.end-time}}<br />{{lecture.number}}: [{{lecture.lecture}}]({{lecture.slug}}){%- endfor -%}{% endif %}{%- endfor -%}
 {% endfor %}
 
@@ -17,7 +17,7 @@ Vecka|Måndag|Tisdag|Onsdag|Torsdag|Fredag
 
 ## Alla lektioner
 <ul id="archive">
-{% for week in site.data.schedule %}
+{% for week in site.data.schedule.weeks %}
       <b>Vecka</b>: {{week.week}}<br/>
       
       {% for day in week.days %}
