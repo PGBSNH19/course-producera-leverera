@@ -147,8 +147,8 @@ weeks:
       filename: Untitled
       dirname: untitled-lecture
       description: "start of sprint 1"
-      start-full: 20201215T083000
-      end-full: 20201215T110000
+      start-full: 20201215T090000
+      end-full: 20201215T160000
   - day: 2020-12-16
     lectures: null
   - day: 2020-12-17
