@@ -4,10 +4,12 @@ title: Daily standup
 permalink: /schedule/standup
 ---
 
+Al information om projektet finns i [Confluence](https://plushogskolan.atlassian.net/wiki/spaces/TO/overview?homepageId=58589566), och det är altid informationen i Confluense som är det som gäller.
+
 ## Agenda
-* G1 + G2: 09:00 -> 09:19
-* G3 + G4: 09:20 -> 09:39
-* G5: 09:40 -> 09:59
+* G1 + G2: 10:00 -> 10:19
+* G3 + G4: 10:20 -> 10:39
+* G5: 10:40 -> 10:59
 
 Schema:
 Sprint 1:

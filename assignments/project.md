@@ -20,6 +20,8 @@ Al information om projektet finns i [Confluence](https://plushogskolan.atlassian
 * 2021-01-13 (Onsdag): P7 - Slut sprint 3
 * 2021-01-19: Redovisning av projekt
 
+Alla dagar under sprinten är där [daily standup]({{ "/lectures/standup" | prepend: site.baseurl }}).
+
 ## Tech lead
 Målet med detta möte är att få ett överblik över tekniska funderingar i alla grupper.
 * 2020-12-17, 11:00

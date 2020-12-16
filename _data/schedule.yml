@@ -150,15 +150,7 @@ weeks:
       start-full: 20201215T083000
       end-full: 20201215T110000
   - day: 2020-12-16
-    lectures:
-    - lecture: "Standup"
-      number: "S1"
-      slug: standup
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2020-12-16" 
-      start-full: 20201216T150000
-      end-full: 20201216T160000
+    lectures: null
   - day: 2020-12-17
     weekday: "Torsdag"
     lectures:
@@ -170,16 +162,6 @@ weeks:
       description: "UX, att jobba i ett team"
       start-full: 20201217T083000
       end-full: 20201217T093000
-    - lecture: "Standup"
-      number: "S1"
-      slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2020-12-17"
-      start-full: 20201217T100000
-      end-full: 20201217T110000
   - day: 2020-12-18
     weekday: "Fredag"
     lectures:  
@@ -211,39 +193,17 @@ weeks:
   - day: 2020-12-21
     weekday: "Måndag"
     lectures:
-    - lecture: "Workshop 3: Release"
-      number: "W3"
-      slug: ../workshops/workshop3
-      start-time: "08:30"
-      end-time: "09:50"
+    - lecture: "Dokumentation"
+      number: "L4"
+      slug: ../lectures/documentation
       filename: Untitled
       dirname: untitled-lecture
-      description: "Riskar i release av projekt"
+      description: "Hur man kan dokumentera"
       start-full: 20201221T083000
-      end-full: 20201221T095000
-    - lecture: "Standup"
-      number: "S4"
-      slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2020-12-21"
-      start-full: 20201221T100000
-      end-full: 20201221T110000
+      end-full: 20201221T093000
   - day: 2020-12-22
     weekday: "Tisdag"
-    lectures:
-    - lecture: "Standup"
-      number: "S5"
-      slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2020-12-22"
-      start-full: 20201222T100000
-      end-full: 20201222T110000
+    lectures: null
   - day: 2020-12-23
     weekday: "Onsdag"
     lectures:
@@ -267,73 +227,36 @@ weeks:
   - day: 2020-12-28
     weekday: "Måndag"
     lectures:
-    - lecture: "Dokumentation"
-      number: "L4"
-      slug: ../lectures/documentation
-      start-time: "08:30"
-      end-time: "09:00"
-      length: 360
+    - lecture: "Workshop 3: Release"
+      number: "W3"
+      slug: ../workshops/workshop3
       filename: Untitled
       dirname: untitled-lecture
-      description: "Hur man kan dokumentera"
+      description: "Riskar i release av projekt"
       start-full: 20201228T083000
-      end-full: 20201228T090000
-    - lecture: "Standup"
-      number: "S6"
-      slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2020-12-28"
-      start-full: 20201228T100000
-      end-full: 20201228T110000
+      end-full: 20201228T095000
   - day: 2020-12-29
     weekday: "Tisdag"
     lectures:
     - lecture: "Workshop 4: Dokumentation"
       number: "W4"
       slug: ../workshops/workshop4
-      start-time: "08:30"
-      end-time: "09:50"
       filename: Untitled
       dirname: untitled-lecture
       description: "Innehåll i en bra dokumentaion?"
       start-full: 20201229T083000
       end-full: 20201229T095000
-    - lecture: "Standup"
-      number: "S7"
-      slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2020-12-29"
-      start-full: 20201229T100000
-      end-full: 20201229T110000
   - day: 2020-12-30
     weekday: "Onsdag"
     lectures:
     - lecture: "Livscykel"
       number: "L5"
       slug: ../lectures/lifecycle
-      start-time: "08:30"
-      end-time: "09:50"
       filename: Untitled
       dirname: untitled-lecture
       description: ""
       start-full: 20201230T083000
       end-full: 20201230T095000
-    - lecture: "Standup"
-      number: "S8"
-      slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2020-12-30"
-      start-full: 20201230T100000
-      end-full: 20201230T110000
   - day: 2020-12-31
     lecture: null
   - day: 2021-01-01
@@ -347,38 +270,14 @@ weeks:
     - lecture: "Workshop 5: Kodkvalitet"
       number: "W5"
       slug: ../workshops/workshop5
-      start-time: "08:30"
-      end-time: "09:50"
-      length: 80
       filename: Untitled
       dirname: untitled-lecture
       description: "Vad driver bra kodkvalitet?"
       start-full: 20210105T083000
       end-full: 20210105T095000
-    - lecture: "Standup"
-      number: "S9"
-      slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2021-01-04"
-      start-full: 20210104T100000
-      end-full: 20210104T110000
   - day: 2021-01-05
     weekday: "Tisdag"
-    lectures:
-    - lecture: "Standup"
-      number: "S10"
-      slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
-      length: 150
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2021-01-05"
-      start-full: 20210105T100000
-      end-full: 20210105T110000
+    lectures: null
   - day: 2021-01-06
     lecture: null
   - day: 2021-01-07
@@ -401,8 +300,6 @@ weeks:
     - lecture: "Utvecklingsstrategier"
       number: "L6"
       slug: ../lectures/strategies
-      start-time: "08:30"
-      end-time: "09:00"
       filename: Untitled
       dirname: untitled-lecture
       description: "TDD, BDD, Privacy by design"
@@ -411,8 +308,6 @@ weeks:
     - lecture: "Workshop 6: Utvecklingsstrategier"
       number: "W6"
       slug: ../workshops/workshop6
-      start-time: "09:15"
-      end-time: "15:00"
       filename: Untitled
       dirname: untitled-lecture
       description: "Vad driver utvecklingen?"
@@ -427,9 +322,6 @@ weeks:
     - lecture: "Sprint start"
       number: "P6"
       slug: ../assignments/project
-      start-time: "08:30"
-      end-time: "15:30"
-      length: 360
       filename: Untitled
       dirname: untitled-lecture
       description: "Start of sprint 3"
@@ -437,17 +329,7 @@ weeks:
       end-full: 20210111T150000
   - day: 2021-01-12
     weekday: "Tisdag"
-    lectures:
-    - lecture: "Standup"
-      number: "S11"
-      slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2021-01-12"
-      start-full: 20210112T100000
-      end-full: 20210112T110000
+    lectures: null
   - day: 2021-01-13
     weekday: "Onsdag"
     lectures:
@@ -468,8 +350,6 @@ weeks:
     - lecture: "Release"
       number: "L7"
       slug: ../lectures/release
-      start-time: "08:30"
-      end-time: "09:00"
       filename: Untitled
       dirname: untitled-lecture
       description: "CI / CD, versionsnummber"
@@ -478,8 +358,6 @@ weeks:
     - lecture: "Workshop 7: Release"
       number: "W7"
       slug: ../workshops/workshop7
-      start-time: "09:15"
-      end-time: "15:00"
       filename: Untitled
       dirname: untitled-lecture
       description: "Hur jobbar man med release?"
@@ -491,8 +369,6 @@ weeks:
     - lecture: "Versionshantering"
       number: "L8"
       slug: ../lectures/versioncontroll
-      start-time: "08:30"
-      end-time: "09:00"
       filename: Untitled
       dirname: untitled-lecture
       description: "Licenser, Open Source, Startup"
@@ -517,9 +393,6 @@ weeks:
     - lecture: "Workshop 9: Utvecklingsmiljö"
       number: "W9"
       slug: ../workshops/workshop9
-      start-time: "09:15"
-      end-time: "15:00"
-      length: 285
       filename: Untitled
       dirname: untitled-lecture
       description: "Hur stödar ett utvecklingsmiljö?"
@@ -531,9 +404,6 @@ weeks:
     - lecture: "Projekt redovisning"
       number: "X"
       slug: standup
-      start-time: "09:00"
-      end-time: "16:00"
-      length: 150
       filename: Untitled
       dirname: untitled-lecture
       description: "1h per grupp"
@@ -545,8 +415,6 @@ weeks:
     - lecture: "Produkt"
       number: "L10"
       slug: ../lectures/products
-      start-time: "08:30"
-      end-time: "09:00"
       filename: Untitled
       dirname: untitled-lecture
       description: "Licenser, Open Source, Startup"
@@ -555,8 +423,6 @@ weeks:
     - lecture: "Workshop 10: Licenser"
       number: "W10"
       slug: ../workshops/workshop10
-      start-time: "09:15"
-      end-time: "15:00"
       filename: Untitled
       dirname: untitled-lecture
       description: "Vilken licens ska man välja?"
@@ -568,9 +434,6 @@ weeks:
     - lecture: "Avslutning"
       number: "P"
       slug: ../lectures/final
-      start-time: "08:30"
-      end-time: "11:00"
-      length: 150
       filename: Untitled
       dirname: untitled-lecture
       description: "Presentation av projekt"
@@ -582,9 +445,6 @@ weeks:
     - lecture: "Salstenta"
       number: "T"
       slug: ../assignments/tenta
-      start-time: "09:00"
-      end-time: "13:00"
-      length: 150
       filename: Untitled
       dirname: untitled-lecture
       description: "Salstanta"
