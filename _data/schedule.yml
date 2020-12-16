@@ -176,17 +176,6 @@ weeks:
       description: "Estimering, CI/CD, Feature toggling"
       start-full: 20201218T083000
       end-full: 20201218T090000
-    - lecture: "Standup"
-      number: "S3"
-      slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
-      length: 150
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Daily standup 2020-12-18"
-      start-full: 20201218T100000
-      end-full: 20201218T110000
 - week: 52
   year: 2020
   days:
@@ -210,13 +199,11 @@ weeks:
     - lecture: "Sprint slut och start"
       number: "P4"
       slug: ../assignments/project
-      start-time: "08:30"
-      end-time: "11:00"
       filename: Untitled
       dirname: untitled-lecture
       description: "End of sprint 1 and start of sprint 2"
-      start-full: 20201223T083000
-      end-full: 20201223T110000
+      start-full: 20201223T090000
+      end-full: 20201223T160000
   - day: 2020-12-24
     lecture: null
   - day: 2020-12-25
@@ -292,8 +279,8 @@ weeks:
       filename: Untitled
       dirname: untitled-lecture
       description: "End of sprint 2"
-      start-full: 20210107T083000
-      end-full: 20210107T110000
+      start-full: 20210107T090000
+      end-full: 20210107T160000
   - day: 2021-01-08
     weekday: "Fredag"
     lectures:  
@@ -325,8 +312,8 @@ weeks:
       filename: Untitled
       dirname: untitled-lecture
       description: "Start of sprint 3"
-      start-full: 20210111T083000
-      end-full: 20210111T150000
+      start-full: 20210111T090000
+      end-full: 20210111T160000
   - day: 2021-01-12
     weekday: "Tisdag"
     lectures: null
@@ -342,8 +329,8 @@ weeks:
       filename: Untitled
       dirname: untitled-lecture
       description: "End of sprint 3"
-      start-full: 20210113T083000
-      end-full: 20210113T110000
+      start-full: 20210113T090000
+      end-full: 20210113T160000
   - day: 2021-01-14
     weekday: "Torsdag"
     lectures:  

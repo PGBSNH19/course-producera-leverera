@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Daily standup
-permalink: /schedule/standup
+permalink: /lectures/standup
 ---
 
 Al information om projektet finns i [Confluence](https://plushogskolan.atlassian.net/wiki/spaces/TO/overview?homepageId=58589566), och det är altid informationen i Confluense som är det som gäller.

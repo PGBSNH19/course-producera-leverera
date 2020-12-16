@@ -8,6 +8,8 @@ Start: {{ site.course-start}}, slut: {{ site.course-end}}
 
 Se även kalender på Confluence, dom borde vara i Sync, men är dom inte, då är det Confluence som gäller: [Dev kalender](https://plushogskolan.atlassian.net/wiki/display/TO/calendar/578442b2-ec9a-42c8-92c4-4ad20a003e69?calendarName=Dev)
 
+Alla dagar i sprinterna har även [daily standup]({{ "/lectures/standup" | prepend: site.baseurl }}) även om dom inte syns här
+
 Vecka|Måndag|Tisdag|Onsdag|Torsdag|Fredag
 -----|-------|-------|------{% for week in site.data.schedule.weeks %}
 {{week.week}}{%- for day in week.days -%}|{% if day.lectures %}**{{ day.lectures[0].start-full | date: "%F"}}**{%- for lecture in day.lectures -%}<br /><br />{{ lecture.start-full | date: "%R"}} - {{ lecture.end-full | date: "%R"}}<br />{{lecture.number}}: [{{lecture.lecture}}]({{lecture.slug}}){%- endfor -%}{% endif %}{%- endfor -%}
