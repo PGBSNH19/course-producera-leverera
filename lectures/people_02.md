@@ -4,38 +4,22 @@ title: Mänskor och kultur
 permalink: /lectures/people
 ---
 
-Onsdag den 16:e december 2020
+Torsdag den 17:e december 2020, kl 8.30
 
-![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
-
-**Draft status**:
-
-* Lektionsplan: 0% klar
-* Lektionsteori: 40% klar
-* Bakgrunds litteratur: 40% klar
-
-
-Målet med denna lektion är... TBD
-* 
-
-## Lektionsplan
-Lektion från kl. 8:30 till kl. 16:30
-
-* Mänskor och kultur
-
-Lunch 12:00 till 13:00
-
-* x
+Målet med denna lektion är att ge en introduktion till varför att personerna i ett projekt ofta är viktigare än koden.
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
 ## Team
 * [The 7 Types of Software Developers You’ll (Probably) Work With Someday](https://www.7pace.com/blog/the-7-types-of-software-developers-youll-probably-work-with-someday)
-* PDF: [Human Factors in Software Development](http://publications.lib.chalmers.se/records/fulltext/126748.pdf)
+* [6 Ways COVID-19 Will Change The Workplace Forever](https://www.forbes.com/sites/williamarruda/2020/05/07/6-ways-covid-19-will-change-the-workplace-forever/)
+* [Susan Wheelan Grupputveckling](https://www.youtube.com/watch?v=QZBfPhPgiDM)
 
-Fysikaramer
-Öppna kontoslandskåp
+## Fysika ramer
+* [10 ways to create the optimum developer environment](https://www.techrepublic.com/blog/10-things/10-ways-to-create-the-optimum-developer-environment/)
+* [Finns det fördelar med öppna kontorslandskap?](https://www.tholin.se/artiklar/finns-det-fordelar-med-oppna-kontorslandskap/)
+* [The Office Space Planning Guide for Facilities Manager](https://www.softwareadvice.com/resources/office-space-planning-guide/)
 
 ## Användere
 * [Truly agile software development must take human factors into account](https://www.orianaworld.com/post/truly-agile-software-development-must-take-human-factors-into-account)
@@ -45,6 +29,10 @@ Fysikaramer
 * [Party testing](https://medium.com/blixtdunder/party-testing-3c26d3f0e2ec)
 * [Wireframing for UX: What it is and how to get better at it](https://www.youtube.com/watch?v=8-vTd7GRk-w)
 
+# Kultur
+* [Lessons from 7 highly successful software engineering cultures](https://techbeacon.com/app-dev-testing/lessons-7-highly-successful-software-engineering-cultures)
+* [A Look At Software Development Culture](https://www.accelerance.com/blog/software-development-culture)
+
 # Bakgrundsmaterial
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
@@ -52,6 +40,14 @@ Fysikaramer
 ## Team
 * [15 rules for communicating at GitHub](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
 * [The seven habits of highly effective GitHubbers](https://ben.balter.com/2016/09/13/seven-habits-of-highly-effective-githubbers/)
+* [Helping our developers stay productive while working remotely](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/20/helping-developers-stay-productive-working-remotely/)
+* PDF: [Human Factors in Software Development](http://publications.lib.chalmers.se/records/fulltext/126748.pdf)
+* PDF: [Pandemic programming: How COVID-19 affects software developers and how their organizations can help](https://research.chalmers.se/publication/519655/file/519655_Fulltext.pdf)
+* [Human Factors in Software Engineering](https://www.youtube.com/watch?v=446cZSgSjTk)
+
+## Fysika ramer
+* [Öppna kontorslandskap skadliga för anställda](https://www.dagensmedicin.se/alla-nyheter/nyheter/oppna-kontorslandskap-skadliga-for-anstallda/)
+* [The Ultimate Software Development Office Layout ](http://www.possibility.com/Cpp/SoftDevOfficeLayout.html)
 
 ## Användere
 * [Types of Customers](https://dcmlearning.ie/lean-course-content/lean-six-sigma-types-of-customers.html)
