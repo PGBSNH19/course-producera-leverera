@@ -13,17 +13,18 @@ Målet med denna lektion är att ge en introduktion till varför att personerna 
 
 ## Team
 * [The 7 Types of Software Developers You’ll (Probably) Work With Someday](https://www.7pace.com/blog/the-7-types-of-software-developers-youll-probably-work-with-someday)
-* [6 Ways COVID-19 Will Change The Workplace Forever](https://www.forbes.com/sites/williamarruda/2020/05/07/6-ways-covid-19-will-change-the-workplace-forever/)
-* [Susan Wheelan Grupputveckling](https://www.youtube.com/watch?v=QZBfPhPgiDM)
+* [Integrative Model of Group Development (IMGD) ](https://www.youtube.com/watch?v=m442VHaJsL0)
+
 
 ## Fysika ramer
 * [10 ways to create the optimum developer environment](https://www.techrepublic.com/blog/10-things/10-ways-to-create-the-optimum-developer-environment/)
+* [6 Ways COVID-19 Will Change The Workplace Forever](https://www.forbes.com/sites/williamarruda/2020/05/07/6-ways-covid-19-will-change-the-workplace-forever/)
 * [Finns det fördelar med öppna kontorslandskap?](https://www.tholin.se/artiklar/finns-det-fordelar-med-oppna-kontorslandskap/)
 * [The Office Space Planning Guide for Facilities Manager](https://www.softwareadvice.com/resources/office-space-planning-guide/)
 
-## Användere
-* [Truly agile software development must take human factors into account](https://www.orianaworld.com/post/truly-agile-software-development-must-take-human-factors-into-account)
-* [External and Internal Customers in Lean](https://www.velaction.com/external-and-internal-customers/)
+## Användere / kunder
+* [Types of Customers](https://dcmlearning.ie/lean-course-content/lean-six-sigma-types-of-customers.html)
+* [3 Key Tactics for Scrum Teams to Connect With Customers!](https://dzone.com/articles/5-key-tactics-for-scrum-teams-to-connect-with-thei)
 
 ## Prototyping/UX
 * [Party testing](https://medium.com/blixtdunder/party-testing-3c26d3f0e2ec)
@@ -42,12 +43,16 @@ Målet med denna lektion är att ge en introduktion till varför att personerna 
 * [The seven habits of highly effective GitHubbers](https://ben.balter.com/2016/09/13/seven-habits-of-highly-effective-githubbers/)
 * [Helping our developers stay productive while working remotely](https://www.microsoft.com/en-us/microsoft-365/blog/2020/03/20/helping-developers-stay-productive-working-remotely/)
 * PDF: [Human Factors in Software Development](http://publications.lib.chalmers.se/records/fulltext/126748.pdf)
-* PDF: [Pandemic programming: How COVID-19 affects software developers and how their organizations can help](https://research.chalmers.se/publication/519655/file/519655_Fulltext.pdf)
 * [Human Factors in Software Engineering](https://www.youtube.com/watch?v=446cZSgSjTk)
+* [Susan Wheelan Grupputveckling](https://www.youtube.com/watch?v=QZBfPhPgiDM)
+* [Most Leaders Don't Even Know the Game They're In](https://www.youtube.com/watch?v=RyTQ5-SQYTo)
 
 ## Fysika ramer
 * [Öppna kontorslandskap skadliga för anställda](https://www.dagensmedicin.se/alla-nyheter/nyheter/oppna-kontorslandskap-skadliga-for-anstallda/)
 * [The Ultimate Software Development Office Layout ](http://www.possibility.com/Cpp/SoftDevOfficeLayout.html)
+* PDF: [Pandemic programming: How COVID-19 affects software developers and how their organizations can help](https://research.chalmers.se/publication/519655/file/519655_Fulltext.pdf)
+
 
 ## Användere
-* [Types of Customers](https://dcmlearning.ie/lean-course-content/lean-six-sigma-types-of-customers.html)
+* [External and Internal Customers in Lean](https://www.velaction.com/external-and-internal-customers/)
+
