@@ -125,9 +125,6 @@ weeks:
     - lecture: "Utvecklingsmiljö"
       number: "L9"
       slug: ../lectures/enviroments
-      start-time: "08:30"
-      end-time: "09:30"
-      length: 30
       filename: Untitled
       dirname: untitled-lecture
       description: "IDE, test system"
@@ -136,9 +133,6 @@ weeks:
     - lecture: "Help session"
       number: "P2"
       slug: ../assignments/project
-      start-time: "09:30"
-      end-time: "12:00"
-      length: 150
       filename: Untitled
       dirname: untitled-lecture
       description: "Daily standup 2020-12-14"
@@ -150,8 +144,6 @@ weeks:
     - lecture: "Sprint start"
       number: "P3"
       slug: ../assignments/project
-      start-time: "08:30"
-      end-time: "11:00"
       filename: Untitled
       dirname: untitled-lecture
       description: "start of sprint 1"
@@ -162,33 +154,27 @@ weeks:
     - lecture: "Standup"
       number: "S1"
       slug: standup
-      start-time: "10:00"
-      end-time: "11:00"
       filename: Untitled
       dirname: untitled-lecture
       description: "Daily standup 2020-12-16" 
-      start-full: 20201216T100000
-      end-full: 20201216T110000
+      start-full: 20201216T150000
+      end-full: 20201216T160000
   - day: 2020-12-17
     weekday: "Torsdag"
     lectures:
     - lecture: "Mänskor och kultur"
       number: "L2"
       slug: ../lectures/people
-      start-time: "08:30"
-      end-time: "09:00"
-      length: 80
       filename: Untitled
       dirname: untitled-lecture
       description: "UX, att jobba i ett team"
       start-full: 20201217T083000
-      end-full: 20201217T090000
+      end-full: 20201217T093000
     - lecture: "Standup"
       number: "S1"
       slug: standup
       start-time: "10:00"
       end-time: "11:00"
-      length: 150
       filename: Untitled
       dirname: untitled-lecture
       description: "Daily standup 2020-12-17"

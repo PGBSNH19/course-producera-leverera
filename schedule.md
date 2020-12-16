@@ -6,11 +6,11 @@ permalink: /schedule/
 
 Start: {{ site.course-start}}, slut: {{ site.course-end}}
 
-För projektet, se även kalender på Confluence (dom borde vara i Sync): [Dev kalender](https://plushogskolan.atlassian.net/wiki/display/TO/calendar/578442b2-ec9a-42c8-92c4-4ad20a003e69?calendarName=Dev)
+Se även kalender på Confluence, dom borde vara i Sync, men är dom inte, då är det Confluence som gäller: [Dev kalender](https://plushogskolan.atlassian.net/wiki/display/TO/calendar/578442b2-ec9a-42c8-92c4-4ad20a003e69?calendarName=Dev)
 
 Vecka|Måndag|Tisdag|Onsdag|Torsdag|Fredag
 -----|-------|-------|------{% for week in site.data.schedule.weeks %}
-{{week.week}}{%- for day in week.days -%}|{% if day.lectures %}**{{day.day}}**{%- for lecture in day.lectures -%}<br /><br />{{lecture.start-time}} - {{lecture.end-time}}<br />{{lecture.number}}: [{{lecture.lecture}}]({{lecture.slug}}){%- endfor -%}{% endif %}{%- endfor -%}
+{{week.week}}{%- for day in week.days -%}|{% if day.lectures %}**{{ day.lectures[0].start-full | date: "%F"}}**{%- for lecture in day.lectures -%}<br /><br />{{ lecture.start-full | date: "%R"}} - {{ lecture.end-full | date: "%R"}}<br />{{lecture.number}}: [{{lecture.lecture}}]({{lecture.slug}}){%- endfor -%}{% endif %}{%- endfor -%}
 {% endfor %}
 
 
@@ -24,7 +24,7 @@ Vecka|Måndag|Tisdag|Onsdag|Torsdag|Fredag
             {% if day.lectures %}
 {% for lecture in day.lectures %}
 <li class="archiveposturl">
-        <span class="postlower">{{day.day}} - {{day.weekday}}</span><br>
+        <span class="postlower">{{ lecture.start-full | date: "%F"}} - {{day.weekday}}</span><br>
         <span><a href="{{ lecture.slug }}">{{ lecture.lecture }}</a></span><br>
 <span class = "postlower">
 {{ lecture.description }}</span>
