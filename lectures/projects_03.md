@@ -4,7 +4,7 @@ title: Projekt och release
 permalink: /lectures/project
 ---
 
-Fredag den 18:e december 2020
+Fredag den 18:e december 2020, kl 8:30
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
