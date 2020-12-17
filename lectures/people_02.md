@@ -38,6 +38,10 @@ Målet med denna lektion är att ge en introduktion till varför att personerna 
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
+## Mjukvaru som kunstform
+* [Software Development – Carving And Crafting A Software Is A Technical Art](https://www.spec-india.com/blog/software-development-a-technical-art)
+* [Software Is Art](http://wiki.c2.com/?SoftwareIsArt)
+
 ## Team
 * [15 rules for communicating at GitHub](https://ben.balter.com/2014/11/06/rules-of-communicating-at-github/)
 * [The seven habits of highly effective GitHubbers](https://ben.balter.com/2016/09/13/seven-habits-of-highly-effective-githubbers/)
@@ -51,8 +55,10 @@ Målet med denna lektion är att ge en introduktion till varför att personerna 
 * [Öppna kontorslandskap skadliga för anställda](https://www.dagensmedicin.se/alla-nyheter/nyheter/oppna-kontorslandskap-skadliga-for-anstallda/)
 * [The Ultimate Software Development Office Layout ](http://www.possibility.com/Cpp/SoftDevOfficeLayout.html)
 * PDF: [Pandemic programming: How COVID-19 affects software developers and how their organizations can help](https://research.chalmers.se/publication/519655/file/519655_Fulltext.pdf)
-
+* [Your Team Has to Work Remotely. Scrum Master: Time to Step Up!](https://medium.com/serious-scrum/your-team-has-to-work-remotely-scrum-master-time-to-step-up-bce9fd50bac1)
 
 ## Användere
 * [External and Internal Customers in Lean](https://www.velaction.com/external-and-internal-customers/)
+
+
 

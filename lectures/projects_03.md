@@ -10,21 +10,11 @@ Fredag den 18:e december 2020
 
 **Draft status**:
 
-* Lektionsplan: 0% klar
 * Lektionsteori: 0% klar
 * Bakgrunds litteratur: 0% klar
-* Uppgifter: 0% klar
 
-Målet med denna lektion är... TBD
+Målet med denna lektion är att gå igenom hur vi kan handtera releases.
 
-## Lektionsplan
-Lektion från kl. 8:30 till kl. 16:30
-
-* Projekt och release
-
-Lunch 12:00 till 13:00
-
-* x
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
@@ -32,11 +22,6 @@ Lunch 12:00 till 13:00
 * TBD
 * TBD
 
-## Bok: xxx
-
-*Detta är vilka delar av den frivilliga [bok (xxx)](info_learningmaterial.md) som är releavant för denna lektion*
-
-* TBD
 
 # Bakgrundsmaterial
 
@@ -44,11 +29,3 @@ Lunch 12:00 till 13:00
 
 * TBD
 * TBD
-
-# Övning X
-
-## Övning Xa
-
-# Extra övningar
-
-## Extra: x
