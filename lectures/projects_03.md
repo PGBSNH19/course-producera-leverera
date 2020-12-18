@@ -1,17 +1,10 @@
 ---
 layout: page
-title: Projekt och release
+title: Deploy och Release
 permalink: /lectures/project
 ---
 
 Fredag den 18:e december 2020, kl 8:30
-
-![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
-
-**Draft status**:
-
-* Lektionsteori: 60% klar
-* Bakgrunds litteratur: 60% klar
 
 Målet med denna lektion är att gå igenom hur vi kan handtera releases.
 
@@ -20,18 +13,20 @@ Målet med denna lektion är att gå igenom hur vi kan handtera releases.
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
 ## Deployment
-* [Canary Deployment: What It Is and How To Use It](https://rollout.io/blog/canary-deployment/)
+* [What are canary launching and dark testing?](https://www.functionize.com/blog/what-is-canary-testing-and-dark-launching/)
 * [BlueGreenDeployment](https://www.martinfowler.com/bliki/BlueGreenDeployment.html)
 
 ## Releasing 
 * [Deployed vs Released](https://beyond-agility.com/deployment-vs-release/)
-* [What are canary launching and dark testing?](https://www.functionize.com/blog/what-is-canary-testing-and-dark-launching/)
+* [CanaryRelease](https://martinfowler.com/bliki/CanaryRelease.html)
 * [DevOps Release Management](https://www.youtube.com/watch?v=vlsLxaY4P7M)
 
 ## Release management
 * [Release Management Defined: Process Flow, Best Practices, and More](https://medium.com/@cmcrossroads/release-management-defined-process-flow-best-practices-and-more-f7539b22e47b)
 * [5 Steps to a Successful Release Management Process](https://www.lucidchart.com/blog/release-management-process)
 
+## Feature toggle
+* [Feature Toggles (aka Feature Flags)](https://www.martinfowler.com/articles/feature-toggles.html)
 
 # Bakgrundsmaterial
 
@@ -39,12 +34,16 @@ Målet med denna lektion är att gå igenom hur vi kan handtera releases.
 
 ## Deployment
 * [Using Blue-Green Deployment to Reduce Downtime and Risk ](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
+* [Dark Launching: A Way to Test New Features Before Going Live](https://blog.leaseweb.com/2017/11/17/dark-launching/)
 
 ## Releasing 
-* [Dark Launching: A Way to Test New Features Before Going Live](https://blog.leaseweb.com/2017/11/17/dark-launching/)
 * [What is a “Process Canary”](https://softwareengineering.stackexchange.com/questions/112383/what-is-a-process-canary)
+* [Canary Deployment: What It Is and How To Use It](https://rollout.io/blog/canary-deployment/)
 
 ## Release management
 * [Release And Deployment Management](https://www.youtube.com/watch?v=JGwLHvY7Ohg)
 * [8 Steps to Software Release Management for Agile Teams](https://www.clearvision-cm.com/blog/8-steps-to-software-release-management-for-agile-teams/)
 * [DevOps Release Management](https://www.youtube.com/watch?v=vlsLxaY4P7M)
+
+## Feature toggle
+* [Testing in Production with Feature Toggles in .NET Core](https://joestead.codes/posts/testing-in-production-feature-toggling-netcore/)
