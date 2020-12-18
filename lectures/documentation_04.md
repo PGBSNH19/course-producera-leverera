@@ -4,7 +4,7 @@ title: Dokumentation
 permalink: /lectures/documentation
 ---
 
-Måndag den 28:e december 2020
+Måndag den 28:e december 2020, kl  8:30
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
@@ -17,14 +17,6 @@ Måndag den 28:e december 2020
 
 Målet med denna lektion är... Dokumentation
 
-## Lektionsplan
-Lektion från kl. 8:30 till kl. 16:30
-
-* Dokumentation
-
-Lunch 12:00 till 13:00
-
-* x
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
@@ -32,11 +24,6 @@ Lunch 12:00 till 13:00
 * TBD
 * TBD
 
-## Bok: xxx
-
-*Detta är vilka delar av den frivilliga [bok (xxx)](info_learningmaterial.md) som är releavant för denna lektion*
-
-* TBD
 
 # Bakgrundsmaterial
 

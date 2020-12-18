@@ -57,6 +57,9 @@ Målet med denna lektion är att ge en introduktion till varför att personerna 
 * PDF: [Pandemic programming: How COVID-19 affects software developers and how their organizations can help](https://research.chalmers.se/publication/519655/file/519655_Fulltext.pdf)
 * [Your Team Has to Work Remotely. Scrum Master: Time to Step Up!](https://medium.com/serious-scrum/your-team-has-to-work-remotely-scrum-master-time-to-step-up-bce9fd50bac1)
 
+## Kultur
+* [Learn More About the Spotify Squad Framework — Part I](https://medium.com/pm101/spotify-squad-framework-part-i-8f74bcfcd761)
+
 ## Användere
 * [External and Internal Customers in Lean](https://www.velaction.com/external-and-internal-customers/)
 

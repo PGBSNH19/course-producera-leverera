@@ -35,6 +35,7 @@ Målet med denna lektion är att gå igenom hur vi kan handtera releases.
 ## Deployment
 * [Using Blue-Green Deployment to Reduce Downtime and Risk ](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
 * [Dark Launching: A Way to Test New Features Before Going Live](https://blog.leaseweb.com/2017/11/17/dark-launching/)
+* PDF (scrum.org): [Use Scrum +Continuous Delivery to build the right thing](https://scrumorg-website-prod.s3.amazonaws.com/drupal/2016-08/Formatted_Continuous%20Delivery-v2.pdf)
 
 ## Releasing 
 * [What is a “Process Canary”](https://softwareengineering.stackexchange.com/questions/112383/what-is-a-process-canary)
