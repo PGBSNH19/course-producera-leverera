@@ -27,6 +27,7 @@ Lunch 12:00 till 13:00
 * [What Is a Test Environment](https://www.testim.io/blog/test-environment-guide/)
 * [10 ways to create the optimum developer environment](https://www.techrepublic.com/blog/10-things/10-ways-to-create-the-optimum-developer-environment/)
 * Teaser från [Versionshantering]({{ "/lectures/versioncontroll_08" | prepend: site.baseurl }}): [Trunk-Based Development or Feature Driven Development](https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development)
+https://dev.to/jeremycmorgan/setting-up-a-net-development-machine-in-2020-5eo
 
 # Bakgrundsmaterial
 
@@ -39,6 +40,8 @@ Lunch 12:00 till 13:00
 * A Beginners Guide to Docker and VS Code (Python):
     *  [Part 1](https://www.packetflow.co.uk/a-beginners-guide-to-docker-and-vs-code-part-1/) - Introduction
     *  [Part 2](https://www.packetflow.co.uk/a-beginners-guide-to-docker-and-vs-code-part-2/) - Use the container for development
+    https://itnext.io/using-docker-for-local-development-environment-f090bbe6d41d
+https://blog.atulr.com/docker-local-environment/
 * .NET:
     * Microsoft: [Use multiple environments in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/environments?view=aspnetcore-5.0)
     * [Configuration and environments in ASP.NET Core](http://danpatrascu.com/configuration-and-environments-in-asp-net-core/)
@@ -49,3 +52,5 @@ Lunch 12:00 till 13:00
     * [Environment variables](https://docs.github.com/en/free-pro-team@latest/actions/reference/environment-variables)
     * [(CI/CD) Multi-Environment deployment for a React App on Firebase, using GitHub Actions](https://medium.com/@giologist/ci-cd-multi-environment-deployment-for-a-react-app-on-firebase-using-github-actions-f48bc6b08b21)
     * [GitHub Actions For the Win](https://towardsdatascience.com/github-actions-for-the-win-8a215d390c1b)
+
+

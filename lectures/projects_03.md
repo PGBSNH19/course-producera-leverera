@@ -27,6 +27,7 @@ Målet med denna lektion är att gå igenom hur vi kan handtera releases.
 
 ## Feature toggle
 * [Feature Toggles (aka Feature Flags)](https://www.martinfowler.com/articles/feature-toggles.html)
+* [Coding with Feature Flags: How-to Guide and Best Practices](https://medium.com/@thysniu/coding-with-feature-flags-how-to-guide-and-best-practices-3f9637f51265)
 
 # Bakgrundsmaterial
 
