@@ -25,7 +25,8 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 * Waterfall
     * [Waterfall Model: What Is It and When Should You Use It?](https://airbrake.io/blog/sdlc/waterfall-model)
 * Agile
-    * 
+    * [Manifest för Agil systemutveckling (sv)](http://agilemanifesto.org/iso/sv/manifesto.html) - [(en)](http://agilemanifesto.org/)
+    * [Agile at Scale](https://hbr.org/2018/05/agile-at-scale)
     * Scrum (ett ramverk):
         * [The Scrum Guide](https://www.scrumguides.org/scrum-guide.html)
     * Extreme programming:
