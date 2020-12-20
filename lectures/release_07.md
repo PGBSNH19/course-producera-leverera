@@ -10,27 +10,18 @@ Torsdag den 14:e januari 2021
 
 **Draft status**:
 
-* Lektionsplan: 0% klar
 * Lektionsteori: 0% klar
 * Bakgrunds litteratur: 0% klar
-* Uppgifter: 0% klar
 
 Målet med denna lektion är... release
-
-## Lektionsplan
-Lektion från kl. 8:30 till kl. 16:30
-
-* Release
-
-Lunch 12:00 till 13:00
-
-* x
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
 * TBD
 * TBD
+* [ContinuousDelivery](https://martinfowler.com/bliki/ContinuousDelivery.html)
+* [Continuous Delivery](https://continuousdelivery.com/)
 
 ## Bok: xxx
 
@@ -44,11 +35,3 @@ Lunch 12:00 till 13:00
 
 * TBD
 * TBD
-
-# Övning X
-
-## Övning Xa
-
-# Extra övningar
-
-## Extra: x

@@ -19,9 +19,10 @@ Målet med denna lektion är att få ett inblik i olika typ av dokumentation som
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-* [Understanding the Pareto Principle (The 80/20 Rule)](https://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/)
-* BDD Features
-    * 
+
+* BDD Features (Gherkin):
+    * [Cucumber Anti-Patterns](http://www.thinkcode.se/blog/2016/06/22/cucumber-antipatterns)
+    * [User stories and BDD (part #1)- the origins and evolution of the user story](https://cucumber.io/blog/bdd/user-stories-are-not-the-same-as-features/)
 * [UML](https://www.uml.org/)  - [Moln applikationer: Lektion 8](https://pgbsnh19.github.io/molnapplikationer/lecture_08_data.html):
     * [All You Need to Know About UML Diagrams: Types and 5+ Examples](https://tallyfy.com/uml-diagram/)
 * Use case diagrams (UML):
@@ -45,7 +46,9 @@ Målet med denna lektion är att få ett inblik i olika typ av dokumentation som
     * Books by [Simon Brown](https://leanpub.com/u/simonbrown)
         * [Technical leadership and the balance with agility](https://leanpub.com/software-architecture-for-developers)
         * [Visualise, document and explore your software architecture](https://leanpub.com/visualising-software-architecture)
+* BDD
 
+    * [How can I reuse my gherkin scenarios?](https://johnfergusonsmart.com/1136-2/)
 
 
 
