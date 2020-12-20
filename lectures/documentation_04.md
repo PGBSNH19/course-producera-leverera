@@ -10,10 +10,10 @@ Måndag den 28:e december 2020, kl  8:30
 
 **Draft status**:
 
-* Lektionsteori: 0% klar
-* Bakgrunds litteratur: 0% klar
+* Lektionsteori: 60% klar
+* Bakgrunds litteratur: 40% klar
 
-Målet med denna lektion är... Dokumentation
+Målet med denna lektion är att få ett inblik i olika typ av dokumentation som man kan göra som utvecklare.
 
 
 # Lektionsteori
@@ -21,12 +21,10 @@ Målet med denna lektion är... Dokumentation
 
 * [Understanding the Pareto Principle (The 80/20 Rule)](https://betterexplained.com/articles/understanding-the-pareto-principle-the-8020-rule/)
 * BDD Features
-* UML
-    * https://pgbsnh19.github.io/molnapplikationer/lecture_08_data.html
-    * https://tallyfy.com/uml-diagram/
-    * https://en.wikipedia.org/wiki/Computer-aided_software_engineering
-    * https://www.uml.org/
-* UML (Use cases):
+    * 
+* [UML](https://www.uml.org/)  - [Moln applikationer: Lektion 8](https://pgbsnh19.github.io/molnapplikationer/lecture_08_data.html):
+    * [All You Need to Know About UML Diagrams: Types and 5+ Examples](https://tallyfy.com/uml-diagram/)
+* Use case diagrams (UML):
     * Video (13 min): [How to Write a Use Case](https://www.youtube.com/watch?v=RHdGn7WMWos)
     * [User Stories vs Use Cases](https://www.youtube.com/watch?v=Vnf3xg3oY4A)
     * [Use Case Descriptions](https://www.sciencedirect.com/topics/computer-science/case-description)
@@ -35,12 +33,15 @@ Målet med denna lektion är... Dokumentation
     * [DocFX](https://dotnet.github.io/docfx/)
     * [Doxygen](https://github.com/doxygen/doxygen)
 * [Scaffold](https://en.wikipedia.org/wiki/Scaffold_(programming))
+* [Computer-aided software engineering](https://en.wikipedia.org/wiki/Computer-aided_software_engineering)
 
 # Bakgrundsmaterial
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
-c4:
+* UML: 
+    * [How to edit Markdown + UML in Visual Studio Code](https://www.freecodecamp.org/news/inserting-uml-in-markdown-using-vscode/)
+* C4:
     * Books by [Simon Brown](https://leanpub.com/u/simonbrown)
         * [Technical leadership and the balance with agility](https://leanpub.com/software-architecture-for-developers)
         * [Visualise, document and explore your software architecture](https://leanpub.com/visualising-software-architecture)
