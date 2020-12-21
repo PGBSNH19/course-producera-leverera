@@ -19,7 +19,10 @@ Målet med denna lektion är att få ett inblik i olika typ av dokumentation som
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-
+* Uncle Bob: [OnDocumentation](http://butunclebob.com/ArticleS.UncleBob.OnDocumentation)
+* [CodeAsDocumentation](https://www.martinfowler.com/bliki/CodeAsDocumentation.html)
+* [Code as Documentation](https://adadevelopment.github.io/engineering/code-as-documentation.html)
+* [Don't document your code. Code your documentation](https://dev.to/raddikx/dont-document-your-code-code-your-documentation)
 * BDD Features (Gherkin):
     * [Cucumber Anti-Patterns](http://www.thinkcode.se/blog/2016/06/22/cucumber-antipatterns)
     * [User stories and BDD (part #1)- the origins and evolution of the user story](https://cucumber.io/blog/bdd/user-stories-are-not-the-same-as-features/)
@@ -47,7 +50,6 @@ Målet med denna lektion är att få ett inblik i olika typ av dokumentation som
         * [Technical leadership and the balance with agility](https://leanpub.com/software-architecture-for-developers)
         * [Visualise, document and explore your software architecture](https://leanpub.com/visualising-software-architecture)
 * BDD
-
     * [How can I reuse my gherkin scenarios?](https://johnfergusonsmart.com/1136-2/)
 
 
