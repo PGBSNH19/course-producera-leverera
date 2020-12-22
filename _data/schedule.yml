@@ -213,26 +213,18 @@ weeks:
   days:
   - day: 2020-12-28
     weekday: "Måndag"
-    lectures:
-    - lecture: "Workshop 3: Release"
-      number: "W3"
-      slug: ../workshops/workshop3
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Riskar i release av projekt"
-      start-full: 20201228T083000
-      end-full: 20201228T095000
+    lectures: null
   - day: 2020-12-29
     weekday: "Tisdag"
     lectures:
-    - lecture: "Workshop 4: Dokumentation"
-      number: "W4"
-      slug: ../workshops/workshop4
+    - lecture: "Versionshantering"
+      number: "L8"
+      slug: ../lectures/versioncontroll
       filename: Untitled
       dirname: untitled-lecture
-      description: "Innehåll i en bra dokumentaion?"
+      description: "Licenser, Open Source, Startup"
       start-full: 20201229T083000
-      end-full: 20201229T095000
+      end-full: 20201229T090000
   - day: 2020-12-30
     weekday: "Onsdag"
     lectures:
@@ -254,14 +246,14 @@ weeks:
   - day: 2021-01-04
     weekday: "Måndag"
     lectures:
-    - lecture: "Workshop 5: Kodkvalitet"
-      number: "W5"
-      slug: ../workshops/workshop5
+    - lecture: "Utvecklingsstrategier"
+      number: "L6"
+      slug: ../lectures/strategies
       filename: Untitled
       dirname: untitled-lecture
-      description: "Vad driver bra kodkvalitet?"
-      start-full: 20210105T083000
-      end-full: 20210105T095000
+      description: "TDD, BDD, Privacy by design"
+      start-full: 20210104T083000
+      end-full: 20210104T093000
   - day: 2021-01-05
     weekday: "Tisdag"
     lectures: null
@@ -284,14 +276,15 @@ weeks:
   - day: 2021-01-08
     weekday: "Fredag"
     lectures:  
-    - lecture: "Utvecklingsstrategier"
-      number: "L6"
-      slug: ../lectures/strategies
+    - lecture: "Workshop 5: Kodkvalitet"
+      number: "W5"
+      slug: ../workshops/workshop5
       filename: Untitled
       dirname: untitled-lecture
-      description: "TDD, BDD, Privacy by design"
-      start-full: 20210108T083000
-      end-full: 20210108T093000
+      description: "Vad driver bra kodkvalitet?"
+      start-full: 20210105T083000
+      end-full: 20210105T095000
+
     - lecture: "Workshop 6: Utvecklingsstrategier"
       number: "W6"
       slug: ../workshops/workshop6
@@ -353,14 +346,22 @@ weeks:
   - day: 2021-01-15
     weekday: "Fredag"
     lectures:  
-    - lecture: "Versionshantering"
-      number: "L8"
-      slug: ../lectures/versioncontroll
+    - lecture: "Workshop 4: Dokumentation"
+      number: "W4"
+      slug: ../workshops/workshop4
       filename: Untitled
       dirname: untitled-lecture
-      description: "Licenser, Open Source, Startup"
+      description: "Innehåll i en bra dokumentaion?"
       start-full: 20210115T083000
-      end-full: 20210115T090000
+      end-full: 20210115T085000
+    - lecture: "Workshop 3: Release"
+      number: "W3"
+      slug: ../workshops/workshop3
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Riskar i release av projekt"
+      start-full: 20210115T090000
+      end-full: 20210115T092000
     - lecture: "Workshop 8: Versionshantering"
       number: "W8"
       slug: ../workshops/workshop8
