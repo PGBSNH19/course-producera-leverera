@@ -1,0 +1,21 @@
+---
+layout: page
+title: Manifest
+permalink: /manifest/
+---
+
+# Manifest för Producera och leverera mjukvaror
+ 
+I denna kurs ska vi utveckla vår kunskaper som utvecklare.
+Att vara en bra utvecklar som kan ingå i ett stort utvecklingsprojekt kräver, mer än bara att kunna skriva välfungerande kod
+och hitta på tekniska lösningar.
+
+Genom denna kurs kommer vi att värdesätta:
+ 
+**Reflektion av processer** framför komplett programvara
+**Samarbete på tvärs av utbildningar** framför specialiserade roller
+**Dokumentera och dela av sig kundskap** framför att anta att alla vet
+**Underhålla (skåpa och uppdatera) en plan** framför att känns sig fram
+ 
+Det vill säga, medan det finns värde i punkterna till höger,
+värdesätter vi punkterna till vänster mer.
