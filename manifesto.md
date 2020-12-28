@@ -15,8 +15,11 @@ och hitta på tekniska lösningar.
 Genom denna kurs kommer vi att värdesätta:
  
 **Reflektion av processer** framför komplett programvara
+
 **Samarbete på tvärs av utbildningar** framför specialiserade roller
+
 **Dokumentera och dela av sig kundskap** framför att anta att alla vet
+
 **Underhålla (skåpa och uppdatera) en plan** framför att känns sig fram
  
 Det vill säga, medan det finns värde i punkterna till höger,
