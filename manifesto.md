@@ -17,11 +17,14 @@ Genom denna kurs kommer vi att värdesätta:
 * **Samarbete på tvärs av utbildningar** framför specialiserade roller
 * **Dokumentera och dela av sig kundskap** framför att anta att alla vet
 * **Underhålla (skåpa och uppdatera) en plan** framför att känns sig fram
+* **Automatisering** framför manuella moment
  
 Det vill säga, medan det finns värde i punkterna till höger,
 värdesätter vi punkterna till vänster mer.
 
 ## Andra viktiga manifest
+
+Manifestet för denna kurs borde inte ersätta dissa som också är viktiga.
 
 [Manifest för Agil systemutveckling ](http://agilemanifesto.org/iso/sv/manifesto.html)
 
