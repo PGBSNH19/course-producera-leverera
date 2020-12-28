@@ -9,4 +9,4 @@ För att kunna jobba som systemutvecklare, räcker det inte att enbart känna ti
 man måste också ha en djup kunskap om dom processor och verktyg som man använder båda utvecklingsprocessen 
 och hur man leverera mjukvaror till slut användaren.
 
-[Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
+[Manifest för Producera och leverera mjukvaror](/manifest)

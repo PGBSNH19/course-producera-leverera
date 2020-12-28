@@ -4,6 +4,8 @@ title: Manifest
 permalink: /manifest/
 ---
 
+[Wikipedia om Manifest](https://sv.wikipedia.org/wiki/Manifest)
+
 # Manifest för Producera och leverera mjukvaror
  
 I denna kurs ska vi utveckla vår kunskaper som utvecklare.
@@ -19,3 +21,9 @@ Genom denna kurs kommer vi att värdesätta:
  
 Det vill säga, medan det finns värde i punkterna till höger,
 värdesätter vi punkterna till vänster mer.
+
+## Andra viktiga manifest
+
+[Manifest för Agil systemutveckling ](http://agilemanifesto.org/iso/sv/manifesto.html)
+
+[Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
