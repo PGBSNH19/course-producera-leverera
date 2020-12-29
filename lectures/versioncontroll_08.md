@@ -62,5 +62,6 @@ Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandte
     * [#7 - Git Push --Force will destroy the timeline and kill us all](https://www.youtube.com/watch?v=dgOpnebZkRo)
 
 # Exercises
+Förslag, gör dissa runt den 14:e januari, när vi är klara med projektet 
 * [Introduction to GitHub](https://lab.github.com/githubtraining/introduction-to-github)
 * [Managing merge conflicts](https://lab.github.com/githubtraining/managing-merge-conflicts)

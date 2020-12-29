@@ -18,6 +18,7 @@ Genom denna kurs kommer vi att värdesätta:
 * **Dokumentera och dela av sig kundskap** framför att anta att alla vet
 * **Underhålla (skåpa och uppdatera) en plan** framför att känns sig fram
 * **Automatisering** framför manuella moment
+    * Evt manuella moment  bör i så fall dokumenteras på något sätt
  
 Det vill säga, medan det finns värde i punkterna till höger,
 värdesätter vi punkterna till vänster mer.
