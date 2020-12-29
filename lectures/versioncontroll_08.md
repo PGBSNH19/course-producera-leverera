@@ -6,25 +6,7 @@ permalink: /lectures/versioncontroll
 
 Fredag den 15:e januari 2021
 
-![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
-
-**Draft status**:
-
-* Lektionsplan: 100% klar
-* Lektionsteori: 60% klar
-* Bakgrunds litteratur: 60% klar
-
 Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandtering, inte så mycket specifika komandon men mer hur man lägger upp sin versionshantering.
-
-## Lektionsplan
-Lektion från kl. 8:30 till kl. 16:30
-
-* 08:30 Versionshantering
-* 09:15 till 15:00 Workshop
-
-Lunch 12:00 till 13:00
-
-* till 15:00 Workshop
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
@@ -37,7 +19,6 @@ Lunch 12:00 till 13:00
     * [Mercury](https://www.mercurial-scm.org/)
 * [GIT vs. TFVC — non-opinionated vs. opinionated solution](https://medium.com/@Mareks_082/git-vs-tfs-non-opinionated-vs-opinionated-solution-bb3eeb56acd0)
 * [What should be in version control… and what should not](https://hackernoon.com/what-should-be-in-version-control-d5f16e9a2bf2)
-* [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
 * Git history:
     * [Telling stories with your Git history](https://www.futurelearn.com/info/blog/telling-stories-with-your-git-history)
     * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
@@ -66,6 +47,7 @@ Lunch 12:00 till 13:00
 * [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
 * [Check In Early, Check In Often](https://blog.codinghorror.com/check-in-early-check-in-often/)
 * [The Pros and Cons of Monorepos, Explained](https://medium.com/better-programming/the-pros-and-cons-monorepos-explained-f86c998392e1)
+* [Commit Often, Perfect Later, Publish Once: Git Best Practices](https://sethrobertson.github.io/GitBestPractices/)
 * Git history:
     * [How (and why!) to keep your Git commit history clean](https://about.gitlab.com/blog/2018/06/07/keeping-git-commit-history-clean/)
     * [Git Tools - Rewriting History](http://git-scm.com/book/en/v2/Git-Tools-Rewriting-History)

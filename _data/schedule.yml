@@ -245,18 +245,18 @@ weeks:
   days:
   - day: 2021-01-04
     weekday: "Måndag"
-    lectures:
+    lectures: null
+  - day: 2021-01-05
+    weekday: "Tisdag"
+    lectures: 
     - lecture: "Utvecklingsstrategier"
       number: "L6"
       slug: ../lectures/strategies
       filename: Untitled
       dirname: untitled-lecture
       description: "TDD, BDD, Privacy by design"
-      start-full: 20210104T083000
-      end-full: 20210104T093000
-  - day: 2021-01-05
-    weekday: "Tisdag"
-    lectures: null
+      start-full: 20210105T083000
+      end-full: 20210105T093000
   - day: 2021-01-06
     lecture: null
   - day: 2021-01-07
