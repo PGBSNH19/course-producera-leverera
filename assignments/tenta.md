@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Daily standup
+title: Tentamen
 permalink: /assignments/tenta
 ---
 
