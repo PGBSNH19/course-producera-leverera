@@ -32,6 +32,7 @@ Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandte
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
+* [Understanding Version-Control Systems](http://www.catb.org/~esr/writings/version-control/version-control.html)
 * [Best Branching Strategies For High-Velocity Development](https://www.perforce.com/blog/vcs/best-branching-strategies-high-velocity-development)
 * [An Efficient Git Branching Strategy Every Developer Should Know](https://medium.com/better-programming/efficient-git-branching-strategy-every-developer-should-know-f1034b1ba041)
 * [Check In Early, Check In Often](https://blog.codinghorror.com/check-in-early-check-in-often/)
