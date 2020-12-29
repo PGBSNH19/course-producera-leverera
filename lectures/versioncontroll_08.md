@@ -23,20 +23,9 @@ Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandte
     * [Telling stories with your Git history](https://www.futurelearn.com/info/blog/telling-stories-with-your-git-history)
     * [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/)
 * Branching:
-    * [Comparing Git branching strategies](https://dev.to/arbitrarybytes/comparing-git-branching-strategies-dl4)
-    * [Git Branching and Branching Strategy](https://dev.to/preethamsathyamurthy/git-branching-and-branching-strategy-4mci)
-    * [Choose the right Git branching strategy](https://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344)
-    * [Trunk-Based Development or Feature Driven Development](https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development)
     * [Git Workflows](https://blog.programster.org/git-workflows)
-* Trunk-Based Development (TBD):
-    * [What is Trunk-Based Development?](https://paulhammant.com/2013/04/05/what-is-trunk-based-development/)
-    * [Git to know this before you do Trunk Based Development (TBD)](https://medium.com/factualopinions/git-to-know-this-before-you-do-trunk-based-development-tbd-476bc8a7c22f)
-* GitHub flow:
-    * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
-    * [GitHub Flow](https://githubflow.github.io/)
-    * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
-    * [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
-
+    * [Comparing Git branching strategies](https://dev.to/arbitrarybytes/comparing-git-branching-strategies-dl4)
+    * [Choose the right Git branching strategy](https://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344)
 
 
 # Bakgrundsmaterial
@@ -56,6 +45,17 @@ Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandte
 * Git tags:
     * [Version controlling using Git-flow tags](https://medium.com/tensult/version-controlling-using-git-flow-tags-57b34c1d6a71)
     * [Tags in Git — Git Tags vs Git Branching](https://sarakhandaker.medium.com/tags-in-git-git-tags-vs-git-branching-c8aa03723c14)
+* Branching:
+    * [Git Branching and Branching Strategy](https://dev.to/preethamsathyamurthy/git-branching-and-branching-strategy-4mci)
+    * [Trunk-Based Development or Feature Driven Development](https://www.perforce.com/blog/vcs/trunk-based-development-or-feature-driven-development)
+    * [A successful Git branching model](https://nvie.com/posts/a-successful-git-branching-model/)
+* Branching Strategy - GitHub flow:
+    * [Understanding the GitHub flow](https://guides.github.com/introduction/flow/)
+    * [GitHub Flow](https://githubflow.github.io/)
+    * [GitHub Flow](http://scottchacon.com/2011/08/31/github-flow.html)
+* Branching Strategy - Trunk-Based Development (TBD):
+    * [What is Trunk-Based Development?](https://paulhammant.com/2013/04/05/what-is-trunk-based-development/)
+    * [Git to know this before you do Trunk Based Development (TBD)](https://medium.com/factualopinions/git-to-know-this-before-you-do-trunk-based-development-tbd-476bc8a7c22f)
 * Computer Stuff They Didn't Teach You:
     * [#5 - Git Pull Requests explained](https://www.youtube.com/watch?v=Mfz8NQncwiQ)
     * [#6 - Git Rebase vs Merge explained](https://www.youtube.com/watch?v=hae9zg0-sZY)
