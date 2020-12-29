@@ -20,9 +20,9 @@ Målet med denna lektion är... Livscykel
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
 Systems development life cycle (SDLC):
-    * [What Is SDLC? Understand the Software Development Life Cycle](https://stackify.com/what-is-sdlc/)
-    * [SSDLC 101: What Is the Secure Software Development Life Cycle?](https://dzone.com/articles/ssdlc-101-what-is-the-secure-software-development)
-    * Video (64 min): [Systems Lifecycle Management Webinar](https://vimeo.com/418839785)
+* [What Is SDLC? Understand the Software Development Life Cycle](https://stackify.com/what-is-sdlc/)
+* [SSDLC 101: What Is the Secure Software Development Life Cycle?](https://dzone.com/articles/ssdlc-101-what-is-the-secure-software-development)
+* Video (64 min): [Systems Lifecycle Management Webinar](https://vimeo.com/418839785)
 
 SDLC steps:
 * Requirements
