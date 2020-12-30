@@ -258,7 +258,15 @@ weeks:
       start-full: 20210105T083000
       end-full: 20210105T093000
   - day: 2021-01-06
-    lecture: null
+    lectures:
+    - lecture: "Produkt"
+      number: "L10"
+      slug: ../lectures/products
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Licenser, Open Source, Startup"
+      start-full: 20210106T083000
+      end-full: 20210106T090000
   - day: 2021-01-07
     weekday: "Torsdag"
     lectures:
@@ -276,23 +284,30 @@ weeks:
   - day: 2021-01-08
     weekday: "Fredag"
     lectures:  
-    - lecture: "Workshop 5: Kodkvalitet"
-      number: "W5"
-      slug: ../workshops/workshop5
+    - lecture: "Release"
+      number: "L7"
+      slug: ../lectures/release
       filename: Untitled
       dirname: untitled-lecture
-      description: "Vad driver bra kodkvalitet?"
-      start-full: 20210105T083000
-      end-full: 20210105T095000
-
-    - lecture: "Workshop 6: Utvecklingsstrategier"
-      number: "W6"
-      slug: ../workshops/workshop6
+      description: "CI / CD, versionsnummber"
+      start-full: 20210108T083000
+      end-full: 20210108T090000
+    - lecture: "Workshop"
+      number: "W2"
+      slug: ../workshops/workshop2
       filename: Untitled
       dirname: untitled-lecture
-      description: "Vad driver utvecklingen?"
-      start-full: 20210108T091500
-      end-full: 20210108T150000
+      description: "Präsentera ett annat projekt"
+      start-full: 20210108T093000
+      end-full: 20210108T140000
+    - lecture: "Präsentation av workshop"
+      number: "W2"
+      slug: ../workshops/workshop2
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Präsentera ett annat projekt"
+      start-full: 20210108T140000
+      end-full: 20210108T160000
 - week: 02
   year: 2021
   days:
@@ -327,14 +342,6 @@ weeks:
   - day: 2021-01-14
     weekday: "Torsdag"
     lectures:  
-    - lecture: "Release"
-      number: "L7"
-      slug: ../lectures/release
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "CI / CD, versionsnummber"
-      start-full: 20210114T083000
-      end-full: 20210114T090000
     - lecture: "Workshop 7: Release"
       number: "W7"
       slug: ../workshops/workshop7
@@ -400,14 +407,7 @@ weeks:
   - day: 2021-01-20
     weekday: "Onsdag"
     lectures:  
-    - lecture: "Produkt"
-      number: "L10"
-      slug: ../lectures/products
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Licenser, Open Source, Startup"
-      start-full: 20210120T083000
-      end-full: 20210120T090000
+
     - lecture: "Workshop 10: Licenser"
       number: "W10"
       slug: ../workshops/workshop10

@@ -26,6 +26,7 @@ Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandte
     * [Git Workflows](https://blog.programster.org/git-workflows)
     * [Comparing Git branching strategies](https://dev.to/arbitrarybytes/comparing-git-branching-strategies-dl4)
     * [Choose the right Git branching strategy](https://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344)
+    * [Adopt a Git branching strategy](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
 
 
 # Bakgrundsmaterial
