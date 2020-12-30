@@ -37,14 +37,18 @@ SDLC steps:
 
 * Systems development life cycle (SDLC):
     * Wikipedia: [Systems development life cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
+    * [What is SDLC?](https://www.synopsys.com/glossary/what-is-sdlc.html)
     * [Agile Software Development Life Cycle](https://clickup.com/blog/agile/sdlc-agile/)
     * [SDLC agile model](https://www.w3schools.in/sdlc-tutorial/agile-model/)
     * [XP Life Cycle](https://explainagile.com/agile/xp-extreme-programming/lifecycle/)
     * [Secure SDLC 101](https://www.synopsys.com/blogs/software-security/secure-sdlc/)
 * Models:
     * [Software Development Life Cycle: A Guide to Phases and Models](https://ncube.com/blog/software-development-life-cycle-guide)
-    * [Microsoft SDL practices](https://www.microsoft.com/en-us/securityengineering/sdl/practices)
+    * Secure SDLC
+        * [Microsoft SDL practices](https://www.microsoft.com/en-us/securityengineering/sdl/practices)
         * [Getting started with the Microsoft SDL](https://www.microsoft.com/en-us/securityengineering/sdl/howto)
+        * [NIST 800-160](https://csrc.nist.gov/publications/detail/sp/800-160/vol-1/final)
+        * [OWASP SAMM](https://wiki.owasp.org/index.php/OWASP_SAMM_Project)
     * Waterfall model
         * Wikipedia: [Waterfall model](https://en.wikipedia.org/wiki/Waterfall_model)
     * Agile model
@@ -66,6 +70,6 @@ SDLC steps:
     * [Why unit tests should not use database?](https://stackoverflow.com/questions/15450957/why-unit-tests-should-not-use-database)
 * Development
     * Video (53 min): [SOFTWARE CRAFTSMANSHIP Core Belief](https://www.youtube.com/watch?v=A3uiu_aW4PI)
-    * Linting
+    * [What Is Lint Code? And Why Is Linting Important?](https://www.perforce.com/blog/qac/what-lint-code-and-why-linting-important)
     * Wikipedia: [Software craftsmanship](https://en.wikipedia.org/wiki/Software_craftsmanship)
     * [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
