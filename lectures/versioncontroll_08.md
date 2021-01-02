@@ -29,7 +29,7 @@ Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandte
     * [Adopt a Git branching strategy](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
 
 <details markdown="1">
-<summary>**Bakgrundsmaterial**</summary>
+<summary markdown="1">**Bakgrundsmaterial**</summary>
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
