@@ -30,7 +30,9 @@ Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandte
 
 # Bakgrundsmaterial
 <details markdown="1">
-<summary>Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material (klicka för att öppna texten)</summary>
+<summary>Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen (klicka för att visa materialet)</summary>
+
+*Oftast förklara det material bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller har en annan vinkel på det samma material*
 
 * [Understanding Version-Control Systems](http://www.catb.org/~esr/writings/version-control/version-control.html)
 * [Best Branching Strategies For High-Velocity Development](https://www.perforce.com/blog/vcs/best-branching-strategies-high-velocity-development)
