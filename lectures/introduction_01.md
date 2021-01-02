@@ -9,7 +9,7 @@ Måndag den 7:e december 2020
 Denna lektion är en introduktion till kursen, samt dom första steg med projektet. Fastsällning av grupper.
 
 
-## Lektionsplan
+# Lektionsplan
 Lektion från kl. 8:30 till kl. 15:00
 
 * 08:30 Introduktion
