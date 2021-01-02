@@ -36,7 +36,10 @@ Målet med denna lektion är att ge en introduktion till varför att personerna 
 
 # Bakgrundsmaterial
 
-*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+<details markdown="1">
+<summary>Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen (klicka för att visa materialet)</summary>
+
+*Oftast förklara det material bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller har en annan vinkel på det samma material*
 
 ## Mjukvaru som kunstform
 * [Software Development – Carving And Crafting A Software Is A Technical Art](https://www.spec-india.com/blog/software-development-a-technical-art)
@@ -63,5 +66,5 @@ Målet med denna lektion är att ge en introduktion till varför att personerna 
 ## Användere
 * [External and Internal Customers in Lean](https://www.velaction.com/external-and-internal-customers/)
 
-
+</details>
 

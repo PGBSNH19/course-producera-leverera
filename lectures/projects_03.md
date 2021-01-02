@@ -31,7 +31,10 @@ Målet med denna lektion är att gå igenom hur vi kan handtera releases.
 
 # Bakgrundsmaterial
 
-*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+<details markdown="1">
+<summary>Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen (klicka för att visa materialet)</summary>
+
+*Oftast förklara det material bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller har en annan vinkel på det samma material*
 
 ## Deployment
 * [Using Blue-Green Deployment to Reduce Downtime and Risk ](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
@@ -49,3 +52,5 @@ Målet med denna lektion är att gå igenom hur vi kan handtera releases.
 
 ## Feature toggle
 * [Testing in Production with Feature Toggles in .NET Core](https://joestead.codes/posts/testing-in-production-feature-toggling-netcore/)
+
+</details>

@@ -30,8 +30,10 @@ Lunch 12:00 till 13:00
 https://dev.to/jeremycmorgan/setting-up-a-net-development-machine-in-2020-5eo
 
 # Bakgrundsmaterial
+<details markdown="1">
+<summary>Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen (klicka för att visa materialet)</summary>
 
-*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+*Oftast förklara det material bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller har en annan vinkel på det samma material*
 
 * [Why should we have separate development, testing, and production environments?](https://linuxtogether.org/why-should-we-have-separate-development-testing-and-production-environments/)
 * Local development:
@@ -53,4 +55,4 @@ https://blog.atulr.com/docker-local-environment/
     * [(CI/CD) Multi-Environment deployment for a React App on Firebase, using GitHub Actions](https://medium.com/@giologist/ci-cd-multi-environment-deployment-for-a-react-app-on-firebase-using-github-actions-f48bc6b08b21)
     * [GitHub Actions For the Win](https://towardsdatascience.com/github-actions-for-the-win-8a215d390c1b)
 
-
+</details>

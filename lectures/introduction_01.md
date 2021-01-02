@@ -49,7 +49,10 @@ Lunch 12:00 till 13:00
 
 # Bakgrundsmaterial
 
-*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+<details markdown="1">
+<summary>Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen (klicka för att visa materialet)</summary>
+
+*Oftast förklara det material bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller har en annan vinkel på det samma material*
 
 ## Krav
 * (SRS)[Writing Software Requirements Specifications](https://techwhirl.com/writing-software-requirements-specifications/)
@@ -75,6 +78,8 @@ Lunch 12:00 till 13:00
 * [Estimation is Easy and Useful: Estimate a game of Chess](http://zuill.us/WoodyZuill/2011/11/07/estimation-is-easy-and-useful-estimate-a-game-of-chess/) (\#NoEstimate)
 * [Beyond Estimates](https://www.stevefenton.co.uk/2014/06/beyond-estimates/) (\#NoEstimate)
 * [Simple estimations work. Use the data you have available](http://softwaredevelopmenttoday.com/2007/04/simple-estimations-work-use-the-data-you-have-available/)
+
+</details>
 
 # Uppgift
 1a och 1b kör parallet, ni har fram till fredag!

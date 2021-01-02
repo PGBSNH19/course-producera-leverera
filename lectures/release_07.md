@@ -31,7 +31,12 @@ Målet med denna lektion är... release
 
 # Bakgrundsmaterial
 
-*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+<details markdown="1">
+<summary>Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen (klicka för att visa materialet)</summary>
+
+*Oftast förklara det material bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller har en annan vinkel på det samma material*
 
 * TBD
 * TBD
+
+</details>
