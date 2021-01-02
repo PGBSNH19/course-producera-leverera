@@ -29,7 +29,7 @@ Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandte
     * [Adopt a Git branching strategy](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
 
 <details>
-<summary>Bakgrundsmaterial</summary>
+<summary>**Bakgrundsmaterial**</summary>
 
 *Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
 
@@ -62,6 +62,8 @@ Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandte
     * [#5 - Git Pull Requests explained](https://www.youtube.com/watch?v=Mfz8NQncwiQ)
     * [#6 - Git Rebase vs Merge explained](https://www.youtube.com/watch?v=hae9zg0-sZY)
     * [#7 - Git Push --Force will destroy the timeline and kill us all](https://www.youtube.com/watch?v=dgOpnebZkRo)
+
+
 </details>
 
 # Exercises
