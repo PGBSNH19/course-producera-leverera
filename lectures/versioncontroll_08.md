@@ -28,10 +28,9 @@ Målet med denna lektion är gå igenom mer avacerede begrep runt versionshandte
     * [Choose the right Git branching strategy](https://www.creativebloq.com/web-design/choose-right-git-branching-strategy-121518344)
     * [Adopt a Git branching strategy](https://docs.microsoft.com/en-us/azure/devops/repos/git/git-branching-guidance?view=azure-devops)
 
+# Bakgrundsmaterial
 <details markdown="1">
-<summary><h1>Bakgrundsmaterial</h1></summary>
-
-*Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material.*
+<summary>Detta är material som är frivillig, och som kan kan används till at få en djupare insikt i dagens ämnen. Oftast förklara det bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller han har en annan vinkel på det samma material (klicka för att öppna texten)</summary>
 
 * [Understanding Version-Control Systems](http://www.catb.org/~esr/writings/version-control/version-control.html)
 * [Best Branching Strategies For High-Velocity Development](https://www.perforce.com/blog/vcs/best-branching-strategies-high-velocity-development)
