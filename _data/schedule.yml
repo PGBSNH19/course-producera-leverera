@@ -249,12 +249,12 @@ weeks:
   - day: 2021-01-05
     weekday: "Tisdag"
     lectures: 
-    - lecture: "Utvecklingsstrategier"
+    - lecture: "Programmeringsstrategier"
       number: "L6"
       slug: ../lectures/strategies
       filename: Untitled
       dirname: untitled-lecture
-      description: "TDD, BDD, Privacy by design"
+      description: "Hur får vi till bra kod"
       start-full: 20210105T083000
       end-full: 20210105T093000
   - day: 2021-01-06
