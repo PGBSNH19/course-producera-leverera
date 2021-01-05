@@ -22,9 +22,12 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 
 ## Learning
 * [5 Important Learning Strategies for Programmers](https://medium.com/better-programming/5-important-learning-strategies-for-programmers-cdffa94a448d)
+* [How to Write Better Code](https://medium.com/@fionnachan/code-refactoring-how-to-write-better-code-d1aeab549597)
+* [Improving your coding skills through Code Katas](https://engineering.salesforce.com/improving-your-coding-skills-through-code-katas-5adda85da076)
 
 ## Code Refactoring
 * [Code Refactoring — Definition, Best Practices](https://medium.com/@softwarebrothers/code-refactoring-definition-best-practices-software-brothers-blog-9cb677e922f6)
+* [Refactoring and Design Patterns](https://medium.com/pilar-2020/refactoring-and-design-patterns-77fac0c538eb)
 
 ## Code quality
 * [Comprehensive Guide to Code Quality: Best Practices and Tools](https://codingsans.com/blog/code-quality)
@@ -47,6 +50,8 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 * DevOps (en kultur)
     * [DevOps: Breaking the Development-Operations barrier](https://www.atlassian.com/devops)
     * [How Netflix Thinks of DevOps](https://www.youtube.com/watch?v=UTKIT6STSVM)
+    * [The Three Ways: The Principles Underpinning DevOps](https://itrevolution.com/the-three-ways-principles-underpinning-devops/)
+    * [The Five Ideals of DevOps](https://itrevolution.com/five-ideals-of-devops/)
 * Kanban
 * Lean SD
 * XP
@@ -61,6 +66,15 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 * CI
 * CD
 * DDD
+
+## Learning
+* [How To Code For Beginners: All You Need to Know](https://www.bitdegree.org/tutorials/how-to-code-for-beginners/)
+* [Teaching and Learning Through Code Katas](https://leanpub.com/b/codekatas) (bok)
+
+## Technical debt
+* [Gates: Security Over Features](https://www.eweek.com/security/gates-security-over-features)
+* [The Secret to Amazons Success Internal APIs](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/)
+* [The Strategic Decisions That Caused Nokia’s Failure](https://knowledge.insead.edu/strategy/the-strategic-decisions-that-caused-nokias-failure-7766)
 
 ## Clean code
 * [10 Principles for Keeping Your Programming Code Clean](https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/)
@@ -80,6 +94,7 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 * [Refactoring](https://refactoring.guru/refactoring) (kurs)
 * [Code refactoring techniques](https://apiumhub.com/tech-blog-barcelona/code-refactoring-techniques/)
 * [31 Days of Refactoring](https://www.onlineprogrammingbooks.com/free-book-31-days-of-refactoring/) (bok)
+
 
 ## BDD
 * [The beginner's guide to BDD (behaviour-driven development)](https://inviqa.com/blog/bdd-guide)

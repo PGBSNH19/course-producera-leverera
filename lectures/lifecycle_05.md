@@ -44,6 +44,7 @@ SDLC steps:
     * [Agile Software Development Life Cycle](https://clickup.com/blog/agile/sdlc-agile/)
     * [SDLC agile model](https://www.w3schools.in/sdlc-tutorial/agile-model/)
     * [XP Life Cycle](https://explainagile.com/agile/xp-extreme-programming/lifecycle/)
+    * [From a Bill Gates memo to an industry practice: The story of Security Development Lifecycle](https://www.windowscentral.com/bill-gates-memo-industry-practice-story-security-development-cycle)
     * [Secure SDLC 101](https://www.synopsys.com/blogs/software-security/secure-sdlc/)
 * Models:
     * [Software Development Life Cycle: A Guide to Phases and Models](https://ncube.com/blog/software-development-life-cycle-guide)
