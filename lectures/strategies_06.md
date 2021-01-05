@@ -16,6 +16,7 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 ## Technical Debt
 * [Technical Debt: What Is It & How Do I Avoid It?](https://www.projectmanager.com/blog/what-is-technical-debt)
 * [Introduction to the Technical Debt Concept](https://www.agilealliance.org/introduction-to-the-technical-debt-concept)
+* [Good and Bad Technical Debt (and how TDD helps)](https://blog.crisp.se/2013/10/11/henrikkniberg/good-and-bad-technical-debt)
 
 ## Principles
 * [7 Common Programming Principles That Every Developer Must Follow](https://www.geeksforgeeks.org/7-common-programming-principles-that-every-developer-must-follow/)
@@ -35,7 +36,7 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 * [How To Evaluate Software Code Quality And Why It Is Important](https://hackernoon.com/how-to-evaluate-software-code-quality-and-why-it-is-important-ldn3whh)
 
 ## Clean code
-* [7 reasons clean code matters ](https://www.pluralsight.com/blog/software-development/7-reasons-clean-code-matters)
+* [7 reasons clean code matters](https://www.pluralsight.com/blog/software-development/7-reasons-clean-code-matters)
 
 # Bakgrundsmaterial
 
@@ -52,6 +53,7 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
     * [How Netflix Thinks of DevOps](https://www.youtube.com/watch?v=UTKIT6STSVM)
     * [The Three Ways: The Principles Underpinning DevOps](https://itrevolution.com/the-three-ways-principles-underpinning-devops/)
     * [The Five Ideals of DevOps](https://itrevolution.com/five-ideals-of-devops/)
+    * [DevOps Timeline](https://www.dotnetcurry.com/devops/1529/devops-timeline)
 * Kanban
     * Wikipedia: [Kanban](https://en.wikipedia.org/wiki/Kanban_(development))
 * Lean software development
@@ -91,12 +93,14 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 * [Gates: Security Over Features](https://www.eweek.com/security/gates-security-over-features)
 * [The Secret to Amazons Success Internal APIs](https://apievangelist.com/2012/01/12/the-secret-to-amazons-success-internal-apis/)
 * [The Strategic Decisions That Caused Nokia’s Failure](https://knowledge.insead.edu/strategy/the-strategic-decisions-that-caused-nokias-failure-7766)
+* [Does Technical Debt Cause Employee Turnover?](https://www.industriallogic.com/blog/technical-debt-considered/)
 
 ## Clean code
 * [10 Principles for Keeping Your Programming Code Clean](https://onextrapixel.com/10-principles-for-keeping-your-programming-code-clean/)
 * [7 Tips To Write Clean And Better Code in 2020](https://www.geeksforgeeks.org/7-tips-to-write-clean-and-better-code-in-2020/)
 * [10 Clean Coding Techniques That Every Coder Should Know](https://blog.stoneriverelearning.com/10-clean-coding-techniques-that-every-coder-should-know/)
 * [10 Clean Code Techniques That Every Coder Should Know](https://www.codingdojo.com/blog/clean-code-techniques)
+* [The Boy Scout Rule in Coding](https://skilltomastery.blogspot.com/2016/08/the-boy-scout-rule-in-coding.html)
 * Programming tips:
     * [#1: 6 tips I wish I knew earlier when I started to code](https://itnext.io/programming-tips-1-6-tips-i-wish-i-knew-earlier-when-i-started-to-code-504052dd88cf)
     * [#2: 6 tips to make your code clean and elegant again](https://itnext.io/programming-tips-2-6-tips-to-make-your-code-clean-and-elegant-again-c6c47458724a)
