@@ -23,7 +23,7 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 ## Learning
 * [5 Important Learning Strategies for Programmers](https://medium.com/better-programming/5-important-learning-strategies-for-programmers-cdffa94a448d)
 * [How to Write Better Code](https://medium.com/@fionnachan/code-refactoring-how-to-write-better-code-d1aeab549597)
-* [Improving your coding skills through Code Katas](https://engineering.salesforce.com/improving-your-coding-skills-through-code-katas-5adda85da076)
+* [Improving your coding skills through Code Katas](https://engineering.salesforce.com/improving-your-coding-skills-through-code-katas-5adda85da076) - [example](https://www.youtube.com/watch?v=vX-Yym7166Y)
 
 ## Code Refactoring
 * [Code Refactoring — Definition, Best Practices](https://medium.com/@softwarebrothers/code-refactoring-definition-best-practices-software-brothers-blog-9cb677e922f6)
@@ -53,23 +53,39 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
     * [The Three Ways: The Principles Underpinning DevOps](https://itrevolution.com/the-three-ways-principles-underpinning-devops/)
     * [The Five Ideals of DevOps](https://itrevolution.com/five-ideals-of-devops/)
 * Kanban
-* Lean SD
-* XP
-* Large-scale Scrum (LeSS)
+    * Wikipedia: [Kanban](https://en.wikipedia.org/wiki/Kanban_(development))
+* Lean software development
+    * Wikipedia: [Lean software development](https://en.wikipedia.org/wiki/Lean_software_development)
+* XP - eXtreme Programming
+    * Wikipedia: [Extreme programming](https://en.wikipedia.org/wiki/Extreme_programming)
 * SCRUM
+    * Wikipedia: [Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development))
+    * Large-scale Scrum (LeSS) (wikipedia): [Scrum - Large-scale Scrum](https://en.wikipedia.org/wiki/Scrum_(software_development)#Large-scale_Scrum)
 * Microsoft Solutions Framework (MSF) 
+    * Wikipedia: [Microsoft Solutions Framework](https://en.wikipedia.org/wiki/Microsoft_Solutions_Framework)
 
 ## Practices
-* BDD
 * TDD
     * [30 Days of TDD: Day One – What is TDD and Why Should I Use It?](https://www.telerik.com/blogs/30-days-tdd-day-one-what-is-tdd?_ga=2.75780637.985784397.1609777173-1684349873.1609777173)
-* CI
-* CD
-* DDD
+* DDD - Domain Driven Design
+    * Wikipedia: [Domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design)
+* BDD
+    * [Determining the proper level of detail in a BDD scenario](https://stackoverflow.com/questions/55953777/determining-the-proper-level-of-detail-in-a-bdd-scenario)
+    * [BDD with SpecFlow (C#/.NET)](https://school.cucumber.io/courses/bdd-with-specflow-csharp-dotnet)
+    * [TestStack.BDDfy](https://github.com/TestStack/TestStack.BDDfy)
+    * [Getting started with BDD using Specflow .NET Core 3.1 (C#)](https://www.youtube.com/watch?v=O5oHiBD5Lvk)
+* HDD - hypothesis-driven-development
+    * [How to Implement Hypothesis-Driven Development](https://www.thoughtworks.com/insights/articles/how-implement-hypothesis-driven-development)
+* Privacy by design / dataprotection by design
+    * [Software development with Data Protection by Design and by Default](https://www.datatilsynet.no/en/about-privacy/virksomhetenes-plikter/innebygd-personvern/data-protection-by-design-and-by-default/)
+    * [How To Protect Your Users With The Privacy By Design Framework](https://www.smashingmagazine.com/2017/07/privacy-by-design-framework/)
+    * EU: [Guidelines 4/2019 on Article 25 Data Protection by Design and by Default](https://edpb.europa.eu/our-work-tools/public-consultations-art-704/2019/guidelines-42019-article-25-data-protection-design_en)
+    * [GDPR Developer Guide](https://lincnil.github.io/GDPR-Developer-Guide)
 
 ## Learning
 * [How To Code For Beginners: All You Need to Know](https://www.bitdegree.org/tutorials/how-to-code-for-beginners/)
 * [Teaching and Learning Through Code Katas](https://leanpub.com/b/codekatas) (bok)
+* [Learning Test Driven Development with TDD Katas](https://www.codeproject.com/articles/886492/learning-test-driven-development-with-tdd-katas)
 
 ## Technical debt
 * [Gates: Security Over Features](https://www.eweek.com/security/gates-security-over-features)
