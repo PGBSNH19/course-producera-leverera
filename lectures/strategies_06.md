@@ -32,6 +32,7 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 
 ## Code quality
 * [Comprehensive Guide to Code Quality: Best Practices and Tools](https://codingsans.com/blog/code-quality)
+* [Symptoms of lacking software quality](https://www.emcken.dk/programming/2021/01/06/Symptoms-of-lacking-software-quality/)
 * [What Is Code Quality? And How to Improve Code Quality](https://www.perforce.com/blog/sca/what-code-quality-and-how-improve-code-quality)
 * [How To Evaluate Software Code Quality And Why It Is Important](https://hackernoon.com/how-to-evaluate-software-code-quality-and-why-it-is-important-ldn3whh)
 

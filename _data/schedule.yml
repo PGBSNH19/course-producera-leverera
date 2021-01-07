@@ -276,29 +276,13 @@ weeks:
   - day: 2021-01-08
     weekday: "Fredag"
     lectures:  
-    - lecture: "Release"
-      number: "L7"
-      slug: ../lectures/release
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "CI / CD, versionsnummber"
-      start-full: 20210108T083000
-      end-full: 20210108T093000
-    - lecture: "Produkt"
-      number: "L10"
-      slug: ../lectures/products
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Licenser, Open Source, Startup"
-      start-full: 20210106T093000
-      end-full: 20210106T103000
     - lecture: "Workshop"
       number: "W2"
       slug: ../workshops/workshop2
       filename: Untitled
       dirname: untitled-lecture
       description: "Präsentera ett annat projekt"
-      start-full: 20210108T103000
+      start-full: 20210108T083000
       end-full: 20210108T143000
     - lecture: "Präsentation av workshop"
       number: "W2"
@@ -342,13 +326,21 @@ weeks:
   - day: 2021-01-14
     weekday: "Torsdag"
     lectures:  
-    - lecture: "Workshop 7: Release"
+    - lecture: "Produkt"
+      number: "L10"
+      slug: ../lectures/products
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Licenser, Open Source, Startup"
+      start-full: 20210114T083000
+      end-full: 20210114T093000
+    - lecture: "Workshop 2: Release"
       number: "W7"
       slug: ../workshops/workshop7
       filename: Untitled
       dirname: untitled-lecture
       description: "Hur jobbar man med release?"
-      start-full: 20210114T091500
+      start-full: 20210114T094500
       end-full: 20210114T150000
   - day: 2021-01-15
     weekday: "Fredag"
