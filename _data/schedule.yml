@@ -283,14 +283,14 @@ weeks:
       dirname: untitled-lecture
       description: "Präsentera ett annat projekt"
       start-full: 20210108T083000
-      end-full: 20210108T143000
+      end-full: 20210108T140000
     - lecture: "Präsentation av workshop"
       number: "W2"
       slug: ../workshops/workshop2
       filename: Untitled
       dirname: untitled-lecture
       description: "Präsentera ett annat projekt"
-      start-full: 20210108T143000
+      start-full: 20210108T140000
       end-full: 20210108T160000
 - week: 02
   year: 2021
