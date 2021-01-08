@@ -17,7 +17,7 @@ Präsentaionen ska byggas upp runt dokumentations modellen C4.
 * Video (35 min): [Visualising software architecture with the C4 model](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 
 Vem gör vad:
-* Grupp 1 genomgår och presentera Grupp 4, [branch (review-g1)](https://github.com/PGBSNH19/project-group-4-1/tree/review-g1) och pull request
+* Grupp 1 genomgår och presentera Grupp 4, [branch (review-g1)](https://github.com/PGBSNH19/project-group-4-1/tree/review-g1a) och pull request
 * Grupp 2 genomgår och presentera Grupp 1, [branch (review-g2)](https://github.com/PGBSNH19/project-grupp-1-hotel/tree/review-g2) och pull request
 * Grupp 3 genomgår och presentera Grupp 5, [branch (review-g3)](https://github.com/PGBSNH19/project-grupp-5-1/tree/review-g3) och pull request
 * Grupp 4 genomgår och presentera Grupp 3, [branch (review-g4)](https://github.com/PGBSNH19/project-los-gringos/tree/review-g4) och pull request
