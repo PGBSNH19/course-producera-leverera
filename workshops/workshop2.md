@@ -21,7 +21,7 @@ Vem gör vad:
 * Grupp 2 genomgår och presentera Grupp 1, [branch (review-g2)](https://github.com/PGBSNH19/project-grupp-1-hotel/tree/review-g2) och pull request
 * Grupp 3 genomgår och presentera Grupp 5, [branch (review-g3)](https://github.com/PGBSNH19/project-grupp-5-1/tree/review-g3) och pull request
 * Grupp 4 genomgår och presentera Grupp 3, [branch (review-g4)](https://github.com/PGBSNH19/project-los-gringos/tree/review-g4) och pull request
-* Grupp 5 genomgår och presentera Grupp 2, [branch (review-g5)]() och pull request
+* Grupp 5 genomgår och presentera Grupp 2, [branch (review-g5)](https://github.com/PGBSNH19/project-g2/tree/review-g5) och pull request
 
 Presentaion för klassen, start kl 14:00.
 Ordning:
