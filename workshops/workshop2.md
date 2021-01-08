@@ -23,6 +23,12 @@ Vem gör vad:
 * Grupp 4 genomgår och presentera Grupp 3, [branch (review-g4)](https://github.com/PGBSNH19/project-los-gringos/tree/review-g4) och pull request
 * Grupp 5 genomgår och presentera Grupp 2, [branch (review-g5)](https://github.com/PGBSNH19/project-g2/tree/review-g5) och pull request
 
+Ni har förjande ressourser:
+* GitHub (kod)
+* Confluence
+* Jira
+* Discord historik
+
 Presentaion för klassen, start kl 14:00.
 Ordning:
 * Grupp 1
