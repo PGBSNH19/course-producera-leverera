@@ -60,3 +60,8 @@ Presentaionen ska innehålla:
   * Context
   * Container
   * Component
+
+Frågor som ni kommer att skulle ta ställning till efter präsentation:
+* GruppX: känner ni igen det system som beskrivs av GruppY?
+* GruppX: är där något som GruppY har glömt i deras presentation?
+* GruppY: är där något av GruppX dokumentation som ni vill ta med er in i ert eget projekt?
