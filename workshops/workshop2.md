@@ -4,13 +4,17 @@ title: Präsentera ett annat projekt
 permalink: /workshops/workshop2
 ---
 
-Fredag den 08:e januari 2021
+**Fredag den 08:e januari 2021**
 
 I denna workshop ska ni jobba med en annan grupps projekt.
 
 Under dagen är det tanken att ni ska läsa, förstå och lokalt köra en annan grupps projekt. Och göra en präsentation om projektet.
 
-Präsentaionen ska byggas upp runt dokumentations modellen C4.
+Ni får en branch (review-gX) som den som det är tänkt att ni jobbar emot, ni uppmanas till att förbättre dokumentation och evt kod. 
+
+Ni får också en pull request, denna kan ni använda till att kommunicera med gruppen, om ni har frågor till koden, dokumentationen eller hur sakar hänger ihop. Men vänta inte på ett svar ;)
+
+Presentaionen ska byggas upp runt dokumentations modellen C4:
 * Offical Homepage:[The C4 model for visualising software architecture](https://c4model.com/)
 * [The C4 Model for Software Architecture](https://www.infoq.com/articles/C4-architecture-model/)
 * Wikipedia: [C4 model](https://en.wikipedia.org/wiki/C4_model)
@@ -38,7 +42,18 @@ Ordning:
 * Grupp 5
 
 Presentaionen ska innehålla:
+* En beskriving av vilken dokumentation som finns
+    * Och vart den finns
+    * Finns olika delar på olika ställen?
 * En beskriving av hur det gick att få lösningen att köra lokalt
+    * Vilka komando har ni kört?
+    * Lokal build? Docker? Docker-compose?
+* Infrastruktur
+    * Vilka miljöer är där?
+    * Hur kommer man åt dom?
+    * När deployas dom?
+* Branching (och merging) strategi (övergripande)
+    * Hur är det tänkt att man ska jobba med koden?
 * En C4 dokumentation av projektet
   * Context
   * Container
