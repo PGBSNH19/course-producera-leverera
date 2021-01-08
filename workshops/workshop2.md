@@ -19,6 +19,8 @@ Presentaionen ska byggas upp runt dokumentations modellen C4:
 * [The C4 Model for Software Architecture](https://www.infoq.com/articles/C4-architecture-model/)
 * Wikipedia: [C4 model](https://en.wikipedia.org/wiki/C4_model)
 * Video (35 min): [Visualising software architecture with the C4 model](https://www.youtube.com/watch?v=x2-rSnhpw0g)
+* [C4 Modelling plugin for draw.io](https://github.com/tobiashochguertel/c4-draw.io), tack till @MirkoPralica
+ 
 
 Vem gör vad:
 * Grupp 1 genomgår och presentera Grupp 4, [branch (review-g1)](https://github.com/PGBSNH19/project-group-4-1/tree/review-g1a) och [pull request](https://github.com/PGBSNH19/project-group-4-1/pull/62)
