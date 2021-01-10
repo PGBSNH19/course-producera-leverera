@@ -30,3 +30,5 @@ Manifestet för denna kurs borde inte ersätta dissa som också är viktiga.
 [Manifest för Agil systemutveckling ](http://agilemanifesto.org/iso/sv/manifesto.html)
 
 [Manifesto for Software Craftsmanship](https://manifesto.softwarecraftsmanship.org/)
+
+[Threat Modeling Manifesto](http://www.threatmodelingmanifesto.org/)
