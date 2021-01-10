@@ -373,9 +373,9 @@ weeks:
   - day: 2021-01-20
     weekday: "Onsdag"
     lectures:  
-    - lecture: "Workshop 10: Licenser"
-      number: "W10"
-      slug: ../workshops/workshop10
+    - lecture: "Workshop 5"
+      number: "W5"
+      slug: ../workshops/workshop5
       filename: Untitled
       dirname: untitled-lecture
       description: "Vilken licens ska man välja?"
