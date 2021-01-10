@@ -345,13 +345,21 @@ weeks:
   - day: 2021-01-15
     weekday: "Fredag"
     lectures:  
+    - lecture: "Ask Almost Anything"
+      number: "A1"
+      slug: ../aaa/
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "TBA"
+      start-full: 20210114T083000
+      end-full: 20210114T093000
     - lecture: "Workshop 4"
       number: "W4"
       slug: ../workshops/workshop4
       filename: Untitled
       dirname: untitled-lecture
       description: "TBD"
-      start-full: 20210115T083000
+      start-full: 20210115T093000
       end-full: 20210115T150000
 - week: 03
   year: 2021
@@ -373,6 +381,14 @@ weeks:
   - day: 2021-01-20
     weekday: "Onsdag"
     lectures:  
+    - lecture: "Ask Almost Anything"
+      number: "A2"
+      slug: ../aaa/
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "TBA"
+      start-full: 20210120T083000
+      end-full: 20210120T093000
     - lecture: "Workshop 5"
       number: "W5"
       slug: ../workshops/workshop5
@@ -384,14 +400,22 @@ weeks:
   - day: 2021-01-21
     weekday: "Torsdag"
     lectures:
+    - lecture: "Ask Almost Anything"
+      number: "A3"
+      slug: ../aaa/
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "TBA"
+      start-full: 20210121T083000
+      end-full: 20210121T093000
     - lecture: "Avslutning"
       number: "P"
       slug: ../lectures/final
       filename: Untitled
       dirname: untitled-lecture
       description: "Presentation av projekt"
-      start-full: 20210121T083000
-      end-full: 20210121T110000
+      start-full: 20210121T093000
+      end-full: 20210121T160000
   - day: 2021-01-22
     weekday: "Fredag"
     lectures:  
