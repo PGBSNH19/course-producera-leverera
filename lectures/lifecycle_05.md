@@ -38,6 +38,8 @@ SDLC steps:
 
 *Oftast förklara det material bakgrunden till dagens lektionsteori, går mer på djupet med ämne eller har en annan vinkel på det samma material*
 
+* [Programs, life cycles, and laws of software evolution](https://blog.acolyer.org/2020/02/14/programs-life-cycles-laws/)
+    * Bakgrunds artikel, [Meir M. Lehman](https://en.wikipedia.org/wiki/Manny_Lehman_(computer_scientist)) (sep 1980): [Programs,  Life Cycles, and Laws of Software  Evolution](https://users.ece.utexas.edu/~perry/education/SE-Intro/lehman.pdf), [IEEE](https://ieeexplore.ieee.org/document/1456074)
 * Systems development life cycle (SDLC):
     * Wikipedia: [Systems development life cycle](https://en.wikipedia.org/wiki/Systems_development_life_cycle)
     * [What is SDLC?](https://www.synopsys.com/glossary/what-is-sdlc.html)

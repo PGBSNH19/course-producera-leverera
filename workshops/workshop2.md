@@ -12,15 +12,16 @@ Under dagen är det tanken att ni ska läsa, förstå och lokalt köra en annan 
 
 Ni får en branch (review-gX) som den som det är tänkt att ni jobbar emot, ni uppmanas till att förbättre dokumentation och evt kod. 
 
-Ni får också en pull request, denna kan ni använda till att kommunicera med gruppen, om ni har frågor till koden, dokumentationen eller hur sakar hänger ihop. Men vänta inte på ett svar ;)
+Ni får också en pull request (bör vara ett issue), denna kan ni använda till att kommunicera med gruppen, om ni har frågor till koden, dokumentationen eller hur sakar hänger ihop. Men vänta inte på ett svar ;)
 
-Presentaionen ska byggas upp runt dokumentations modellen C4:
+Presentaionen ska byggas upp runt dokumentations modellen C4, använd gärna [draw.io / diagrams.net](https://app.diagrams.net/):
 * Offical Homepage:[The C4 model for visualising software architecture](https://c4model.com/)
 * [The C4 Model for Software Architecture](https://www.infoq.com/articles/C4-architecture-model/)
 * Wikipedia: [C4 model](https://en.wikipedia.org/wiki/C4_model)
 * Video (35 min): [Visualising software architecture with the C4 model](https://www.youtube.com/watch?v=x2-rSnhpw0g)
-* [C4 Modelling plugin for draw.io](https://github.com/tobiashochguertel/c4-draw.io), tack till @MirkoPralica
+* [C4 Modelling plugin for draw.io](https://github.com/tobiashochguertel/c4-draw.io)
  
+Kom ihåg att präsentationen och dokumentation ni skaper ska delas med den grupp ni gör review av, det enklaste är att lägga det direkt i Confluence eller som ett commit i branchen (review-gX).
 
 Vem gör vad:
 * Grupp 1 genomgår och presentera Grupp 4, [branch (review-g1)](https://github.com/PGBSNH19/project-group-4-1/tree/review-g1a) och [pull request](https://github.com/PGBSNH19/project-group-4-1/pull/62)
