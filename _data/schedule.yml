@@ -400,38 +400,30 @@ weeks:
   - day: 2021-01-21
     weekday: "Torsdag"
     lectures:
-    - lecture: "Ask Almost Anything"
-      number: "A3"
-      slug: ../aaa/
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "TBA"
-      start-full: 20210121T083000
-      end-full: 20210121T093000
     - lecture: "Workshop 5"
       number: "W5"
       slug: ../workshops/workshop5
       filename: Untitled
       dirname: untitled-lecture
       description: "Projekt reflektion"
-      start-full: 20210121T093000
-      end-full: 20210121T150000
-    - lecture: "TBA"
+      start-full: 20210121T083000
+      end-full: 20210121T140000
+    - lecture: "Start på tenta"
       number: "T"
       slug: ../assignments/tenta
       filename: Untitled
       dirname: untitled-lecture
-      description: "TBA"
-      start-full: 20210121T150000
-      end-full: 20210121T160000
+      description: "Start på tenta"
+      start-full: 20210121T140000
+      end-full: 20210121T235900
   - day: 2021-01-22
     weekday: "Fredag"
     lectures:  
-    - lecture: "Salstenta"
+    - lecture: "Tenta"
       number: "T"
       slug: ../assignments/tenta
       filename: Untitled
       dirname: untitled-lecture
       description: "Salstanta"
-      start-full: 20210122T090000
+      start-full: 20210122T000001
       end-full: 20210122T130000
