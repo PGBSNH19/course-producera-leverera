@@ -16,7 +16,7 @@ Under dagen är det tanken att ni [refaktorera](../lectures/strategies#code-refa
 
 Ni får en branch (refactor-gX) som den som det är tänkt att ni jobbar emot. När ni är klara gör en pull request.
 
-Vem gör vad:
+Vem gör vad (samma som sist):
 * Grupp 1 refakturera Grupp 4
 * Grupp 2 refakturera Grupp 1
 * Grupp 3 refakturera Grupp 5
