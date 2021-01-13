@@ -26,3 +26,6 @@ Följande frågor har ställs tillsvidre:
         1. Kolla så att Directory finns
         1. Spara filen
         1. Skriva något till en databas
+* Container orchestration
+    * Kubernetes
+    * Docker swarm
