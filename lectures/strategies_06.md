@@ -70,7 +70,7 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 
 ## Practices
 * TDD
-    * [30 Days of TDD: Day One – What is TDD and Why Should I Use It?](https://www.telerik.com/blogs/30-days-tdd-day-one-what-is-tdd?_ga=2.75780637.985784397.1609777173-1684349873.1609777173)
+    * [30 Days of TDD: Day One – What is TDD and Why Should I Use It?](https://www.telerik.com/blogs/30-days-tdd-day-one-what-is-tdd)
 * DDD - Domain Driven Design
     * Wikipedia: [Domain-driven design](https://en.wikipedia.org/wiki/Domain-driven_design)
 * BDD
