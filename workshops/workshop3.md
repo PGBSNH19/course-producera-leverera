@@ -57,4 +57,4 @@ Boken: [31 Days of Refactoring - Useful refactoring techniques you have to know]
 ## Tools
 
 Man kan få hjälp från verktyg som StyleCop:
-* (https://github.com/DotNetAnalyzers/StyleCopAnalyzers)
+* <https://github.com/DotNetAnalyzers/StyleCopAnalyzers>
