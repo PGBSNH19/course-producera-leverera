@@ -27,6 +27,7 @@ Målet med denna lektion är en introduktion till olika strategier man kan när 
 * [Improving your coding skills through Code Katas](https://engineering.salesforce.com/improving-your-coding-skills-through-code-katas-5adda85da076) - [example](https://www.youtube.com/watch?v=vX-Yym7166Y)
 
 ## Code Refactoring
+* [31 Days of Refactoring](https://lostechies.com/seanchambers/2009/07/31/31-days-of-refactoring/)
 * [Code Refactoring — Definition, Best Practices](https://medium.com/@softwarebrothers/code-refactoring-definition-best-practices-software-brothers-blog-9cb677e922f6)
 * [Refactoring and Design Patterns](https://medium.com/pilar-2020/refactoring-and-design-patterns-77fac0c538eb)
 
