@@ -18,7 +18,7 @@ Al information om projektet finns i [Confluence](https://plushogskolan.atlassian
 * 2021-01-07 (Torsdag): P5 - Slut sprint 2
 * 2021-01-11 (Måndag): P6 - Start sprint 3
 * 2021-01-13 (Onsdag): P7 - Slut sprint 3
-* 2021-01-19: Redovisning av projekt
+* 2021-01-19: [Redovisning av projekt](https://plushogskolan.atlassian.net/wiki/spaces/TO/pages/75829245/Inf+r+redovisning+tisdagen+den+19+januari)
 
 Alla dagar under sprinten är där [daily standup]({{ "/lectures/standup" | prepend: site.baseurl }}).
 

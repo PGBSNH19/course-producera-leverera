@@ -380,7 +380,7 @@ weeks:
     lectures:
     - lecture: "Projekt redovisning"
       number: "X"
-      slug: standup
+      slug: ../assignments/project
       filename: Untitled
       dirname: untitled-lecture
       description: "1h per grupp"
