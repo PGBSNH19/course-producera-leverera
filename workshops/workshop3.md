@@ -1,10 +1,8 @@
 ---
 layout: page
-title: Workshop
+title: Refaktorera en annan grupps kod
 permalink: /workshops/workshop3
 ---
-
-Refactor
 
 **Torsdag den 14:e januari 2021**
 
