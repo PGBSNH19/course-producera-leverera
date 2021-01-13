@@ -326,12 +326,12 @@ weeks:
   - day: 2021-01-14
     weekday: "Torsdag"
     lectures:  
-    - lecture: "Produkt"
-      number: "L10"
-      slug: ../lectures/products
+    - lecture: "Säkerhet"
+      number: "L11"
+      slug: ../lectures/security
       filename: Untitled
       dirname: untitled-lecture
-      description: "Licenser, Open Source, Startup"
+      description: "Hur kan vi förbättre säkerheten i vår applikation?"
       start-full: 20210114T083000
       end-full: 20210114T093000
     - lecture: "Workshop 3"
@@ -351,16 +351,16 @@ weeks:
       filename: Untitled
       dirname: untitled-lecture
       description: "TBA"
-      start-full: 20210114T083000
-      end-full: 20210114T093000
-    - lecture: "Cyber Security"
-      number: "L11"
-      slug: ../lectures/security
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "Vad är cyber security och hur säker är en applikation?"
       start-full: 20210114T093000
       end-full: 20210114T103000
+    - lecture: "Produkt"
+      number: "L10"
+      slug: ../lectures/products
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "Licenser, Open Source, Startup"
+      start-full: 20210114T083000
+      end-full: 20210114T093000
     - lecture: "Workshop 4"
       number: "W4"
       slug: ../workshops/workshop4

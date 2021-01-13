@@ -4,7 +4,7 @@ title: Produkt
 permalink: /lectures/products
 ---
 
-Torsdag den 14:e januari 2021
+Fredag den 15:e januari 2021 kl 9:30
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 
@@ -20,22 +20,16 @@ Målet med denna lektion är... TBD
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
-* https://hackernoon.com/how-to-start-a-startup-incubator-from-the-founders-of-stanfords-cardinal-ventures-35697427960
-* TBD
-Licensmodeller
-Open source
-https://www.youtube.com/watch?time_continue=20&v=vTsc1m78BUk&feature=emb_logo
-Closed source
-
-https://ben.balter.com/2015/11/23/why-open-source/
-
-https://www.youtube.com/watch?v=wOb0ThditOo
-
-* [ContinuousDelivery](https://martinfowler.com/bliki/ContinuousDelivery.html)
-* [Continuous Delivery](https://continuousdelivery.com/)
-
-https://www.youtube.com/watch?v=24tQRwIRP_w
-
+* Startups
+    * [How to start a startup incubator](https://hackernoon.com/how-to-start-a-startup-incubator-from-the-founders-of-stanfords-cardinal-ventures-35697427960)
+* Licensmodeller
+    * Open source
+    * [Why open source](https://ben.balter.com/2015/11/23/why-open-source/)
+    * [What Comes After Open Source](https://www.youtube.com/watch?v=vTsc1m78BUk)
+    * Closed source
+* Framtiden:
+    * [Apps are dead... what's the next big thing?](https://www.youtube.com/watch?v=wOb0ThditOo)
+    * [Predicting the Future of the Web Development (2020 and 2025)](https://www.youtube.com/watch?v=24tQRwIRP_w)
 
 # Bakgrundsmaterial
 
