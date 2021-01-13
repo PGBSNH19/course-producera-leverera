@@ -9,6 +9,12 @@ Följande frågor har ställs tillsvidre:
     * Dependency injection, eller ej? 
     * Kod exempel
     * Kanske en modelclass för logik, en guiclass och sedan hur man sammanflätar detta på ett stabilt och bra sätt.
+* Single Responsibility Principen
+    * En metod ska göra en sak. Men vad är en sak (Det verkar vara lite delade åsikter i just detta) ? 
+    * Låt oss säga att du ska ladda upp en fil till en webserver. Då kanske du behöver:
+        1. Kolla så att Directory finns
+        1. Spara filen
+        1. Skriva något till en databas
 * Data access mellan razorpages alltså cshtml till cshtml.cs. Samt andra bas steg, som du anser skapar en god grund. 
     * Med kodexempel
 * Med CD så pratas det om att deploya mjukvara ofta. Vissa nämner även att man kan deploya så att användarna inte ens märker något. 
@@ -20,12 +26,6 @@ Följande frågor har ställs tillsvidre:
     * Blir det inte extremt mycket mer trafik via HTTP?
 * Tips på att hosta Container Images, Databaser, Storage billigt. 
     * (Detta har vi gått igenom men tycker fortfarande att det är svårt, speciellt när man betalar $0.00012 per CPU sekund eller dylikt)
-* Single Responsibility Principen
-    * En metod ska göra en sak. Men vad är en sak (Det verkar vara lite delade åsikter i just detta) ? 
-    * Låt oss säga att du ska ladda upp en fil till en webserver. Då kanske du behöver:
-        1. Kolla så att Directory finns
-        1. Spara filen
-        1. Skriva något till en databas
 * Container orchestration
     * Kubernetes
     * Docker swarm
