@@ -20,7 +20,7 @@ Vem gör vad (samma som sist):
 * Grupp 1 refakturera Grupp 4 - branch [refactor-g1](https://github.com/PGBSNH19/project-group-4-1/tree/refactor-g1) från *main*
 * Grupp 2 refakturera Grupp 1 - branch [refactor-g2](https://github.com/PGBSNH19/project-grupp-1-hotel/tree/refactor-g2) från *main*
 * Grupp 3 refakturera Grupp 5 - branch [refactor-g3](https://github.com/PGBSNH19/project-grupp-5-1/tree/refactor-g3) från *main*
-* Grupp 4 refakturera Grupp 3 - branch [refactor-g4](https://github.com/PGBSNH19/course-producera-leverera/tree/refactor-g4) från *main*
+* Grupp 4 refakturera Grupp 3 - branch [refactor-g4](https://github.com/PGBSNH19/project-los-gringos/tree/refactor-g4) från *main*
 * Grupp 5 refakturera Grupp 2 - branch [refactor-g5](https://github.com/PGBSNH19/project-g2/tree/refactor-g5) från *main*
 
 Hur kommer ni på gång:
