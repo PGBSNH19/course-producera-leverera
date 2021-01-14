@@ -37,8 +37,9 @@ Målet med denna lektion är titta på olika typer av licensmodeller och riskar 
 </details>
 
 # Bonusmaterial
-<summary>Detta är extra material</summary>
 <details markdown="1">
+<summary>Detta är extra material</summary>
+
 * Startups
     * [Types of IT companies or Software Companies](https://www.campusplusplus.com/types-of-it-companies/)
     * [How to start a startup? Make a business step-by-step](https://lanars.com/blog/how-to-start-a-startup-make-a-business-step-by-step)
