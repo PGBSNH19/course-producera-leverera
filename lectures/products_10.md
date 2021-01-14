@@ -6,16 +6,7 @@ permalink: /lectures/products
 
 Fredag den 15:e januari 2021 kl 8:30
 
-![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
-
-**Draft status**:
-
-* Lektionsteori: 0% klar
-* Bakgrunds litteratur: 0% klar
-
-Målet med denna lektion är... TBD
-
-
+Målet med denna lektion är titta på olika typer av licensmodeller och riskar i ett projekt.
 
 # Lektionsteori
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
@@ -49,5 +40,5 @@ Målet med denna lektion är... TBD
     * [How to start a startup incubator](https://hackernoon.com/how-to-start-a-startup-incubator-from-the-founders-of-stanfords-cardinal-ventures-35697427960)
     * [What is Entrepreneurship?](https://startupsusa.org/what-is-entrepreneurship/)
 * Licensmodeller
-
+* [An introduction to innersource](https://resources.github.com/whitepapers/introduction-to-innersource/)
 </details>
