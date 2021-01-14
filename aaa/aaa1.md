@@ -13,6 +13,8 @@ Fredag den 15:e januari 2021 kl 9:30
     * Artikel (9 min), wikipedia: [Conway's law](https://en.wikipedia.org/wiki/Conway%27s_law)
     * Artikel (5 min): [What is a Monolith?](http://www.codingthearchitecture.com/2014/11/19/what_is_a_monolith.html)
     * Artikel (6 min): [How to best use Azure DevOps release pipelines with microservices?](https://abelsquidhead.com/index.php/2019/01/03/how-to-best-use-azure-devops-release-pipelines-with-microservices/)
-* CD
+* Continious Deployment
     * [BlueGreenDeployment](https://www.martinfowler.com/bliki/BlueGreenDeployment.html)
     * [Using Blue-Green Deployment to Reduce Downtime and Risk ](https://docs.cloudfoundry.org/devguide/deploy-apps/blue-green.html)
+    * [Rolling Deployment: What This Is and How it De-Risks Software Deploys](https://rollout.io/blog/rolling-deployment/)
+    * [The ultimate guide to rolling deployments](https://octopus.com/blog/ultimate-guide-to-rolling-deployments)
