@@ -4,7 +4,7 @@ title: Produkt
 permalink: /lectures/products
 ---
 
-Fredag den 15:e januari 2021 kl 9:30
+Fredag den 15:e januari 2021 kl 8:30
 
 ![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
 

@@ -345,14 +345,6 @@ weeks:
   - day: 2021-01-15
     weekday: "Fredag"
     lectures:  
-    - lecture: "Ask Almost Anything"
-      number: "A1"
-      slug: ../aaa/
-      filename: Untitled
-      dirname: untitled-lecture
-      description: "TBA"
-      start-full: 20210114T093000
-      end-full: 20210114T103000
     - lecture: "Produkt"
       number: "L10"
       slug: ../lectures/products
@@ -361,13 +353,21 @@ weeks:
       description: "Licenser, Open Source, Startup"
       start-full: 20210114T083000
       end-full: 20210114T093000
+    - lecture: "Ask Almost Anything"
+      number: "A1"
+      slug: ../aaa/1/
+      filename: Untitled
+      dirname: untitled-lecture
+      description: "TBA"
+      start-full: 20210114T093000
+      end-full: 20210114T103000
     - lecture: "Workshop 4"
       number: "W4"
       slug: ../workshops/workshop4
       filename: Untitled
       dirname: untitled-lecture
       description: "Scaling and säkerhet"
-      start-full: 20210115T093000
+      start-full: 20210115T103000
       end-full: 20210115T150000
 - week: 03
   year: 2021
@@ -391,7 +391,7 @@ weeks:
     lectures:  
     - lecture: "Ask Almost Anything"
       number: "A2"
-      slug: ../aaa/
+      slug: ../aaa/2/
       filename: Untitled
       dirname: untitled-lecture
       description: "TBA"
