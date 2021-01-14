@@ -17,11 +17,11 @@ Under dagen är det tanken att ni [refaktorera](../lectures/strategies#code-refa
 Ni får en branch (refactor-gX) som den som det är tänkt att ni jobbar emot. När ni är klara gör en pull request.
 
 Vem gör vad (samma som sist):
-* Grupp 1 refakturera Grupp 4
-* Grupp 2 refakturera Grupp 1
-* Grupp 3 refakturera Grupp 5
-* Grupp 4 refakturera Grupp 3
-* Grupp 5 refakturera Grupp 2
+* Grupp 1 refakturera Grupp 4 - branch [refactor-g1](https://github.com/PGBSNH19/project-group-4-1/tree/refactor-g1) från *main*
+* Grupp 2 refakturera Grupp 1 - branch [refactor-g2](https://github.com/PGBSNH19/project-grupp-1-hotel/tree/refactor-g2) från *main*
+* Grupp 3 refakturera Grupp 5 - branch [refactor-g3](https://github.com/PGBSNH19/project-grupp-5-1/tree/refactor-g3) från *main*
+* Grupp 4 refakturera Grupp 3 - branch [refactor-g4](https://github.com/PGBSNH19/course-producera-leverera/tree/refactor-g4) från *main*
+* Grupp 5 refakturera Grupp 2 - branch [refactor-g5](https://github.com/PGBSNH19/project-g2/tree/refactor-g5) från *main*
 
 Hur kommer ni på gång:
 1. Pull koden till eran lokala dator
