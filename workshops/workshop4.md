@@ -22,6 +22,7 @@ Förslag till sakar att fundera på:
 * Branching
 * Deployment strategi
 * Moln leverantör
+* UX
 
 Vem gör vad (samma som sist) kl 14:00:
 * Grupp 1 titter på och kommentera [Grupp 4](https://github.com/PGBSNH19/project-group-4-1/issues/84) issue om arktitur ändrings förslag
