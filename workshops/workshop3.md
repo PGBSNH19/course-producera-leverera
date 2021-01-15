@@ -35,6 +35,10 @@ Hur kommer ni på gång:
     * Ställen vart man enkelt kunna lägga till enhetstestar
         * Det är såklart tillåten att implementera enhetstestar
 
+Om ni går är "klara":
+* Försätt med andra delar av applikationen (web, javascript)
+* Försätt med alla dagar (8 till 31)
+
 ## 31 Days of Refactoring
 
 Full blogg serie: [31 Days of Refactoring](https://lostechies.com/seanchambers/2009/07/31/31-days-of-refactoring/)

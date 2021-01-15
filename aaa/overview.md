@@ -5,11 +5,11 @@ permalink: /aaa/
 ---
 
 Följande frågor har ställs tillsvidre:
-* Design pattern för console applikationer. Alltså separerea gui med logic/model. 
+* [Design pattern](2/) för console applikationer. Alltså separerea gui med logic/model. 
     * Dependency injection, eller ej? 
     * Kod exempel
     * Kanske en modelclass för logik, en guiclass och sedan hur man sammanflätar detta på ett stabilt och bra sätt.
-* Single Responsibility Principen
+* [Single Responsibility Principen](2/)
     * En metod ska göra en sak. Men vad är en sak (Det verkar vara lite delade åsikter i just detta) ? 
     * Låt oss säga att du ska ladda upp en fil till en webserver. Då kanske du behöver:
         1. Kolla så att Directory finns
@@ -17,7 +17,7 @@ Följande frågor har ställs tillsvidre:
         1. Skriva något till en databas
 * Data access mellan razorpages alltså cshtml till cshtml.cs. Samt andra bas steg, som du anser skapar en god grund. 
     * Med kodexempel
-* Med CD så pratas det om att deploya mjukvara ofta. Vissa nämner även att man kan deploya så att användarna inte ens märker något. 
+* Med [Contitius Deployment](1/) så pratas det om att deploya mjukvara ofta. Vissa nämner även att man kan deploya så att användarna inte ens märker något. 
     * Är det något speciellt som man behöver göra då eller är det bara att en push kan gå så snabbt så i värsta fall får användaren ett error men klickar igen på länken så funkar det.
 * [Microservices](1/)
     * Hur funkar det? 
@@ -26,6 +26,8 @@ Följande frågor har ställs tillsvidre:
     * Blir det inte extremt mycket mer trafik via HTTP?
 * Tips på att hosta Container Images, Databaser, Storage billigt. 
     * (Detta har vi gått igenom men tycker fortfarande att det är svårt, speciellt när man betalar $0.00012 per CPU sekund eller dylikt)
-* Container orchestration
+* [Container orchestration](2/)
     * Kubernetes
     * Docker swarm
+* [PWA](2/)
+    * Offline
