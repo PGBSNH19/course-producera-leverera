@@ -25,8 +25,8 @@ Förslag till sakar att fundera på:
 
 Vem gör vad (samma som sist) kl 14:00:
 * Grupp 1 titter på och kommentera [Grupp 4](https://github.com/PGBSNH19/project-group-4-1/issues/84) issue om arktitur ändrings förslag
-* Grupp 2 titter på och kommentera Grupp 1 issue om arktitur ändrings förslag
-* Grupp 3 titter på och kommentera Grupp 5 issue om arktitur ändrings förslag
-* Grupp 4 titter på och kommentera Grupp 3 issue om arktitur ändrings förslag
-* Grupp 5 titter på och kommentera Grupp 2 issue om arktitur ändrings förslag
+* Grupp 2 titter på och kommentera [Grupp 1](https://github.com/PGBSNH19/project-grupp-1-hotel/issues/103) issue om arktitur ändrings förslag
+* Grupp 3 titter på och kommentera [Grupp 5](https://github.com/PGBSNH19/project-grupp-5-1/issues/124) issue om arktitur ändrings förslag
+* Grupp 4 titter på och kommentera [Grupp 3](https://github.com/PGBSNH19/project-los-gringos/issues/71) issue om arktitur ändrings förslag
+* Grupp 5 titter på och kommentera [Grupp 2](https://github.com/PGBSNH19/project-g2/issues/117) issue om arktitur ändrings förslag
 
