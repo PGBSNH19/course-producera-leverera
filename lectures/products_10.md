@@ -16,8 +16,10 @@ Målet med denna lektion är titta på olika typer av licensmodeller och riskar 
    * [Software Licensing - Types of licenses](https://sites.google.com/site/cupbsoftwarelicensing/types-of-licenses)
    * [Why open source](https://ben.balter.com/2015/11/23/why-open-source/)
    * [An introduction to innersource](https://resources.github.com/whitepapers/introduction-to-innersource/)
+    * Open Source
+        * [Open Source Initiative](https://opensource.org/)
+        * [Choose an open source license](https://choosealicense.com/)
 * Riskar
-    * [Types of Risks in Software Projects](https://www.softwaretestinghelp.com/types-of-risks-in-software-projects/)
     * [The Top Five Software Project Risks](https://www.projectsmart.co.uk/top-five-software-project-risks.php)
 
 # Bakgrundsmaterial
@@ -33,13 +35,15 @@ Målet med denna lektion är titta på olika typer av licensmodeller och riskar 
 * Licensmodeller
    * [Facebook buckles under pressure over hated React license](https://www.infoworld.com/article/3227928/facebook-buckles-under-pressure-over-hated-react-license.html)
    * [What Comes After Open Source](https://www.youtube.com/watch?v=vTsc1m78BUk)
-   
+* Riskar
+    * [Types of Risks in Software Projects](https://www.softwaretestinghelp.com/types-of-risks-in-software-projects/)
 </details>
 
 # Bonusmaterial
 <details markdown="1">
 <summary>Detta är extra material</summary>
 
+*Ämnen som jag inte riktigt har hittat ett bra ställen ott stoppa in*
 * Startups
     * [Types of IT companies or Software Companies](https://www.campusplusplus.com/types-of-it-companies/)
     * [How to start a startup? Make a business step-by-step](https://lanars.com/blog/how-to-start-a-startup-make-a-business-step-by-step)
