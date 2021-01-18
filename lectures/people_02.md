@@ -12,8 +12,9 @@ Målet med denna lektion är att ge en introduktion till varför att personerna 
 *Detta är material (artiklar, videoer, blogs, podcasts etc) som är den teoretiska bas för denna lektion, det antas att du har läst/set/lystnad detta innan lektionen starter.*
 
 ## Team
+* [Maximizing Developer Effectiveness](https://martinfowler.com/articles/developer-effectiveness.html)
 * [The 7 Types of Software Developers You’ll (Probably) Work With Someday](https://www.7pace.com/blog/the-7-types-of-software-developers-youll-probably-work-with-someday)
-* [Integrative Model of Group Development (IMGD) ](https://www.youtube.com/watch?v=m442VHaJsL0)
+* [Integrative Model of Group Development (IMGD)](https://www.youtube.com/watch?v=m442VHaJsL0)
 
 
 ## Fysika ramer
