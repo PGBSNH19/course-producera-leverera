@@ -13,11 +13,13 @@ Onsdag den 20:e januari 2021 kl 8:30
     * Video: [PWA's with Blazor](https://www.youtube.com/watch?v=68pTZV5qcgE)
     * Video List: [PWA Tutorial for Beginners](https://www.youtube.com/watch?v=4XT23X0Fjfk&list=PL4cUxeGkcC9gTxqJBcDmoi5Q2pzDusSL7), 31 videos
     * Artikel serie, Make Your PWA Work Offline:
-        * [Part 1—Static Files Guide](https://www.monterail.com/blog/pwa-working-offline)
+        * [Part 1 - Static Files Guide](https://www.monterail.com/blog/pwa-working-offline)
         * [Part 2 - Dynamic Data](https://www.monterail.com/blog/pwa-offline-dynamic-data)
     * Artikel serie: [5 Service Worker Caching Strategies for Your Next PWA App](https://blog.bitsrc.io/5-service-worker-caching-strategies-for-your-next-pwa-app-58539f156f52)
 * Container orchestration
-    * Video: [Kubernetes and Container Orchestration 101](https://www.youtube.com/watch?v=3RTvoI-A7UQ)
+    * Video: [Kubernetes and Container Orchestration 101](https://www.youtube.com/watch?v=3RTvoI-A7UQ) (11)
+        * Video: [Containers? So What? Docker 101 Explained](https://www.youtube.com/watch?v=0oEsMwSxBsk) (8)
+        * Video: [What is the Cloud? Soft and Fluffy Edition](https://www.youtube.com/watch?v=BO6jvQ88ICQ) (10)
     * Artikel: [Azure Container Orchestration 101: Azure Web Apps vs ACI vs AKS](https://www.dragonspears.com/blog/azure-container-orchestration-101-azure-web-apps-vs-aci-vs-aks)
     * Artikel: [What Is Container Orchestration?](https://blog.newrelic.com/engineering/container-orchestration-explained/)
 * Console applikationer
