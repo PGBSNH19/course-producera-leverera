@@ -46,6 +46,8 @@ Lunch 12:00 till 13:00
 * [Why Software Estimation Is More Important Now Than Ever](https://www.infoq.com/articles/software-estimation-important/)
 * [5 Steps to Software Development Effort Estimation](https://melsatar.blog/2018/01/15/5-steps-to-software-development-effort-estimation/)
 * [The Best Way to Establish a Baseline When Playing Planning Poker ](https://www.mountaingoatsoftware.com/blog/the-best-way-to-establish-a-baseline-when-playing-planning-poker)
+* [Ideal Engineering Hour/Day](https://scrumdictionary.com/term/ideal-engineering-hourday/)
+  * [Ideal Hours](https://www.solutionsiq.com/agile-glossary/ideal-hours/)
 
 # Bakgrundsmaterial
 
