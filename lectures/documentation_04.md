@@ -6,13 +6,6 @@ permalink: /lectures/documentation
 
 Måndag den 28:e december 2020, kl  8:30
 
-![Draft]({{ "/_images/draft.png" | prepend: site.baseurl }})
-
-**Draft status**:
-
-* Lektionsteori: 60% klar
-* Bakgrunds litteratur: 40% klar
-
 Målet med denna lektion är att få ett inblik i olika typ av dokumentation som man kan göra som utvecklare.
 
 

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Cyber security
+title: Säkerhet
 permalink: /lectures/security
 ---
 
